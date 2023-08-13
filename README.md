@@ -18,3 +18,5 @@ Las siguientes carpetas se crearán automáticamente:
  csv-depurado
  depurado-Sin_nulos
 ```
+
+**debes crear una BD en blanco llamada: ProyectoGrupo2Depurado**
