@@ -33,6 +33,12 @@ csv-depurado
 depurado-Sin_nulos
 ```
 
+Recuerda instalar lo siguiente:
+
+```
+pip install pyodbc
+```
+
 **debes crear una BD en blanco llamada: ProyectoGrupo2Depurado**
 
 **El archivo .bak original está incluido en este repositorio.**
