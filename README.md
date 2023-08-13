@@ -3,10 +3,10 @@
 ### Integrantes:
 
 Esquivel Luis
-Montoya Uveda María
-Navarro Chaves María José
-Orozco Rojas Bryan
-Vargas Vásquez Kennia
+Montoya Uveda María,
+Navarro Chaves María José,
+Orozco Rojas Bryan,
+Vargas Vásquez Kennia,
 
 ### Profesor:
 
@@ -40,7 +40,3 @@ depurado-Sin_nulos
 **debes crear una BD en blanco llamada: ProyectoGrupo2Depurado**
 
 **El archivo .bak original está incluido en este repositorio.**
-
-```
-
-```
