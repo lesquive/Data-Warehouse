@@ -2,11 +2,11 @@
 
 ### Integrantes:
 
-Esquivel Luis
-Montoya Uveda María
-Navarro Chaves María José
-Orozco Rojas Bryan
-Vargas Vásquez Kennia
+-Esquivel Luis <br />
+-Montoya Uveda María <br />
+-Navarro Chaves María José <br />
+-Orozco Rojas Bryan <br />
+-Vargas Vásquez Kennia <br />
 
 ### Profesor:
 
