@@ -4,7 +4,7 @@ import csv
 
 # Set up the connection parameters for the new database
 new_db_server ='LAPTOP-6MKQR2UG\SQLEXPRESS'
-new_db_name = 'ProyectoGrupo2Clean'
+new_db_name = 'ProyectoGrupo2Depurado'
 new_db_connection_string = f"Driver={{SQL Server}};Server={new_db_server};Database={new_db_name};Trusted_Connection=yes;"
 
 def create_table(cursor, table_name, column_names):
@@ -27,7 +27,7 @@ def process_csv_file(file_path, cursor, table_name):
             insert_row(cursor, table_name, row)
 
 if __name__ == "__main__":
-    no_nulls_csv_folder = 'no_nulls_csv'  # Replace with the path to your no_nulls_csv folder
+    no_nulls_csv_folder = 'depurado-Sin_nulos'  # Replace with the path to your no_nulls_csv folder
 
     try:
         # Establish the connection to the new database

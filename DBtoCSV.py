@@ -8,7 +8,7 @@ database = 'ProyectoGrupo2'
 connection_string = f"Driver={{SQL Server}};Server={server};Database={database};Trusted_Connection=yes;"
 
 # Output directory for CSV files
-output_directory = 'output_csv'
+output_directory = 'DB-a-csv'
 os.makedirs(output_directory, exist_ok=True)
 
 try:

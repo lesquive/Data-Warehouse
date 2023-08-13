@@ -1,0 +1,1001 @@
+IdHotel,NombreHotel,Direccion,NumeroTelefono,CorreoElectronico,SitioWeb,Descripcion,ClasificacionEstrellas,Provincia,Ciudad,Ubicacion,CostoNoche
+21,Hotel I,033,428-613-9172,tbirk0@artisteer.com,www\.x+\.com,Cozy boutique hotel,3,Cartago,La Fortuna,ciudad,310.00
+22,Hotel NN,739,593-344-4790,vscholtis1@mozilla.com,www\.7+\.com,Historic downtown hotel,5,Guanacaste,La Fortuna,ciudad,317.00
+23,Hotel JJ,6738,804-992-9237,eties2@odnoklassniki.ru,www\.T+\.com,Luxurious beachfront resort,2,Guanacaste,Bella Vista,ciudad,460.00
+24,Hotel WW,60104,347-255-5185,bpayler3@sohu.com,www\.p+\.com,Historic downtown hotel,1,Cartago,Bella Vista,ciudad,215.00
+25,Hotel L,7,199-695-6096,jbottomore4@japanpost.jp,www\.q+\.com,Modern city center hotel,1,Limon,Liberia,ciudad,303.00
+26,Hotel PP,8,565-490-2198,tohagerty5@squidoo.com,www\.9+\.com,Modern city center hotel,1,Guanacaste,Tamarindo,ciudad,746.00
+27,Hotel V,0,570-649-8108,tsaile6@blogspot.com,www\.H+\.com,Charming countryside inn,5,Alajuela,Liberia,ciudad,116.00
+28,Hotel Z,8363,448-438-7959,rwalshaw7@icio.us,www\.W+\.com,Cozy boutique hotel,3,Limon,Liberia,ciudad,181.00
+29,Hotel D,31,714-225-4610,abestwerthick8@pen.io,www\.v+\.com,Cozy boutique hotel,1,Alajuela,Bella Vista,ciudad,168.00
+30,Hotel P,984,677-208-3748,madamini9@goodreads.com,www\.2+\.com,Cozy boutique hotel,1,Limon,Manuel Antonio,ciudad,163.00
+31,Hotel R,48,992-247-0343,mtirrella@free.fr,www\.3+\.com,Modern city center hotel,1,Alajuela,Liberia,ciudad,198.00
+32,Hotel X,2,568-557-4109,osimkab@cdbaby.com,www\.M+\.com,Luxurious beachfront resort,4,Limon,Bella Vista,ciudad,343.00
+33,Hotel UUU,3713,321-695-0209,ctrudgianc@marriott.com,www\.4+\.com,Cozy boutique hotel,3,Alajuela,Bella Vista,ciudad,345.00
+34,Hotel PP,2629,812-159-1512,mvedekhovd@edublogs.org,www\.N+\.com,Luxurious beachfront resort,0,Alajuela,Tamarindo,ciudad,513.00
+35,Hotel M,684,978-161-9296,jhammelle@pagesperso-orange.fr,www\.0+\.com,Cozy boutique hotel,4,Puntarenas,Manuel Antonio,ciudad,126.00
+36,Hotel WW,19,963-935-3390,bcastanagaf@yellowbook.com,www\.L+\.com,Cozy boutique hotel,1,San Jose,Manuel Antonio,ciudad,389.00
+37,Hotel TT,8395,430-452-4545,gsoulsbyg@tiny.cc,www\.b+\.com,Luxurious beachfront resort,1,Cartago,La Fortuna,ciudad,226.00
+38,Hotel EE,977,848-408-9750,rleckenbyh@ask.com,www\.2+\.com,Modern city center hotel,5,Alajuela,La Fortuna,ciudad,928.00
+39,Hotel EE,0,293-459-0199,ttenbrugi@salon.com,www\.d+\.com,Modern city center hotel,1,Guanacaste,Tamarindo,ciudad,154.00
+40,Hotel WWW,662,282-504-8081,rsmewingsj@ycombinator.com,www\.y+\.com,Luxurious beachfront resort,1,Heredia,Tamarindo,ciudad,744.00
+41,Hotel K,80809,698-573-9485,jengehamk@senate.gov,www\.8+\.com,Charming countryside inn,3,Guanacaste,Liberia,ciudad,697.00
+42,Hotel VV,02903,943-385-8076,srandalsl@nymag.com,www\.S+\.com,Charming countryside inn,1,Guanacaste,La Fortuna,ciudad,115.00
+43,Hotel RRR,11,586-738-9176,jcortesem@omniture.com,www\.6+\.com,Charming countryside inn,5,Alajuela,Manuel Antonio,ciudad,510.00
+44,Hotel XXX,90,997-126-1635,dvamplersn@squarespace.com,www\.R+\.com,Luxurious beachfront resort,5,Alajuela,Manuel Antonio,ciudad,627.00
+45,Hotel III,68293,653-275-7253,egiorgiettoo@bluehost.com,www\.5+\.com,Charming countryside inn,4,San Jose,La Fortuna,ciudad,222.00
+46,Hotel OOO,32492,817-725-5489,hbouttonp@cdbaby.com,www\.5+\.com,Luxurious beachfront resort,5,Guanacaste,Bella Vista,ciudad,544.00
+47,Hotel UU,8,910-266-6105,lbeddoq@discovery.com,www\.x+\.com,Modern city center hotel,2,San Jose,Tamarindo,ciudad,900.00
+48,Hotel JJ,0631,603-129-8258,jgerrelsr@umn.edu,www\.y+\.com,Modern city center hotel,5,San Jose,La Fortuna,ciudad,164.00
+49,Hotel TT,17590,,hkramers@shop-pro.jp,www\.O+\.com,Cozy boutique hotel,2,Limon,Bella Vista,ciudad,106.00
+50,Hotel E,7,367-990-7573,dgiacaponit@indiegogo.com,www\.F+\.com,Luxurious beachfront resort,1,San Jose,Manuel Antonio,ciudad,201.00
+51,Hotel VVV,638,803-971-7072,apriestleyu@baidu.com,www\.9+\.com,Historic downtown hotel,1,Puntarenas,Tamarindo,ciudad,741.00
+52,Hotel YY,85,969-763-0433,twimbridgev@imgur.com,www\.C+\.com,Historic downtown hotel,4,San Jose,Bella Vista,ciudad,767.00
+53,Hotel A,6240,823-659-1006,hrosendallw@reverbnation.com,www\.7+\.com,Modern city center hotel,4,Heredia,Manuel Antonio,ciudad,116.00
+54,Hotel HH,76625,239-771-5826,gthickpennyx@imdb.com,www\.2+\.com,Luxurious beachfront resort,4,Limon,Bella Vista,ciudad,883.00
+55,Hotel TTT,1,637-208-3045,bonearyy@mashable.com,www\.3+\.com,Historic downtown hotel,5,Guanacaste,Bella Vista,ciudad,159.00
+56,Hotel A,19,440-377-4324,eprattez@sina.com.cn,www\.5+\.com,Historic downtown hotel,1,Heredia,Liberia,ciudad,691.00
+57,Hotel QQQ,92971,784-843-1962,mpriddey10@rediff.com,www\.L+\.com,Historic downtown hotel,5,Limon,La Fortuna,ciudad,822.00
+58,Hotel HH,6391,572-390-7678,bcash11@disqus.com,www\.e+\.com,Historic downtown hotel,3,Guanacaste,Tamarindo,ciudad,435.00
+59,Hotel HH,2538,888-132-2833,bbazoche12@sciencedaily.com,www\.W+\.com,Luxurious beachfront resort,4,Alajuela,Tamarindo,ciudad,832.00
+60,Hotel ZZZ,18610,163-402-5368,ggantzman13@theatlantic.com,www\.V+\.com,Modern city center hotel,5,San Jose,La Fortuna,ciudad,741.00
+61,Hotel J,435,294-896-1664,dcumbers14@seesaa.net,www\.m+\.com,Historic downtown hotel,5,Heredia,Bella Vista,ciudad,549.00
+62,Hotel Y,1,262-702-7090,rmccarrick15@hugedomains.com,www\.X+\.com,Charming countryside inn,5,Puntarenas,La Fortuna,ciudad,206.00
+63,Hotel TTT,599,466-736-0148,jroyds16@ezinearticles.com,www\.f+\.com,Charming countryside inn,3,San Jose,Tamarindo,ciudad,354.00
+64,Hotel CCC,83914,950-360-2458,jcampione17@gov.uk,www\.H+\.com,Cozy boutique hotel,5,Puntarenas,Manuel Antonio,ciudad,229.00
+65,Hotel M,2,985-541-9412,rbutts18@rediff.com,www\.h+\.com,Historic downtown hotel,1,San Jose,Bella Vista,ciudad,897.00
+66,Hotel P,08745,345-711-5715,canear19@shutterfly.com,www\.7+\.com,Charming countryside inn,5,Cartago,Bella Vista,ciudad,844.00
+67,Hotel X,8,861-825-3857,hwoodson1a@cmu.edu,www\.O+\.com,Cozy boutique hotel,1,San Jose,Manuel Antonio,ciudad,449.00
+68,Hotel AA,00,955-634-9494,cbosher1b@globo.com,www\.e+\.com,Luxurious beachfront resort,1,Cartago,Tamarindo,ciudad,499.00
+69,Hotel XXX,25414,570-455-7809,bfanstone1c@so-net.ne.jp,www\.5+\.com,Modern city center hotel,1,Puntarenas,Bella Vista,ciudad,510.00
+70,Hotel G,988,878-302-2640,grosbotham1d@princeton.edu,www\.6+\.com,Cozy boutique hotel,5,Puntarenas,Bella Vista,ciudad,789.00
+71,Hotel CCC,9,859-793-1975,bbruyett1e@cbc.ca,www\.s+\.com,Charming countryside inn,1,Limon,Bella Vista,ciudad,825.00
+72,Hotel KKK,1,789-567-0575,pbowring1f@ehow.com,www\.t+\.com,Charming countryside inn,4,Limon,La Fortuna,ciudad,550.00
+73,Hotel M,59,393-960-9342,egregory1g@ucsd.edu,www\.w+\.com,Historic downtown hotel,4,Limon,Tamarindo,ciudad,540.00
+74,Hotel L,939,213-293-6520,vfarndon1h@163.com,www\.q+\.com,Charming countryside inn,2,Alajuela,La Fortuna,ciudad,945.00
+75,Hotel SS,952,425-198-7456,dlabrone1i@google.ca,www\.l+\.com,Modern city center hotel,5,Puntarenas,La Fortuna,ciudad,984.00
+76,Hotel AAA,65,871-119-4144,sskillington1j@behance.net,www\.b+\.com,Modern city center hotel,4,Guanacaste,Tamarindo,ciudad,303.00
+77,Hotel GG,87,480-976-3885,djzhakov1k@virginia.edu,www\.C+\.com,Historic downtown hotel,2,Guanacaste,Liberia,ciudad,513.00
+78,Hotel KK,767,868-100-4232,hrainbow1l@over-blog.com,www\.u+\.com,Luxurious beachfront resort,0,San Jose,Liberia,ciudad,219.00
+79,Hotel PP,955,253-905-1500,aharner1m@nba.com,www\.1+\.com,Luxurious beachfront resort,4,Limon,Liberia,ciudad,817.00
+80,Hotel MM,98,,ahowsin1n@who.int,www\.N+\.com,Modern city center hotel,4,Alajuela,Manuel Antonio,ciudad,772.00
+81,Hotel MMM,69612,710-698-3814,olinner1o@t.co,www\.G+\.com,Cozy boutique hotel,5,Alajuela,Tamarindo,ciudad,928.00
+82,Hotel LLL,086,425-387-4653,kbarclay1p@wisc.edu,www\.F+\.com,Cozy boutique hotel,1,Heredia,Tamarindo,ciudad,900.00
+83,Hotel YYY,2,405-352-0077,ddeluce1q@howstuffworks.com,www\.I+\.com,Historic downtown hotel,3,Alajuela,Bella Vista,ciudad,689.00
+84,Hotel C,1662,626-481-0411,jsnodden1r@who.int,www\.M+\.com,Charming countryside inn,2,Heredia,Bella Vista,ciudad,336.00
+85,Hotel GGG,59,902-171-3846,ablois1s@ehow.com,www\.1+\.com,Charming countryside inn,1,Limon,La Fortuna,ciudad,807.00
+86,Hotel O,93,123-385-8601,mpaynes1t@seattletimes.com,www\.W+\.com,Charming countryside inn,4,Guanacaste,Liberia,ciudad,882.00
+87,Hotel W,6975,921-901-6966,ypawden1u@walmart.com,www\.m+\.com,Luxurious beachfront resort,4,Puntarenas,Bella Vista,ciudad,663.00
+88,Hotel CCC,5,683-314-0508,alillegard1v@archive.org,www\.n+\.com,Cozy boutique hotel,2,Cartago,Bella Vista,ciudad,157.00
+89,Hotel AAA,4,920-194-5470,ibratchell1w@wisc.edu,www\.g+\.com,Luxurious beachfront resort,4,Limon,Liberia,ciudad,308.00
+90,Hotel QQ,763,875-477-9345,acowherd1x@cdbaby.com,www\.t+\.com,Charming countryside inn,1,Limon,Manuel Antonio,ciudad,832.00
+91,Hotel III,471,360-243-4866,erisely1y@google.es,www\.X+\.com,Historic downtown hotel,4,Limon,Tamarindo,ciudad,987.00
+92,Hotel Q,98866,138-210-1467,sjoust1z@blogtalkradio.com,www\.6+\.com,Luxurious beachfront resort,4,Guanacaste,Liberia,ciudad,660.00
+93,Hotel UU,20463,245-805-9777,jthreadgill20@independent.co.uk,www\.c+\.com,Historic downtown hotel,0,Cartago,Tamarindo,ciudad,941.00
+94,Hotel YYY,79333,772-794-5936,bfellow21@adobe.com,www\.U+\.com,Charming countryside inn,4,Puntarenas,Tamarindo,ciudad,269.00
+95,Hotel ZZ,4,839-532-6223,fgaize22@gov.uk,www\.4+\.com,Historic downtown hotel,5,Heredia,La Fortuna,ciudad,975.00
+96,Hotel LL,23,902-245-5970,bpre23@unesco.org,www\.p+\.com,Charming countryside inn,2,Puntarenas,Bella Vista,ciudad,300.00
+97,Hotel S,9561,636-771-9918,sbaish24@51.la,www\.n+\.com,Luxurious beachfront resort,5,Puntarenas,La Fortuna,playa,469.00
+98,Hotel CC,43,141-123-7255,aespinosa25@google.co.jp,www\.0+\.com,Charming countryside inn,3,Limon,Bella Vista,montana,664.00
+99,Hotel VV,07920,573-137-2887,gavramovitz26@cbc.ca,www\.D+\.com,Luxurious beachfront resort,5,Puntarenas,Bella Vista,playa,639.00
+100,Hotel C,8,294-508-8737,mplacide27@nytimes.com,www\.T+\.com,Modern city center hotel,2,Puntarenas,Tamarindo,playa,897.00
+101,Hotel HHH,35386,674-527-3747,rrestorick28@gmpg.org,www\.n+\.com,Luxurious beachfront resort,2,Alajuela,Liberia,playa,750.00
+102,Hotel Q,7768,954-764-9972,tdullingham29@mit.edu,www\.y+\.com,Modern city center hotel,5,Heredia,La Fortuna,montana,812.00
+103,Hotel JJ,01,708-414-3191,tdonavan2a@godaddy.com,www\.D+\.com,Luxurious beachfront resort,4,Heredia,Bella Vista,playa,173.00
+104,Hotel C,95857,499-679-6953,idrejer2b@indiatimes.com,www\.V+\.com,Historic downtown hotel,1,Puntarenas,La Fortuna,playa,402.00
+105,Hotel BBB,02727,475-358-8839,dwemes2c@huffingtonpost.com,www\.d+\.com,Luxurious beachfront resort,3,Guanacaste,Tamarindo,montana,883.00
+106,Hotel J,33,410-236-2805,lattrill2d@archive.org,www\.2+\.com,Modern city center hotel,1,Cartago,Manuel Antonio,montana,383.00
+107,Hotel SS,50,836-119-1131,ahadley2e@ox.ac.uk,www\.m+\.com,Historic downtown hotel,3,Guanacaste,Liberia,montana,629.00
+108,Hotel TT,7,184-971-5406,mpumfrey2f@ft.com,www\.R+\.com,Cozy boutique hotel,4,Cartago,Manuel Antonio,playa,168.00
+109,Hotel CCC,99,540-633-1843,slanphere2g@huffingtonpost.com,www\.a+\.com,Cozy boutique hotel,4,Heredia,Liberia,playa,604.00
+110,Hotel J,12,929-730-1370,rweatherup2h@free.fr,www\.e+\.com,Historic downtown hotel,1,Limon,Tamarindo,montana,779.00
+111,Hotel VVV,83,976-811-9738,bjentle2i@microsoft.com,www\.4+\.com,Historic downtown hotel,5,Puntarenas,La Fortuna,montana,699.00
+112,Hotel LL,7,319-528-8785,rclemon2j@wunderground.com,www\.8+\.com,Cozy boutique hotel,5,Puntarenas,Bella Vista,montana,559.00
+113,Hotel MM,6927,894-461-4617,klatey2k@pen.io,www\.1+\.com,Modern city center hotel,2,Puntarenas,Manuel Antonio,playa,282.00
+114,Hotel MMM,08,829-676-8995,awellesley2l@slate.com,www\.V+\.com,Charming countryside inn,2,Alajuela,Tamarindo,montana,301.00
+115,Hotel B,349,896-570-3139,ecanner2m@freewebs.com,www\.5+\.com,Luxurious beachfront resort,4,Heredia,Bella Vista,montana,691.00
+116,Hotel ZZ,3,614-234-8038,llargent2n@cornell.edu,www\.X+\.com,Cozy boutique hotel,2,Alajuela,Liberia,playa,595.00
+117,Hotel CCC,5566,427-290-5294,amustill2o@time.com,www\.R+\.com,Luxurious beachfront resort,1,Heredia,La Fortuna,montana,209.00
+118,Hotel DDD,33767,798-192-1142,gsummerrell2p@va.gov,www\.9+\.com,Luxurious beachfront resort,0,Guanacaste,La Fortuna,montana,677.00
+119,Hotel LL,1,482-737-0382,tfrick2q@elpais.com,www\.a+\.com,Cozy boutique hotel,2,Puntarenas,Bella Vista,montana,847.00
+120,Hotel FF,1,884-583-3678,sandraud2r@fastcompany.com,www\.j+\.com,Luxurious beachfront resort,1,Guanacaste,Bella Vista,montana,929.00
+121,Hotel X,01779,583-386-3021,bgerrill2s@mozilla.org,www\.m+\.com,Historic downtown hotel,3,Cartago,Liberia,montana,704.00
+122,Hotel OOO,3,,jvanyushin2t@ocn.ne.jp,www\.E+\.com,Historic downtown hotel,1,Puntarenas,Liberia,montana,777.00
+123,Hotel TTT,011,147-566-1943,vlawlance2u@shareasale.com,www\.B+\.com,Cozy boutique hotel,5,Cartago,Tamarindo,montana,417.00
+124,Hotel F,66184,509-229-0724,dlis2v@prlog.org,www\.A+\.com,Luxurious beachfront resort,4,Limon,La Fortuna,montana,375.00
+125,Hotel WWW,272,,msettle2w@sun.com,www\.2+\.com,Historic downtown hotel,5,Alajuela,Liberia,playa,183.00
+126,Hotel R,9101,400-413-7889,tmerwood2x@parallels.com,www\.1+\.com,Cozy boutique hotel,5,San Jose,Tamarindo,montana,288.00
+127,Hotel BBB,6436,233-506-5989,pstollwerk2y@wikimedia.org,www\.W+\.com,Charming countryside inn,1,Puntarenas,Liberia,playa,639.00
+128,Hotel NNN,8,505-892-6728,birwin2z@latimes.com,www\.6+\.com,Luxurious beachfront resort,2,Guanacaste,La Fortuna,playa,739.00
+129,Hotel X,8132,522-963-6722,celliff30@china.com.cn,www\.4+\.com,Luxurious beachfront resort,2,Cartago,Liberia,playa,232.00
+130,Hotel TT,924,910-135-7255,nsmitten31@cbsnews.com,www\.T+\.com,Modern city center hotel,4,Alajuela,Liberia,montana,283.00
+131,Hotel CCC,4,657-362-9403,mwhapples32@spiegel.de,www\.i+\.com,Modern city center hotel,5,Puntarenas,Bella Vista,montana,992.00
+132,Hotel YY,29942,843-164-1140,shazelton33@java.com,www\.3+\.com,Luxurious beachfront resort,5,Heredia,Tamarindo,playa,859.00
+133,Hotel C,06620,260-208-0078,bmeeke34@engadget.com,www\.g+\.com,Charming countryside inn,1,Guanacaste,La Fortuna,montana,742.00
+134,Hotel T,90108,430-111-9552,osharnock35@cdc.gov,www\.I+\.com,Modern city center hotel,2,Guanacaste,La Fortuna,playa,507.00
+135,Hotel MM,9,518-396-1615,bsymcox36@sourceforge.net,www\.K+\.com,Luxurious beachfront resort,1,Puntarenas,Tamarindo,playa,852.00
+136,Hotel DDD,0,967-428-4445,aberi37@census.gov,www\.7+\.com,Luxurious beachfront resort,2,Cartago,Bella Vista,playa,624.00
+137,Hotel ZZ,26,781-269-8785,anoseworthy38@narod.ru,www\.6+\.com,Modern city center hotel,1,San Jose,La Fortuna,playa,714.00
+138,Hotel J,3256,826-767-9032,bkeys39@aboutads.info,www\.Y+\.com,Cozy boutique hotel,5,Limon,La Fortuna,playa,453.00
+139,Hotel ZZZ,779,,fkann3a@dyndns.org,www\.Q+\.com,Modern city center hotel,2,Alajuela,Tamarindo,playa,415.00
+140,Hotel WWW,47054,562-149-8568,aashmole3b@g.co,www\.5+\.com,Historic downtown hotel,1,Limon,La Fortuna,montana,256.00
+141,Hotel AA,237,185-978-5527,mlyford3c@seattletimes.com,www\.n+\.com,Cozy boutique hotel,2,Alajuela,Tamarindo,playa,885.00
+142,Hotel YYY,42730,845-508-5025,bsanton3d@digg.com,www\.7+\.com,Modern city center hotel,4,San Jose,Tamarindo,montana,602.00
+143,Hotel K,03,449-835-0336,owanjek3e@google.nl,www\.n+\.com,Modern city center hotel,2,Guanacaste,Liberia,montana,169.00
+144,Hotel F,02,553-967-0161,xhanscom3f@senate.gov,www\.5+\.com,Charming countryside inn,1,San Jose,La Fortuna,montana,672.00
+145,Hotel QQ,5,432-523-6262,smacvay3g@bloomberg.com,www\.x+\.com,Modern city center hotel,5,Cartago,Liberia,playa,710.00
+146,Hotel TTT,446,460-436-1741,cburdell3h@tinypic.com,www\.9+\.com,Modern city center hotel,1,Puntarenas,Bella Vista,playa,762.00
+147,Hotel OO,64047,614-790-8251,anorree3i@hexun.com,www\.f+\.com,Luxurious beachfront resort,0,Puntarenas,Tamarindo,montana,879.00
+148,Hotel QQ,6,118-626-6443,mangrock3j@joomla.org,www\.L+\.com,Charming countryside inn,4,Heredia,Bella Vista,playa,546.00
+149,Hotel RRR,43875,986-634-3608,lcamerello3k@goodreads.com,www\.u+\.com,Historic downtown hotel,1,Limon,Liberia,playa,231.00
+150,Hotel FFF,928,318-287-5247,blettuce3l@gizmodo.com,www\.5+\.com,Cozy boutique hotel,5,Guanacaste,La Fortuna,montana,375.00
+151,Hotel Z,142,431-391-6778,fjuszkiewicz3m@house.gov,www\.6+\.com,Luxurious beachfront resort,2,San Jose,Liberia,montana,555.00
+152,Hotel GGG,8,169-799-2416,rdudek3n@wikipedia.org,www\.e+\.com,Modern city center hotel,2,Alajuela,Bella Vista,montana,264.00
+153,Hotel U,22875,990-915-4788,cdello3o@amazon.co.uk,www\.V+\.com,Cozy boutique hotel,4,Puntarenas,La Fortuna,montana,531.00
+154,Hotel R,08817,267-417-2509,sserver3p@pen.io,www\.D+\.com,Cozy boutique hotel,2,Guanacaste,Liberia,montana,869.00
+155,Hotel E,79,560-737-7006,cmarval3q@sitemeter.com,www\.O+\.com,Modern city center hotel,4,Heredia,La Fortuna,playa,423.00
+156,Hotel J,8226,561-863-7975,kbewley3r@wufoo.com,www\.u+\.com,Historic downtown hotel,3,Alajuela,Bella Vista,playa,384.00
+157,Hotel WWW,70208,188-981-6902,rmetheringham3s@ucla.edu,www\.i+\.com,Luxurious beachfront resort,3,San Jose,Liberia,playa,974.00
+158,Hotel SSS,846,883-142-3472,cosmond3t@google.co.uk,www\.l+\.com,Modern city center hotel,4,Heredia,Bella Vista,playa,536.00
+159,Hotel QQQ,7,416-980-5970,jnorwich3u@prnewswire.com,www\.z+\.com,Luxurious beachfront resort,3,San Jose,Tamarindo,montana,414.00
+160,Hotel YY,68016,839-683-7263,vpheazey3v@spiegel.de,www\.7+\.com,Historic downtown hotel,3,Alajuela,Manuel Antonio,playa,441.00
+161,Hotel XXX,82432,771-381-4482,zdoghartie3w@omniture.com,www\.4+\.com,Cozy boutique hotel,5,Limon,Tamarindo,playa,801.00
+162,Hotel FF,17074,111-185-8141,ilethlay3x@woothemes.com,www\.X+\.com,Charming countryside inn,5,Heredia,Bella Vista,playa,565.00
+163,Hotel S,71,875-967-3369,wkordovani3y@youtu.be,www\.n+\.com,Luxurious beachfront resort,5,Limon,Manuel Antonio,montana,712.00
+164,Hotel AAA,967,917-208-8750,hbalcon3z@desdev.cn,www\.O+\.com,Cozy boutique hotel,1,Puntarenas,Bella Vista,playa,895.00
+165,Hotel GG,37179,183-463-3363,rscade40@psu.edu,www\.1+\.com,Charming countryside inn,5,Guanacaste,Manuel Antonio,playa,114.00
+166,Hotel J,75,697-898-9622,mcousen41@posterous.com,www\.R+\.com,Luxurious beachfront resort,5,San Jose,La Fortuna,montana,673.00
+167,Hotel BBB,08356,871-191-9353,rbirth42@ox.ac.uk,www\.5+\.com,Historic downtown hotel,0,Guanacaste,Tamarindo,playa,954.00
+168,Hotel AA,95007,763-494-8451,rcastellone43@cbslocal.com,www\.P+\.com,Charming countryside inn,5,Guanacaste,Bella Vista,montana,479.00
+169,Hotel T,83625,868-421-3839,ghallows44@eepurl.com,www\.Z+\.com,Luxurious beachfront resort,3,Puntarenas,La Fortuna,playa,190.00
+170,Hotel Z,032,736-516-1068,tdevers45@weibo.com,www\.A+\.com,Luxurious beachfront resort,4,Guanacaste,Bella Vista,playa,480.00
+171,Hotel SSS,8025,341-827-7612,dvondruska46@ustream.tv,www\.8+\.com,Cozy boutique hotel,4,Alajuela,Liberia,playa,199.00
+172,Hotel XX,2454,285-619-6908,csandys47@nature.com,www\.q+\.com,Historic downtown hotel,3,Puntarenas,La Fortuna,montana,693.00
+173,Hotel ZZ,150,992-537-2099,selsley48@joomla.org,www\.7+\.com,Luxurious beachfront resort,5,Cartago,Liberia,montana,778.00
+174,Hotel QQ,470,855-747-4184,afransewich49@issuu.com,www\.7+\.com,Luxurious beachfront resort,1,Alajuela,Liberia,playa,350.00
+175,Hotel DD,5153,956-625-9071,dbiaggioli4a@ucoz.com,www\.7+\.com,Luxurious beachfront resort,3,Cartago,Liberia,playa,455.00
+176,Hotel U,05600,142-771-0979,jviel4b@parallels.com,www\.Q+\.com,Cozy boutique hotel,1,Cartago,Manuel Antonio,playa,565.00
+177,Hotel X,148,819-692-9573,bsebborn4c@histats.com,www\.Q+\.com,Historic downtown hotel,0,Guanacaste,Liberia,playa,722.00
+178,Hotel A,89,137-660-8540,pmousdall4d@about.me,www\.7+\.com,Historic downtown hotel,5,Puntarenas,Bella Vista,playa,305.00
+179,Hotel H,599,248-663-0381,ralwell4e@springer.com,www\.6+\.com,Modern city center hotel,0,San Jose,Manuel Antonio,montana,287.00
+180,Hotel UU,25822,451-465-0157,hmcconnulty4f@google.cn,www\.i+\.com,Historic downtown hotel,3,Puntarenas,Tamarindo,playa,503.00
+181,Hotel XXX,762,661-476-1148,lonraet4g@columbia.edu,www\.S+\.com,Historic downtown hotel,2,Alajuela,Bella Vista,playa,386.00
+182,Hotel Q,4279,856-203-0160,jcorsar4h@unesco.org,www\.5+\.com,Modern city center hotel,2,San Jose,Bella Vista,montana,828.00
+183,Hotel FFF,2140,238-796-6534,irobinette4i@marketwatch.com,www\.T+\.com,Charming countryside inn,2,San Jose,Manuel Antonio,montana,966.00
+184,Hotel QQQ,98611,206-675-7400,clally4j@studiopress.com,www\.J+\.com,Historic downtown hotel,5,Puntarenas,Liberia,montana,316.00
+185,Hotel W,49017,108-876-1603,drihosek4k@microsoft.com,www\.j+\.com,Charming countryside inn,4,Heredia,Liberia,montana,858.00
+186,Hotel I,73999,498-585-4849,gpumphrey4l@wired.com,www\.8+\.com,Historic downtown hotel,1,Heredia,Liberia,montana,304.00
+187,Hotel AA,14,184-102-8551,lespina4m@123-reg.co.uk,www\.p+\.com,Cozy boutique hotel,2,Puntarenas,Manuel Antonio,montana,431.00
+188,Hotel RR,62,652-147-0275,zhabbema4n@wufoo.com,www\.Y+\.com,Cozy boutique hotel,2,Alajuela,Bella Vista,playa,349.00
+189,Hotel M,43615,546-291-2594,cbeckhouse4o@sakura.ne.jp,www\.0+\.com,Modern city center hotel,1,Cartago,Tamarindo,montana,181.00
+190,Hotel W,29103,682-286-7498,lcohr4p@behance.net,www\.5+\.com,Charming countryside inn,0,San Jose,Bella Vista,montana,633.00
+191,Hotel JJ,16878,965-153-3589,cburbudge4q@issuu.com,www\.2+\.com,Modern city center hotel,1,Limon,La Fortuna,playa,904.00
+192,Hotel SS,7,769-204-2593,cdown4r@webnode.com,www\.3+\.com,Historic downtown hotel,4,Puntarenas,Tamarindo,playa,974.00
+193,Hotel K,6,166-179-9707,aaspenlon4s@diigo.com,www\.H+\.com,Modern city center hotel,5,Heredia,La Fortuna,playa,851.00
+194,Hotel T,06,307-210-7616,cwren4t@japanpost.jp,www\.j+\.com,Modern city center hotel,4,San Jose,Tamarindo,montana,852.00
+195,Hotel YY,68026,726-383-6136,eprati4u@amazon.co.uk,www\.m+\.com,Luxurious beachfront resort,3,Cartago,Bella Vista,montana,937.00
+196,Hotel G,44123,269-754-8629,kcaselli4v@upenn.edu,www\.V+\.com,Luxurious beachfront resort,3,Cartago,Tamarindo,playa,160.00
+197,Hotel CC,1,234-711-1115,gfleisch4w@printfriendly.com,www\.h+\.com,Historic downtown hotel,4,Cartago,Liberia,playa,790.00
+198,Hotel OO,23956,567-558-3356,asharpe4x@unblog.fr,www\.M+\.com,Luxurious beachfront resort,5,Guanacaste,Bella Vista,montana,524.00
+199,Hotel S,1,959-519-7004,nmerwood4y@wsj.com,www\.7+\.com,Historic downtown hotel,5,Cartago,Bella Vista,montana,826.00
+200,Hotel Q,8147,351-294-8272,cbelham4z@blogtalkradio.com,www\.9+\.com,Charming countryside inn,5,San Jose,La Fortuna,playa,722.00
+201,Hotel YY,2083,984-525-1583,vwillets50@cargocollective.com,www\.Q+\.com,Charming countryside inn,3,Limon,Liberia,playa,813.00
+202,Hotel CCC,6903,842-801-6064,kbliben51@flavors.me,www\.I+\.com,Luxurious beachfront resort,5,Guanacaste,Tamarindo,playa,978.00
+203,Hotel SS,95,178-539-5022,kchallens52@skyrock.com,www\.K+\.com,Historic downtown hotel,5,Guanacaste,Manuel Antonio,playa,265.00
+204,Hotel HHH,124,897-469-7378,rtaffarello53@toplist.cz,www\.z+\.com,Modern city center hotel,5,Guanacaste,Liberia,playa,448.00
+205,Hotel K,9,771-295-2764,snowlan54@lulu.com,www\.L+\.com,Charming countryside inn,3,Puntarenas,Tamarindo,montana,741.00
+206,Hotel BBB,46577,277-889-4836,lmaccarrick55@vistaprint.com,www\.g+\.com,Historic downtown hotel,1,San Jose,Tamarindo,playa,845.00
+207,Hotel III,700,339-613-5732,ilambertson56@state.gov,www\.n+\.com,Modern city center hotel,4,Limon,Bella Vista,montana,211.00
+208,Hotel CCC,6,620-916-3286,jtaffley57@slashdot.org,www\.z+\.com,Cozy boutique hotel,4,Heredia,Bella Vista,montana,337.00
+209,Hotel ZZ,1054,605-903-3930,tklemensiewicz58@dot.gov,www\.m+\.com,Charming countryside inn,1,Cartago,Manuel Antonio,playa,769.00
+210,Hotel QQ,548,243-903-7142,eschimaschke59@dropbox.com,www\.2+\.com,Cozy boutique hotel,4,Cartago,Bella Vista,montana,214.00
+211,Hotel PPP,6298,495-540-1704,vmanach5a@sina.com.cn,www\.z+\.com,Charming countryside inn,5,Alajuela,Manuel Antonio,montana,624.00
+212,Hotel AAA,34986,537-262-4916,bmcguire5b@ftc.gov,www\.3+\.com,Luxurious beachfront resort,2,Guanacaste,Liberia,playa,151.00
+213,Hotel YYY,159,932-435-7797,hentwhistle5c@youku.com,www\.6+\.com,Historic downtown hotel,5,Cartago,Tamarindo,montana,362.00
+214,Hotel BB,79,159-642-4634,csammonds5d@nifty.com,www\.1+\.com,Cozy boutique hotel,1,Limon,Bella Vista,montana,759.00
+215,Hotel E,27977,788-389-5763,htennison5e@comsenz.com,www\.D+\.com,Modern city center hotel,2,Heredia,Manuel Antonio,playa,580.00
+216,Hotel GGG,7,862-183-4924,asimkovitz5f@netlog.com,www\.F+\.com,Luxurious beachfront resort,2,Heredia,Manuel Antonio,playa,388.00
+217,Hotel B,9437,645-909-6328,bwhittles5g@angelfire.com,www\.g+\.com,Historic downtown hotel,3,San Jose,Manuel Antonio,playa,988.00
+218,Hotel Z,04,168-104-0508,ewhapple5h@wiley.com,www\.8+\.com,Cozy boutique hotel,3,San Jose,La Fortuna,playa,512.00
+219,Hotel ZZ,0,373-503-1958,efurmston5i@forbes.com,www\.0+\.com,Charming countryside inn,2,Puntarenas,Bella Vista,playa,976.00
+220,Hotel UU,00,352-162-0101,cbembrigg5j@jalbum.net,www\.w+\.com,Modern city center hotel,4,Alajuela,La Fortuna,playa,791.00
+221,Hotel MM,49650,915-344-2790,alamplugh5k@tuttocitta.it,www\.J+\.com,Charming countryside inn,1,San Jose,Manuel Antonio,montana,516.00
+222,Hotel AA,27117,887-795-5771,vvowels5l@people.com.cn,www\.j+\.com,Cozy boutique hotel,4,Heredia,Liberia,playa,193.00
+223,Hotel U,6,282-153-1351,ospark5m@miitbeian.gov.cn,www\.w+\.com,Luxurious beachfront resort,1,Alajuela,Bella Vista,montana,524.00
+224,Hotel JJ,31,270-428-9323,cbelvin5n@last.fm,www\.t+\.com,Historic downtown hotel,2,Guanacaste,Tamarindo,montana,503.00
+225,Hotel XX,1275,748-291-5715,ptrencher5o@princeton.edu,www\.F+\.com,Cozy boutique hotel,5,Heredia,Tamarindo,montana,121.00
+226,Hotel OO,67,172-442-8787,tpiegrome5p@wikia.com,www\.Q+\.com,Charming countryside inn,3,Puntarenas,Liberia,montana,962.00
+227,Hotel DDD,93096,,kchomley5q@vkontakte.ru,www\.J+\.com,Historic downtown hotel,2,Guanacaste,Manuel Antonio,playa,742.00
+228,Hotel F,125,,dkarpman5r@rakuten.co.jp,www\.s+\.com,Modern city center hotel,5,Guanacaste,Bella Vista,playa,865.00
+229,Hotel TT,88790,228-551-8026,apatience5s@flavors.me,www\.1+\.com,Cozy boutique hotel,3,Alajuela,La Fortuna,playa,920.00
+230,Hotel OOO,346,572-391-2673,panderl5t@berkeley.edu,www\.c+\.com,Modern city center hotel,4,Heredia,Bella Vista,playa,291.00
+231,Hotel AA,3,745-684-4977,mextil5u@photobucket.com,www\.a+\.com,Charming countryside inn,3,Puntarenas,Bella Vista,playa,120.00
+232,Hotel RR,8210,659-548-2449,ahorbart5v@imageshack.us,www\.P+\.com,Historic downtown hotel,2,Limon,Liberia,montana,725.00
+233,Hotel M,295,514-800-9429,oburfoot5w@elpais.com,www\.w+\.com,Historic downtown hotel,3,Heredia,Tamarindo,playa,119.00
+234,Hotel X,0980,474-796-9684,apavolini5x@earthlink.net,www\.H+\.com,Luxurious beachfront resort,4,Heredia,La Fortuna,playa,381.00
+235,Hotel EE,228,440-234-4012,ehancorn5y@angelfire.com,www\.W+\.com,Historic downtown hotel,4,Cartago,Bella Vista,playa,790.00
+236,Hotel TT,1604,481-249-2695,mbretherick5z@skyrock.com,www\.O+\.com,Historic downtown hotel,1,Cartago,Tamarindo,playa,760.00
+237,Hotel QQQ,51,409-634-1608,mteal60@mlb.com,www\.7+\.com,Modern city center hotel,4,Puntarenas,Manuel Antonio,montana,791.00
+238,Hotel F,9,405-632-3544,lforrest61@biblegateway.com,www\.E+\.com,Historic downtown hotel,5,Heredia,Bella Vista,montana,866.00
+239,Hotel JJ,48,,emerrgan62@netlog.com,www\.N+\.com,Cozy boutique hotel,1,Puntarenas,Tamarindo,montana,306.00
+240,Hotel LLL,3876,230-690-4121,adikelin63@earthlink.net,www\.v+\.com,Luxurious beachfront resort,3,Guanacaste,Bella Vista,montana,504.00
+241,Hotel O,0628,412-660-4515,zbraine64@ftc.gov,www\.4+\.com,Modern city center hotel,4,Alajuela,La Fortuna,montana,822.00
+242,Hotel P,03,679-832-8433,nauty65@ed.gov,www\.g+\.com,Luxurious beachfront resort,1,Guanacaste,La Fortuna,playa,766.00
+243,Hotel YY,86,230-608-9577,arooney66@arstechnica.com,www\.1+\.com,Charming countryside inn,2,Limon,Tamarindo,montana,128.00
+244,Hotel MMM,6,306-556-6729,nnowell67@symantec.com,www\.u+\.com,Luxurious beachfront resort,1,Alajuela,Manuel Antonio,montana,148.00
+245,Hotel SSS,6,818-614-6744,bfrickey68@yale.edu,www\.k+\.com,Modern city center hotel,1,Limon,Manuel Antonio,playa,145.00
+246,Hotel QQ,1,320-179-6606,afritz69@comcast.net,www\.3+\.com,Cozy boutique hotel,3,San Jose,Tamarindo,montana,209.00
+247,Hotel FF,63,551-514-3529,nbortolozzi6a@jimdo.com,www\.9+\.com,Modern city center hotel,1,Alajuela,Liberia,playa,178.00
+248,Hotel GGG,1,144-748-1937,tsalliere6b@nih.gov,www\.o+\.com,Historic downtown hotel,4,Cartago,La Fortuna,playa,105.00
+249,Hotel T,982,536-639-3463,lhadny6c@abc.net.au,www\.1+\.com,Modern city center hotel,2,San Jose,La Fortuna,playa,905.00
+250,Hotel BB,7562,626-248-2542,agroneway6d@mac.com,www\.H+\.com,Charming countryside inn,4,Guanacaste,Manuel Antonio,montana,854.00
+251,Hotel X,6,158-192-0670,sgash6e@google.cn,www\.7+\.com,Modern city center hotel,1,Puntarenas,Liberia,playa,384.00
+252,Hotel RRR,46,793-922-7335,jmarion6f@spotify.com,www\.T+\.com,Cozy boutique hotel,5,Heredia,Bella Vista,montana,707.00
+253,Hotel VVV,206,308-610-4976,skubas6g@booking.com,www\.S+\.com,Charming countryside inn,3,Alajuela,Tamarindo,playa,923.00
+254,Hotel II,044,221-853-7931,lrowaszkiewicz6h@zdnet.com,www\.u+\.com,Cozy boutique hotel,5,Guanacaste,Liberia,montana,145.00
+255,Hotel DDD,67421,526-445-6642,jjune6i@abc.net.au,www\.h+\.com,Luxurious beachfront resort,2,Alajuela,Tamarindo,playa,193.00
+256,Hotel P,346,533-245-9406,rmcvitie6j@com.com,www\.0+\.com,Luxurious beachfront resort,3,Cartago,La Fortuna,montana,422.00
+257,Hotel KK,00339,560-517-4485,fweale6k@soundcloud.com,www\.1+\.com,Luxurious beachfront resort,2,San Jose,La Fortuna,montana,391.00
+258,Hotel DD,19242,563-798-9933,mbrunner6l@psu.edu,www\.k+\.com,Charming countryside inn,4,Guanacaste,Bella Vista,playa,811.00
+259,Hotel V,6,151-120-7960,mbaggiani6m@sfgate.com,www\.Z+\.com,Modern city center hotel,3,Guanacaste,Tamarindo,playa,396.00
+260,Hotel I,45,944-864-4883,cpittham6n@blog.com,www\.Z+\.com,Charming countryside inn,1,San Jose,La Fortuna,montana,767.00
+261,Hotel A,140,637-421-7458,gfloris6o@blogtalkradio.com,www\.x+\.com,Luxurious beachfront resort,1,Puntarenas,Bella Vista,playa,431.00
+262,Hotel C,8827,763-532-4080,ffosse6p@nhs.uk,www\.F+\.com,Historic downtown hotel,4,Puntarenas,Liberia,montana,586.00
+263,Hotel WW,638,235-481-0597,tbocock6q@e-recht24.de,www\.8+\.com,Charming countryside inn,4,Cartago,La Fortuna,playa,450.00
+264,Hotel RR,462,975-497-0053,blaister6r@last.fm,www\.L+\.com,Charming countryside inn,2,Limon,Tamarindo,montana,687.00
+265,Hotel GGG,647,339-485-5802,wlumsden6s@buzzfeed.com,www\.C+\.com,Historic downtown hotel,5,Alajuela,Manuel Antonio,playa,271.00
+266,Hotel RR,45,763-134-6068,hblase6t@instagram.com,www\.f+\.com,Charming countryside inn,3,Heredia,Bella Vista,playa,891.00
+267,Hotel W,08,602-230-4161,sbarents6u@a8.net,www\.k+\.com,Modern city center hotel,2,San Jose,La Fortuna,playa,448.00
+268,Hotel HHH,68191,240-421-8693,fvevers6v@goo.ne.jp,www\.j+\.com,Charming countryside inn,2,Puntarenas,Bella Vista,montana,459.00
+269,Hotel FF,6186,570-114-4727,ijermey6w@blogger.com,www\.c+\.com,Historic downtown hotel,4,San Jose,La Fortuna,montana,351.00
+270,Hotel UUU,5949,504-461-5884,rtooze6x@slideshare.net,www\.z+\.com,Charming countryside inn,2,Limon,Bella Vista,playa,522.00
+271,Hotel H,33,471-586-5608,cdalgetty6y@facebook.com,www\.5+\.com,Charming countryside inn,4,Alajuela,Tamarindo,playa,731.00
+272,Hotel TT,632,807-635-7798,tatthow6z@geocities.com,www\.J+\.com,Charming countryside inn,5,Heredia,Tamarindo,montana,781.00
+273,Hotel OO,3021,662-794-7212,bgarlette70@parallels.com,www\.7+\.com,Charming countryside inn,2,Puntarenas,Tamarindo,playa,472.00
+274,Hotel X,561,241-834-5967,gbernardez71@dagondesign.com,www\.K+\.com,Cozy boutique hotel,1,Puntarenas,Liberia,playa,874.00
+275,Hotel C,782,674-564-6837,adiament72@cpanel.net,www\.J+\.com,Historic downtown hotel,3,Alajuela,Liberia,playa,672.00
+276,Hotel J,835,445-694-9322,tleaming73@sphinn.com,www\.e+\.com,Cozy boutique hotel,3,Limon,Tamarindo,playa,170.00
+277,Hotel TT,1202,712-298-5843,sroocroft74@mac.com,www\.H+\.com,Luxurious beachfront resort,4,Cartago,Bella Vista,montana,167.00
+278,Hotel J,5150,398-678-9291,gmedling75@sciencedaily.com,www\.a+\.com,Modern city center hotel,5,Puntarenas,Bella Vista,playa,360.00
+279,Hotel V,46661,817-808-6315,sstirland76@prweb.com,www\.T+\.com,Historic downtown hotel,1,San Jose,Tamarindo,montana,420.00
+280,Hotel Q,20,143-522-0768,rrussan77@technorati.com,www\.M+\.com,Cozy boutique hotel,3,Guanacaste,Liberia,montana,809.00
+281,Hotel W,6,570-111-1798,aligerton78@nsw.gov.au,www\.L+\.com,Luxurious beachfront resort,1,Cartago,Liberia,playa,988.00
+282,Hotel HHH,94,643-953-6694,kharder79@cnbc.com,www\.f+\.com,Cozy boutique hotel,1,San Jose,Bella Vista,playa,503.00
+283,Hotel GG,89,778-513-5800,cshemmin7a@bbc.co.uk,www\.4+\.com,Historic downtown hotel,1,Limon,Manuel Antonio,playa,660.00
+284,Hotel AA,07053,637-453-9166,tkosel7b@nifty.com,www\.6+\.com,Luxurious beachfront resort,4,Alajuela,Liberia,playa,276.00
+285,Hotel EE,82842,,tdebischop7c@usda.gov,www\.w+\.com,Charming countryside inn,4,Alajuela,Bella Vista,playa,665.00
+286,Hotel D,59099,512-460-5687,bbeckinsale7d@github.io,www\.p+\.com,Cozy boutique hotel,2,Limon,La Fortuna,playa,248.00
+287,Hotel Y,088,864-772-1666,jbamber7e@loc.gov,www\.Y+\.com,Luxurious beachfront resort,1,San Jose,Tamarindo,playa,545.00
+288,Hotel HH,3,554-984-4694,preggler7f@symantec.com,www\.7+\.com,Modern city center hotel,2,Alajuela,Manuel Antonio,montana,170.00
+289,Hotel V,9,317-916-1047,glund7g@tumblr.com,www\.F+\.com,Cozy boutique hotel,2,Heredia,Manuel Antonio,playa,701.00
+290,Hotel BBB,787,675-707-0294,aparham7h@sohu.com,www\.v+\.com,Modern city center hotel,2,Limon,Liberia,montana,131.00
+291,Hotel BB,324,159-682-8332,rbadder7i@nymag.com,www\.e+\.com,Historic downtown hotel,4,Guanacaste,La Fortuna,playa,492.00
+292,Hotel Q,42,821-635-0080,bmilne7j@google.ru,www\.h+\.com,Modern city center hotel,5,San Jose,Bella Vista,playa,173.00
+293,Hotel V,16822,757-465-3155,lextall7k@w3.org,www\.m+\.com,Historic downtown hotel,4,Limon,La Fortuna,playa,976.00
+294,Hotel T,7458,409-465-7831,mpace7l@opera.com,www\.6+\.com,Luxurious beachfront resort,3,Guanacaste,Tamarindo,montana,997.00
+295,Hotel SS,2633,744-605-2091,vplastow7m@ftc.gov,www\.7+\.com,Cozy boutique hotel,2,Limon,Manuel Antonio,playa,686.00
+296,Hotel TT,97425,977-687-6389,kbrimilcome7n@fastcompany.com,www\.0+\.com,Historic downtown hotel,2,Puntarenas,Bella Vista,playa,991.00
+297,Hotel DD,6305,497-238-2202,rquinnet7o@soundcloud.com,www\.7+\.com,Luxurious beachfront resort,3,Limon,Tamarindo,playa,311.00
+298,Hotel III,11,371-276-5430,agradwell7p@comcast.net,www\.Y+\.com,Luxurious beachfront resort,4,Limon,Manuel Antonio,playa,867.00
+299,Hotel Y,26,526-186-9070,sgrancher7q@godaddy.com,www\.T+\.com,Historic downtown hotel,1,Cartago,Manuel Antonio,playa,608.00
+300,Hotel AAA,0,227-871-4995,bcalcutt7r@scientificamerican.com,www\.W+\.com,Luxurious beachfront resort,1,San Jose,Liberia,playa,603.00
+301,Hotel JJJ,18233,107-989-7379,bkervin7s@msn.com,www\.k+\.com,Modern city center hotel,2,Heredia,Bella Vista,playa,236.00
+302,Hotel U,16643,325-981-8970,dingamells7t@google.fr,www\.K+\.com,Modern city center hotel,2,San Jose,Tamarindo,montana,721.00
+303,Hotel PPP,50638,936-163-0276,sjardine7u@cocolog-nifty.com,www\.M+\.com,Cozy boutique hotel,1,Limon,Liberia,montana,703.00
+304,Hotel V,812,945-530-4686,sviccary7v@japanpost.jp,www\.W+\.com,Modern city center hotel,3,Heredia,Manuel Antonio,playa,157.00
+305,Hotel YYY,34234,,kdittson7w@foxnews.com,www\.b+\.com,Luxurious beachfront resort,5,Guanacaste,Bella Vista,montana,830.00
+306,Hotel VVV,4156,106-478-4208,epeyton7x@indiatimes.com,www\.P+\.com,Historic downtown hotel,4,Limon,Liberia,montana,879.00
+307,Hotel L,6397,907-548-9425,ccondell7y@usa.gov,www\.l+\.com,Luxurious beachfront resort,5,Cartago,Bella Vista,montana,926.00
+308,Hotel Z,97045,392-515-0366,fpoff7z@house.gov,www\.t+\.com,Cozy boutique hotel,2,Guanacaste,Tamarindo,montana,634.00
+309,Hotel II,55,111-870-3256,rpamphilon80@ustream.tv,www\.B+\.com,Historic downtown hotel,1,Alajuela,La Fortuna,montana,127.00
+310,Hotel ZZ,56,651-404-8280,dcockren81@opensource.org,www\.E+\.com,Luxurious beachfront resort,2,San Jose,Bella Vista,playa,886.00
+311,Hotel N,306,841-629-2878,pbaldinotti82@amazon.co.jp,www\.s+\.com,Historic downtown hotel,1,San Jose,La Fortuna,montana,141.00
+312,Hotel V,52,303-862-1038,druddy83@360.cn,www\.j+\.com,Charming countryside inn,5,Heredia,Bella Vista,montana,817.00
+313,Hotel L,675,748-572-7971,scamplejohn84@tripadvisor.com,www\.2+\.com,Cozy boutique hotel,2,Guanacaste,Tamarindo,playa,566.00
+314,Hotel ZZ,1,187-282-5325,aruzic85@networksolutions.com,www\.g+\.com,Cozy boutique hotel,4,Alajuela,La Fortuna,playa,656.00
+315,Hotel OO,67277,578-827-9211,dselwyn86@bing.com,www\.4+\.com,Luxurious beachfront resort,5,Heredia,Bella Vista,playa,861.00
+316,Hotel Y,5351,683-812-4553,bbeddard87@ucsd.edu,www\.z+\.com,Cozy boutique hotel,4,Guanacaste,La Fortuna,playa,606.00
+317,Hotel XX,3,480-193-9579,waitkenhead88@biblegateway.com,www\.i+\.com,Charming countryside inn,4,Cartago,Liberia,montana,699.00
+318,Hotel YYY,774,816-167-9142,dmarkwelley89@clickbank.net,www\.t+\.com,Cozy boutique hotel,2,Alajuela,Liberia,montana,240.00
+319,Hotel T,25,751-164-9844,csandcroft8a@soup.io,www\.j+\.com,Modern city center hotel,2,Puntarenas,Tamarindo,montana,124.00
+320,Hotel R,9275,494-587-8203,kmarjoram8b@xrea.com,www\.m+\.com,Historic downtown hotel,5,San Jose,Bella Vista,montana,715.00
+321,Hotel SSS,63500,205-829-4019,jjack8c@nationalgeographic.com,www\.Q+\.com,Cozy boutique hotel,3,Cartago,Liberia,playa,132.00
+322,Hotel V,33296,540-972-7716,mflay8d@csmonitor.com,www\.C+\.com,Historic downtown hotel,3,Alajuela,Bella Vista,playa,111.00
+323,Hotel Y,86965,757-843-3989,lmurrow8e@house.gov,www\.7+\.com,Modern city center hotel,1,Puntarenas,Manuel Antonio,playa,252.00
+324,Hotel OOO,10,620-465-8903,acatcheside8f@trellian.com,www\.i+\.com,Luxurious beachfront resort,5,San Jose,Liberia,playa,350.00
+325,Hotel WW,68,475-290-3922,cscheu8g@wufoo.com,www\.X+\.com,Luxurious beachfront resort,2,Cartago,Bella Vista,playa,965.00
+326,Hotel EE,164,840-948-0878,copdenort8h@angelfire.com,www\.O+\.com,Modern city center hotel,5,Guanacaste,Manuel Antonio,playa,711.00
+327,Hotel SSS,338,518-160-0007,amactague8i@discuz.net,www\.j+\.com,Cozy boutique hotel,4,Alajuela,Manuel Antonio,playa,675.00
+328,Hotel K,81251,612-674-1643,vhabershaw8j@linkedin.com,www\.p+\.com,Modern city center hotel,4,Puntarenas,Liberia,playa,496.00
+329,Hotel GGG,107,258-774-8012,vaarons8k@sourceforge.net,www\.4+\.com,Charming countryside inn,4,San Jose,Liberia,montana,123.00
+330,Hotel DD,2286,575-925-3726,kikringill8l@microsoft.com,www\.h+\.com,Luxurious beachfront resort,3,Cartago,Tamarindo,montana,540.00
+331,Hotel WW,18,135-447-2850,kferrari8m@ihg.com,www\.f+\.com,Modern city center hotel,0,Heredia,Tamarindo,playa,953.00
+332,Hotel I,296,567-734-8078,vgreensite8n@myspace.com,www\.U+\.com,Cozy boutique hotel,4,Limon,La Fortuna,montana,979.00
+333,Hotel KK,90,958-304-6032,ryaus8o@sfgate.com,www\.k+\.com,Modern city center hotel,1,Limon,La Fortuna,montana,301.00
+334,Hotel SSS,1,114-308-0183,dswayland8p@dyndns.org,www\.j+\.com,Historic downtown hotel,3,Limon,La Fortuna,playa,659.00
+335,Hotel S,228,612-307-2818,mkleinhaus8q@opensource.org,www\.l+\.com,Charming countryside inn,3,Limon,La Fortuna,montana,363.00
+336,Hotel B,464,396-693-4817,dtschiersch8r@economist.com,www\.c+\.com,Luxurious beachfront resort,3,Puntarenas,La Fortuna,playa,759.00
+337,Hotel U,1444,762-496-9431,wdallaway8s@discuz.net,www\.v+\.com,Luxurious beachfront resort,5,San Jose,Tamarindo,playa,747.00
+338,Hotel HH,4,509-480-6142,dtynan8t@infoseek.co.jp,www\.6+\.com,Modern city center hotel,5,San Jose,Tamarindo,montana,617.00
+339,Hotel QQQ,2,113-673-4597,uohartigan8u@cmu.edu,www\.9+\.com,Charming countryside inn,4,Puntarenas,Bella Vista,montana,880.00
+340,Hotel G,566,348-537-9563,pausiello8v@hugedomains.com,www\.l+\.com,Modern city center hotel,5,Puntarenas,La Fortuna,playa,874.00
+341,Hotel UU,2,359-525-7685,ekidwell8w@earthlink.net,www\.C+\.com,Modern city center hotel,3,Alajuela,Manuel Antonio,montana,137.00
+342,Hotel K,3408,374-730-7794,adodshun8x@princeton.edu,www\.A+\.com,Cozy boutique hotel,4,Puntarenas,Tamarindo,playa,103.00
+343,Hotel EEE,553,481-838-2573,rboykett8y@mysql.com,www\.M+\.com,Modern city center hotel,4,Guanacaste,Manuel Antonio,playa,103.00
+344,Hotel H,9,685-184-7912,ehadye8z@moonfruit.com,www\.R+\.com,Modern city center hotel,1,San Jose,Tamarindo,playa,724.00
+345,Hotel C,714,725-624-5834,hjevon90@cmu.edu,www\.D+\.com,Cozy boutique hotel,5,Alajuela,La Fortuna,montana,419.00
+346,Hotel NNN,2392,288-417-7550,cmagog91@fastcompany.com,www\.6+\.com,Luxurious beachfront resort,5,Cartago,Manuel Antonio,montana,633.00
+347,Hotel DD,934,147-889-5373,ahughland92@apple.com,www\.4+\.com,Historic downtown hotel,3,Guanacaste,Tamarindo,montana,120.00
+348,Hotel GGG,61,823-338-7567,lellgood93@ihg.com,www\.b+\.com,Modern city center hotel,1,San Jose,Bella Vista,montana,927.00
+349,Hotel FF,5909,463-421-7929,yboman94@ihg.com,www\.q+\.com,Luxurious beachfront resort,2,San Jose,Tamarindo,montana,216.00
+350,Hotel TTT,628,270-526-7550,hpigeram95@ow.ly,www\.8+\.com,Modern city center hotel,5,Alajuela,Tamarindo,montana,832.00
+351,Hotel FF,6,144-265-9851,fgiorgi96@delicious.com,www\.Q+\.com,Luxurious beachfront resort,2,Cartago,La Fortuna,montana,787.00
+352,Hotel V,2,733-854-3262,kodooley97@nature.com,www\.P+\.com,Modern city center hotel,2,Limon,Tamarindo,montana,557.00
+353,Hotel DD,440,256-398-7419,cdavison98@123-reg.co.uk,www\.D+\.com,Charming countryside inn,3,Cartago,Bella Vista,playa,878.00
+354,Hotel III,8,416-399-2447,gcody99@businessinsider.com,www\.2+\.com,Charming countryside inn,4,Cartago,Liberia,playa,989.00
+355,Hotel YYY,1,430-272-2074,ebains9a@cdc.gov,www\.x+\.com,Cozy boutique hotel,3,Limon,Liberia,montana,737.00
+356,Hotel HH,6,563-971-5849,lpelzer9b@nymag.com,www\.H+\.com,Luxurious beachfront resort,4,Cartago,Bella Vista,playa,301.00
+357,Hotel EEE,40248,912-736-6411,azammitt9c@mlb.com,www\.J+\.com,Luxurious beachfront resort,5,Guanacaste,La Fortuna,playa,182.00
+358,Hotel ZZ,60,250-381-6680,cscobie9d@ow.ly,www\.Z+\.com,Cozy boutique hotel,3,Cartago,La Fortuna,playa,108.00
+359,Hotel T,7,707-777-1770,dabisetti9e@google.ca,www\.q+\.com,Historic downtown hotel,3,Limon,Manuel Antonio,playa,200.00
+360,Hotel GG,03293,482-957-6876,vbernaldo9f@istockphoto.com,www\.6+\.com,Historic downtown hotel,4,San Jose,Manuel Antonio,montana,521.00
+361,Hotel JJJ,0772,133-958-3545,jelecum9g@techcrunch.com,www\.2+\.com,Luxurious beachfront resort,2,Guanacaste,La Fortuna,playa,228.00
+362,Hotel AAA,93,944-319-0083,mmckniely9h@noaa.gov,www\.P+\.com,Historic downtown hotel,1,Cartago,Bella Vista,playa,217.00
+363,Hotel N,49722,284-211-8030,tkingsnod9i@webs.com,www\.q+\.com,Luxurious beachfront resort,1,Limon,Tamarindo,montana,122.00
+364,Hotel GG,535,508-559-5851,dgogarty9j@illinois.edu,www\.V+\.com,Historic downtown hotel,2,Alajuela,Liberia,montana,753.00
+365,Hotel C,1,,ngribben9k@slate.com,www\.d+\.com,Luxurious beachfront resort,3,Heredia,Tamarindo,montana,124.00
+366,Hotel III,61,381-133-7255,ssoal9l@google.com.hk,www\.h+\.com,Modern city center hotel,4,Alajuela,Manuel Antonio,playa,888.00
+367,Hotel P,6542,812-855-7643,emeekin9m@va.gov,www\.n+\.com,Luxurious beachfront resort,5,Limon,Manuel Antonio,montana,803.00
+368,Hotel YYY,60,804-757-8816,jcoole9n@ustream.tv,www\.4+\.com,Modern city center hotel,4,Heredia,Liberia,playa,782.00
+369,Hotel YY,49304,324-362-7318,apavlenkov9o@ustream.tv,www\.n+\.com,Luxurious beachfront resort,4,Cartago,Tamarindo,playa,150.00
+370,Hotel V,13,569-100-2292,kmival9p@tuttocitta.it,www\.f+\.com,Cozy boutique hotel,5,Cartago,La Fortuna,montana,221.00
+371,Hotel W,83,863-710-0879,abelasco9q@sogou.com,www\.Q+\.com,Charming countryside inn,5,Guanacaste,Liberia,montana,932.00
+372,Hotel Z,7044,834-305-9733,bferschke9r@sourceforge.net,www\.w+\.com,Cozy boutique hotel,4,Limon,La Fortuna,montana,317.00
+373,Hotel HH,41,109-885-5654,oslorance9s@pen.io,www\.H+\.com,Luxurious beachfront resort,3,Guanacaste,La Fortuna,montana,189.00
+374,Hotel S,088,960-898-9474,jlackham9t@alexa.com,www\.3+\.com,Charming countryside inn,5,Heredia,Liberia,montana,170.00
+375,Hotel MMM,168,602-646-5118,syateman9u@cargocollective.com,www\.0+\.com,Charming countryside inn,4,Heredia,La Fortuna,playa,864.00
+376,Hotel W,5,619-936-8478,aboldecke9v@bandcamp.com,www\.9+\.com,Modern city center hotel,5,Guanacaste,Liberia,playa,582.00
+377,Hotel B,4537,315-340-7201,bhannaby9w@macromedia.com,www\.9+\.com,Charming countryside inn,4,Alajuela,Liberia,montana,736.00
+378,Hotel C,051,370-754-7153,mpaynton9x@businessweek.com,www\.k+\.com,Charming countryside inn,4,Alajuela,Liberia,playa,104.00
+379,Hotel ZZ,550,963-676-0030,htroman9y@baidu.com,www\.N+\.com,Historic downtown hotel,4,San Jose,Tamarindo,montana,380.00
+380,Hotel JJ,239,478-863-9072,wlesly9z@amazon.com,www\.d+\.com,Luxurious beachfront resort,2,Limon,Liberia,montana,432.00
+381,Hotel X,19845,711-446-4563,csemorada0@ocn.ne.jp,www\.t+\.com,Modern city center hotel,2,Limon,Bella Vista,playa,277.00
+382,Hotel PPP,693,766-935-4618,lhousbiea1@histats.com,www\.h+\.com,Modern city center hotel,3,Heredia,Tamarindo,playa,224.00
+383,Hotel Q,6,884-600-3631,mgwynnea2@163.com,www\.5+\.com,Luxurious beachfront resort,2,Guanacaste,Bella Vista,playa,439.00
+384,Hotel GG,60873,884-221-4943,gtoynbeea3@jalbum.net,www\.0+\.com,Modern city center hotel,3,Limon,La Fortuna,montana,748.00
+385,Hotel UU,75,544-718-8276,ldimaggioa4@census.gov,www\.U+\.com,Cozy boutique hotel,1,Limon,Liberia,montana,622.00
+386,Hotel FFF,56,922-380-1994,clinkea5@digg.com,www\.C+\.com,Historic downtown hotel,2,Heredia,Tamarindo,playa,668.00
+387,Hotel ZZZ,8918,,djoncica6@twitter.com,www\.q+\.com,Charming countryside inn,1,Heredia,Liberia,playa,732.00
+388,Hotel V,40,369-552-5444,hjenninsa7@senate.gov,www\.W+\.com,Modern city center hotel,1,Cartago,Manuel Antonio,playa,691.00
+389,Hotel BB,76565,830-813-6476,ccamillia8@privacy.gov.au,www\.9+\.com,Charming countryside inn,5,Guanacaste,Tamarindo,playa,483.00
+390,Hotel YY,63,,pciccoloia9@illinois.edu,www\.5+\.com,Charming countryside inn,2,Heredia,Manuel Antonio,montana,396.00
+391,Hotel GG,86655,672-861-4319,kshadeaa@gov.uk,www\.5+\.com,Modern city center hotel,2,Heredia,Bella Vista,playa,151.00
+392,Hotel RRR,87,781-140-0420,ibusab@dyndns.org,www\.l+\.com,Historic downtown hotel,2,Puntarenas,Bella Vista,playa,618.00
+393,Hotel AA,89,467-532-5573,gmogenotac@seattletimes.com,www\.v+\.com,Charming countryside inn,2,Heredia,La Fortuna,playa,451.00
+394,Hotel U,3120,322-946-0474,ithirlwallad@youtube.com,www\.j+\.com,Cozy boutique hotel,2,Alajuela,Liberia,montana,714.00
+395,Hotel ZZZ,0,297-729-9946,jwisamae@a8.net,www\.H+\.com,Modern city center hotel,3,Puntarenas,Manuel Antonio,montana,829.00
+396,Hotel M,6442,645-691-6885,egiffardaf@deliciousdays.com,www\.9+\.com,Charming countryside inn,5,Heredia,Tamarindo,playa,979.00
+397,Hotel J,7,749-913-3389,lmerriottag@europa.eu,www\.0+\.com,Modern city center hotel,2,Puntarenas,Bella Vista,montana,879.00
+398,Hotel DD,91,762-587-8161,aderwinah@elpais.com,www\.J+\.com,Cozy boutique hotel,2,Cartago,Tamarindo,montana,942.00
+399,Hotel P,9563,794-513-6074,rhouldenai@sciencedirect.com,www\.y+\.com,Historic downtown hotel,3,Guanacaste,Tamarindo,playa,726.00
+400,Hotel I,84,799-244-3599,rmcblainaj@nps.gov,www\.5+\.com,Historic downtown hotel,5,Puntarenas,Bella Vista,montana,726.00
+401,Hotel WWW,03692,925-168-9810,pbeadnellak@abc.net.au,www\.j+\.com,Cozy boutique hotel,2,Puntarenas,La Fortuna,montana,832.00
+402,Hotel U,11800,423-800-6057,bnoadal@usatoday.com,www\.u+\.com,Charming countryside inn,3,Guanacaste,Manuel Antonio,playa,608.00
+403,Hotel VVV,1,779-339-7380,kgrgicam@nyu.edu,www\.j+\.com,Modern city center hotel,3,Guanacaste,Bella Vista,playa,350.00
+404,Hotel X,771,680-650-0183,apietersan@istockphoto.com,www\.4+\.com,Modern city center hotel,4,Cartago,La Fortuna,playa,456.00
+405,Hotel MMM,1195,608-571-0134,msemanao@yelp.com,www\.5+\.com,Charming countryside inn,1,Guanacaste,Tamarindo,montana,424.00
+406,Hotel OOO,5747,249-773-1426,dbezantap@va.gov,www\.G+\.com,Charming countryside inn,3,Heredia,La Fortuna,montana,264.00
+407,Hotel N,4,275-632-7047,malentyevaq@ca.gov,www\.z+\.com,Modern city center hotel,4,Guanacaste,Tamarindo,playa,946.00
+408,Hotel AA,77559,357-711-9332,ssemkinsar@angelfire.com,www\.G+\.com,Historic downtown hotel,5,Guanacaste,Manuel Antonio,montana,740.00
+409,Hotel VV,03,170-198-7581,emarchantas@cocolog-nifty.com,www\.9+\.com,Luxurious beachfront resort,4,Heredia,La Fortuna,playa,249.00
+410,Hotel XX,8,942-541-1153,zdreghornat@archive.org,www\.A+\.com,Modern city center hotel,5,Guanacaste,Liberia,montana,985.00
+411,Hotel II,35,848-685-3767,lyousterau@mashable.com,www\.R+\.com,Luxurious beachfront resort,2,San Jose,Manuel Antonio,montana,162.00
+412,Hotel FFF,25127,740-860-3025,mryhorovichav@cnet.com,www\.v+\.com,Luxurious beachfront resort,3,Limon,La Fortuna,playa,960.00
+413,Hotel CC,16454,570-202-0829,ymerrileesaw@dagondesign.com,www\.9+\.com,Luxurious beachfront resort,1,Heredia,Liberia,playa,706.00
+414,Hotel B,8772,728-423-2518,blampeax@hugedomains.com,www\.m+\.com,Historic downtown hotel,3,Guanacaste,Tamarindo,playa,996.00
+415,Hotel MM,8227,890-225-7063,ibrenday@who.int,www\.0+\.com,Historic downtown hotel,2,Cartago,Tamarindo,montana,567.00
+416,Hotel VV,25564,755-650-3059,ayosifovaz@chicagotribune.com,www\.Z+\.com,Luxurious beachfront resort,2,Guanacaste,Liberia,playa,340.00
+417,Hotel O,85,952-714-7755,gcotgroveb0@so-net.ne.jp,www\.t+\.com,Historic downtown hotel,3,Guanacaste,Tamarindo,montana,710.00
+418,Hotel LL,51009,265-485-8232,echesterfieldb1@spiegel.de,www\.K+\.com,Historic downtown hotel,3,Puntarenas,Manuel Antonio,montana,390.00
+419,Hotel Q,55,602-886-3992,sistedb2@ca.gov,www\.Z+\.com,Modern city center hotel,3,Guanacaste,Tamarindo,montana,949.00
+420,Hotel FF,8113,108-967-2173,ekubiczekb3@etsy.com,www\.9+\.com,Charming countryside inn,4,San Jose,La Fortuna,montana,641.00
+421,Hotel KK,149,320-431-5618,lwoodheadb4@mediafire.com,www\.C+\.com,Modern city center hotel,2,San Jose,Bella Vista,playa,911.00
+422,Hotel BBB,06,810-776-6996,mnornableb5@surveymonkey.com,www\.z+\.com,Modern city center hotel,3,Limon,Liberia,playa,174.00
+423,Hotel FFF,02028,393-576-3025,ghoutbyb6@ucla.edu,www\.8+\.com,Charming countryside inn,3,Limon,Liberia,montana,937.00
+424,Hotel PP,43115,223-774-6451,scadeb7@blog.com,www\.z+\.com,Historic downtown hotel,5,San Jose,Manuel Antonio,montana,747.00
+425,Hotel O,27923,,ctoppasb8@wired.com,www\.1+\.com,Historic downtown hotel,0,Guanacaste,Liberia,montana,544.00
+426,Hotel EE,60,383-224-5744,esnellingb9@purevolume.com,www\.S+\.com,Luxurious beachfront resort,3,Heredia,Tamarindo,montana,664.00
+427,Hotel III,232,879-179-5692,ebewfieldba@typepad.com,www\.V+\.com,Charming countryside inn,2,San Jose,Manuel Antonio,montana,168.00
+428,Hotel A,27588,843-905-5562,agallaharbb@vkontakte.ru,www\.y+\.com,Historic downtown hotel,1,Limon,Manuel Antonio,montana,546.00
+429,Hotel HH,1,224-118-3668,kosheerinbc@nifty.com,www\.X+\.com,Charming countryside inn,2,Limon,Tamarindo,playa,228.00
+430,Hotel X,3752,561-849-3189,ckusickbd@wikispaces.com,www\.9+\.com,Luxurious beachfront resort,5,Cartago,Liberia,playa,475.00
+431,Hotel SS,252,101-370-4340,sbarkasbe@cdbaby.com,www\.9+\.com,Luxurious beachfront resort,5,San Jose,Manuel Antonio,montana,750.00
+432,Hotel GGG,1,746-720-1286,jdanielkiewiczbf@foxnews.com,www\.M+\.com,Charming countryside inn,5,Limon,Liberia,playa,451.00
+433,Hotel S,407,553-787-6654,bcanavanbg@bluehost.com,www\.o+\.com,Luxurious beachfront resort,4,San Jose,Bella Vista,playa,645.00
+434,Hotel Y,72079,399-132-4836,mtingleybh@adobe.com,www\.7+\.com,Cozy boutique hotel,2,Heredia,La Fortuna,playa,572.00
+435,Hotel JJ,1,136-136-2533,gclamobi@t-online.de,www\.s+\.com,Luxurious beachfront resort,5,Puntarenas,Manuel Antonio,montana,327.00
+436,Hotel FF,5703,676-573-0021,abielbybj@topsy.com,www\.b+\.com,Historic downtown hotel,5,Guanacaste,La Fortuna,montana,294.00
+437,Hotel HHH,946,839-391-0629,sbrockleybk@vimeo.com,www\.6+\.com,Modern city center hotel,5,Puntarenas,Tamarindo,montana,600.00
+438,Hotel K,0,741-863-2521,kmillyardbl@senate.gov,www\.K+\.com,Charming countryside inn,3,Heredia,Manuel Antonio,montana,136.00
+439,Hotel GG,2882,758-844-0640,yfairbairnbm@seattletimes.com,www\.7+\.com,Historic downtown hotel,4,Alajuela,La Fortuna,playa,227.00
+440,Hotel DD,7,481-887-3963,stumilitybn@soundcloud.com,www\.8+\.com,Charming countryside inn,4,Puntarenas,Liberia,playa,230.00
+441,Hotel AA,983,341-453-0860,bfladebo@about.com,www\.i+\.com,Cozy boutique hotel,5,San Jose,Bella Vista,playa,979.00
+442,Hotel HHH,9,130-560-6417,cwayebp@plala.or.jp,www\.O+\.com,Luxurious beachfront resort,2,Heredia,La Fortuna,montana,139.00
+443,Hotel H,24936,433-621-8459,bcosensbq@globo.com,www\.9+\.com,Luxurious beachfront resort,5,Limon,Bella Vista,playa,683.00
+444,Hotel Z,7,222-968-6790,snisebr@tmall.com,www\.Y+\.com,Cozy boutique hotel,3,Limon,Tamarindo,montana,858.00
+445,Hotel MMM,25,157-654-1295,ejurischbs@about.com,www\.3+\.com,Modern city center hotel,3,San Jose,Manuel Antonio,playa,463.00
+446,Hotel O,907,980-615-1687,tsandaverbt@who.int,www\.2+\.com,Modern city center hotel,4,Cartago,Bella Vista,playa,733.00
+447,Hotel LLL,3,861-290-8498,wpeaddiebu@hubpages.com,www\.Y+\.com,Luxurious beachfront resort,1,Limon,Manuel Antonio,playa,116.00
+448,Hotel Y,679,342-132-8032,ecornishbv@gravatar.com,www\.2+\.com,Historic downtown hotel,5,Puntarenas,Liberia,montana,416.00
+449,Hotel E,3844,313-188-1314,wmartinovskybw@phpbb.com,www\.2+\.com,Modern city center hotel,5,Guanacaste,Liberia,playa,626.00
+450,Hotel J,51,587-287-2627,rgandarbx@ebay.co.uk,www\.7+\.com,Luxurious beachfront resort,1,San Jose,Bella Vista,playa,670.00
+451,Hotel F,9971,140-621-8528,jboowby@squidoo.com,www\.Y+\.com,Luxurious beachfront resort,2,Alajuela,La Fortuna,playa,816.00
+452,Hotel ZZZ,53639,245-270-9777,lcolliholebz@uol.com.br,www\.R+\.com,Cozy boutique hotel,3,Guanacaste,Manuel Antonio,playa,842.00
+453,Hotel FFF,82825,867-588-3077,mlochheadc0@auda.org.au,www\.V+\.com,Cozy boutique hotel,4,San Jose,Tamarindo,playa,479.00
+454,Hotel B,5,817-921-3650,arenderc1@squarespace.com,www\.q+\.com,Luxurious beachfront resort,3,Alajuela,Tamarindo,playa,146.00
+455,Hotel JJJ,7,725-347-4791,mmeachenc2@is.gd,www\.Y+\.com,Luxurious beachfront resort,4,Alajuela,Bella Vista,montana,204.00
+456,Hotel D,37,397-754-8857,ghansomc3@europa.eu,www\.o+\.com,Modern city center hotel,3,Heredia,Liberia,montana,181.00
+457,Hotel BB,0074,129-692-2079,fheavenc4@guardian.co.uk,www\.l+\.com,Historic downtown hotel,1,Heredia,Bella Vista,montana,733.00
+458,Hotel HHH,89,684-469-8897,ahessayc5@nymag.com,www\.5+\.com,Historic downtown hotel,3,Guanacaste,La Fortuna,playa,567.00
+459,Hotel AAA,894,593-716-2370,iblethinc6@economist.com,www\.g+\.com,Historic downtown hotel,1,Limon,Liberia,playa,512.00
+460,Hotel K,61618,300-236-3367,rvonoertzenc7@xrea.com,www\.6+\.com,Charming countryside inn,4,San Jose,Liberia,montana,285.00
+461,Hotel WWW,0450,493-762-6985,bcarnallc8@dagondesign.com,www\.1+\.com,Historic downtown hotel,4,Guanacaste,Tamarindo,montana,458.00
+462,Hotel OO,095,959-294-6585,ascotsonc9@imgur.com,www\.C+\.com,Historic downtown hotel,1,Cartago,Liberia,playa,424.00
+463,Hotel III,503,810-961-0976,opennellca@hhs.gov,www\.b+\.com,Historic downtown hotel,3,Puntarenas,La Fortuna,montana,860.00
+464,Hotel MMM,0231,287-360-3018,ebetancourtcb@w3.org,www\.9+\.com,Modern city center hotel,4,Puntarenas,Liberia,montana,195.00
+465,Hotel XX,857,539-111-3148,cmilancc@weibo.com,www\.4+\.com,Cozy boutique hotel,5,San Jose,Tamarindo,montana,752.00
+466,Hotel JJJ,2919,376-427-1364,vleetcd@jugem.jp,www\.B+\.com,Modern city center hotel,1,Alajuela,Bella Vista,montana,777.00
+467,Hotel DD,7696,446-585-8973,aperkinsonce@unicef.org,www\.N+\.com,Charming countryside inn,5,San Jose,Manuel Antonio,montana,899.00
+468,Hotel ZZ,9105,716-668-3324,ddawtreycf@spotify.com,www\.c+\.com,Cozy boutique hotel,4,Alajuela,Tamarindo,playa,753.00
+469,Hotel EE,46855,863-272-4939,fschwiesocg@abc.net.au,www\.9+\.com,Historic downtown hotel,5,Puntarenas,Tamarindo,playa,358.00
+470,Hotel RRR,7,568-351-9934,llettucech@mlb.com,www\.5+\.com,Modern city center hotel,3,Cartago,Manuel Antonio,montana,914.00
+471,Hotel OO,78263,826-249-6322,cmcilmorieci@theglobeandmail.com,www\.D+\.com,Luxurious beachfront resort,3,Limon,La Fortuna,playa,496.00
+472,Hotel Q,96903,133-781-8635,bsandhamcj@scribd.com,www\.F+\.com,Modern city center hotel,4,Guanacaste,La Fortuna,montana,921.00
+473,Hotel L,3864,252-978-1374,kdorningck@reverbnation.com,www\.E+\.com,Luxurious beachfront resort,1,Puntarenas,Bella Vista,playa,279.00
+474,Hotel TT,30,746-831-6765,bspollencl@eventbrite.com,www\.h+\.com,Cozy boutique hotel,2,Alajuela,Bella Vista,playa,157.00
+475,Hotel JJJ,23,419-617-2240,abrunickecm@4shared.com,www\.3+\.com,Cozy boutique hotel,2,Guanacaste,La Fortuna,playa,937.00
+476,Hotel L,8,278-281-3288,ocallercn@ca.gov,www\.1+\.com,Historic downtown hotel,1,Heredia,Tamarindo,playa,488.00
+477,Hotel MM,4,,cenriquesco@hhs.gov,www\.9+\.com,Luxurious beachfront resort,2,Limon,Bella Vista,montana,462.00
+478,Hotel YY,2,113-827-5186,tmuttoncp@patch.com,www\.B+\.com,Cozy boutique hotel,5,Limon,Manuel Antonio,montana,285.00
+479,Hotel KK,8,561-566-5521,xlacazecq@photobucket.com,www\.6+\.com,Charming countryside inn,4,Alajuela,Liberia,montana,967.00
+480,Hotel AA,93,173-788-7046,gkiwitzcr@theglobeandmail.com,www\.q+\.com,Charming countryside inn,1,San Jose,Manuel Antonio,playa,777.00
+481,Hotel LL,81,292-669-8405,iboundeycs@infoseek.co.jp,www\.7+\.com,Luxurious beachfront resort,2,San Jose,La Fortuna,montana,126.00
+482,Hotel LL,31918,605-591-8186,dmatthisct@chronoengine.com,www\.p+\.com,Luxurious beachfront resort,3,Heredia,Liberia,playa,493.00
+483,Hotel E,14544,377-149-8395,mstubbingscu@npr.org,www\.9+\.com,Modern city center hotel,5,Heredia,Manuel Antonio,montana,377.00
+484,Hotel HH,75,541-954-7773,chazartcv@bloomberg.com,www\.K+\.com,Historic downtown hotel,2,Limon,Manuel Antonio,montana,307.00
+485,Hotel WW,508,,pmcnaughtoncw@vistaprint.com,www\.E+\.com,Modern city center hotel,3,Limon,Bella Vista,montana,411.00
+486,Hotel AAA,9,433-317-9913,fmoppettcx@sina.com.cn,www\.6+\.com,Modern city center hotel,4,Heredia,Liberia,montana,186.00
+487,Hotel EE,2639,336-285-8971,xkingcotecy@linkedin.com,www\.P+\.com,Historic downtown hotel,5,Guanacaste,La Fortuna,montana,501.00
+488,Hotel Q,83896,429-614-2046,mmerringcz@timesonline.co.uk,www\.g+\.com,Cozy boutique hotel,4,San Jose,Liberia,playa,489.00
+489,Hotel WW,2,923-179-7070,fdabnord0@youtube.com,www\.y+\.com,Modern city center hotel,4,Puntarenas,Liberia,playa,554.00
+490,Hotel WWW,91553,472-478-1519,eboottond1@last.fm,www\.O+\.com,Historic downtown hotel,3,San Jose,La Fortuna,montana,229.00
+491,Hotel BBB,8148,417-658-9389,hferrieroid2@gov.uk,www\.Q+\.com,Modern city center hotel,5,Cartago,Tamarindo,montana,196.00
+492,Hotel J,71803,776-735-5324,zrablind3@cocolog-nifty.com,www\.2+\.com,Charming countryside inn,2,Alajuela,La Fortuna,montana,342.00
+493,Hotel TT,2,753-650-4189,basmusd4@naver.com,www\.S+\.com,Cozy boutique hotel,1,Cartago,Liberia,playa,258.00
+494,Hotel QQQ,36,139-574-2109,ttomneyd5@army.mil,www\.5+\.com,Luxurious beachfront resort,4,Limon,Bella Vista,playa,531.00
+495,Hotel AAA,8815,986-396-1484,mfetherstond6@mozilla.com,www\.0+\.com,Modern city center hotel,5,San Jose,Tamarindo,montana,528.00
+496,Hotel I,2269,187-624-6530,avergined7@blogtalkradio.com,www\.W+\.com,Luxurious beachfront resort,5,Limon,Bella Vista,montana,963.00
+497,Hotel N,282,110-652-8006,cbreadd8@eventbrite.com,www\.v+\.com,Luxurious beachfront resort,2,Limon,Bella Vista,playa,892.00
+498,Hotel CC,4325,963-382-0595,cgillbanksd9@ftc.gov,www\.u+\.com,Charming countryside inn,2,Cartago,Bella Vista,playa,125.00
+499,Hotel L,7,759-992-1876,jcorterda@google.ru,www\.9+\.com,Historic downtown hotel,1,Cartago,Manuel Antonio,montana,954.00
+500,Hotel S,5,865-331-9370,vwickesdb@mozilla.org,www\.4+\.com,Luxurious beachfront resort,1,Puntarenas,Bella Vista,montana,698.00
+501,Hotel C,0039,844-688-3381,dbarkworthdc@elpais.com,www\.A+\.com,Charming countryside inn,3,Cartago,La Fortuna,montana,279.00
+502,Hotel MM,23,327-935-1439,gkhilkovdd@cafepress.com,www\.3+\.com,Historic downtown hotel,1,Cartago,Bella Vista,playa,797.00
+503,Hotel RR,53575,633-276-8321,ggrimsleyde@lulu.com,www\.9+\.com,Luxurious beachfront resort,2,Guanacaste,Liberia,playa,195.00
+504,Hotel S,41,752-491-2131,cmccurtdf@vk.com,www\.l+\.com,Luxurious beachfront resort,1,Puntarenas,Manuel Antonio,montana,916.00
+505,Hotel FFF,15681,294-144-1435,kgruszczakdg@mysql.com,www\.a+\.com,Modern city center hotel,1,Heredia,Liberia,playa,298.00
+506,Hotel XXX,127,867-277-6340,causherdh@about.com,www\.8+\.com,Historic downtown hotel,3,Guanacaste,Liberia,playa,609.00
+507,Hotel ZZZ,019,453-242-8042,edoughtydi@shareasale.com,www\.p+\.com,Modern city center hotel,1,San Jose,Bella Vista,montana,382.00
+508,Hotel LL,312,394-150-3752,rbalcondj@hubpages.com,www\.3+\.com,Cozy boutique hotel,1,Puntarenas,Tamarindo,playa,659.00
+509,Hotel RR,7958,901-242-6478,brobersondk@github.io,www\.q+\.com,Luxurious beachfront resort,2,Guanacaste,Manuel Antonio,montana,809.00
+510,Hotel I,7579,777-706-7343,ddominidl@springer.com,www\.9+\.com,Cozy boutique hotel,4,Heredia,Liberia,playa,185.00
+511,Hotel YY,25655,859-157-6042,khixsondm@typepad.com,www\.q+\.com,Luxurious beachfront resort,5,Cartago,Tamarindo,playa,645.00
+512,Hotel OO,46,654-743-6765,vbortoluttidn@printfriendly.com,www\.4+\.com,Cozy boutique hotel,1,Guanacaste,Tamarindo,playa,856.00
+513,Hotel M,563,973-396-3489,phandscombdo@creativecommons.org,www\.J+\.com,Charming countryside inn,2,San Jose,Bella Vista,playa,315.00
+514,Hotel ZZ,4,826-610-7075,cdibbindp@feedburner.com,www\.7+\.com,Cozy boutique hotel,2,Alajuela,Liberia,montana,267.00
+515,Hotel A,9690,611-474-2696,aswantondq@addtoany.com,www\.Q+\.com,Charming countryside inn,4,Puntarenas,Manuel Antonio,montana,225.00
+516,Hotel EE,33228,152-839-3829,ekemelldr@state.tx.us,www\.U+\.com,Historic downtown hotel,3,San Jose,Tamarindo,montana,348.00
+517,Hotel L,6996,964-726-4797,mgoodridgeds@scientificamerican.com,www\.0+\.com,Luxurious beachfront resort,1,San Jose,La Fortuna,montana,523.00
+518,Hotel VV,36970,991-786-1013,bpepyedt@shareasale.com,www\.N+\.com,Charming countryside inn,1,Guanacaste,La Fortuna,montana,300.00
+519,Hotel Y,6,433-139-6921,djurczikdu@wisc.edu,www\.K+\.com,Charming countryside inn,2,San Jose,Tamarindo,playa,404.00
+520,Hotel T,3921,969-755-4359,mgussiedv@spiegel.de,www\.D+\.com,Historic downtown hotel,2,Cartago,Bella Vista,montana,322.00
+521,Hotel XX,9483,915-643-7754,ipigdendw@imdb.com,www\.8+\.com,Modern city center hotel,2,Heredia,La Fortuna,montana,787.00
+522,Hotel J,006,229-296-9430,ekensydx@51.la,www\.8+\.com,Charming countryside inn,4,Cartago,La Fortuna,playa,206.00
+523,Hotel WWW,4235,778-848-1222,gtschurschdy@hubpages.com,www\.1+\.com,Cozy boutique hotel,1,Alajuela,La Fortuna,playa,475.00
+524,Hotel BB,3983,152-532-7187,drounsefulldz@barnesandnoble.com,www\.d+\.com,Modern city center hotel,2,Limon,Liberia,playa,337.00
+525,Hotel ZZZ,45,754-868-9106,hhearmone0@vistaprint.com,www\.5+\.com,Cozy boutique hotel,1,Guanacaste,Bella Vista,playa,510.00
+526,Hotel P,1,752-191-3136,heakee1@theatlantic.com,www\.C+\.com,Modern city center hotel,3,Guanacaste,Liberia,playa,539.00
+527,Hotel ZZZ,889,526-692-8522,bbohine2@java.com,www\.c+\.com,Modern city center hotel,3,Cartago,Manuel Antonio,playa,443.00
+528,Hotel L,73637,105-414-3071,dginglese3@ning.com,www\.9+\.com,Charming countryside inn,3,Alajuela,La Fortuna,playa,587.00
+529,Hotel PPP,1627,201-898-1771,araratye4@ow.ly,www\.U+\.com,Luxurious beachfront resort,4,Alajuela,Liberia,montana,621.00
+530,Hotel OOO,920,778-708-4327,tlallye5@blogger.com,www\.x+\.com,Modern city center hotel,1,Guanacaste,Manuel Antonio,montana,353.00
+531,Hotel VV,11018,667-891-2663,tvernye6@weather.com,www\.O+\.com,Modern city center hotel,1,Puntarenas,Bella Vista,playa,258.00
+532,Hotel GG,96576,180-680-4405,pstallebrasse7@foxnews.com,www\.0+\.com,Cozy boutique hotel,3,Limon,La Fortuna,playa,738.00
+533,Hotel II,83,144-998-8926,mbirtlese8@rakuten.co.jp,www\.q+\.com,Modern city center hotel,5,Puntarenas,La Fortuna,montana,245.00
+534,Hotel DDD,1,766-924-1315,kremingtone9@nih.gov,www\.f+\.com,Charming countryside inn,1,Heredia,Liberia,montana,420.00
+535,Hotel O,84422,626-676-4947,eposthillea@shutterfly.com,www\.5+\.com,Historic downtown hotel,1,San Jose,Bella Vista,montana,519.00
+536,Hotel UU,71,483-790-4497,mhollingsbeeeb@constantcontact.com,www\.k+\.com,Luxurious beachfront resort,3,Limon,La Fortuna,montana,375.00
+537,Hotel M,558,955-487-6546,swellstoodec@google.ru,www\.R+\.com,Charming countryside inn,5,Puntarenas,Tamarindo,montana,362.00
+538,Hotel GGG,42,164-653-6289,itrattlesed@webs.com,www\.q+\.com,Cozy boutique hotel,1,San Jose,Manuel Antonio,montana,402.00
+539,Hotel OOO,4,257-703-9483,vbawlesee@wordpress.org,www\.h+\.com,Cozy boutique hotel,3,Cartago,Liberia,montana,172.00
+540,Hotel M,92,428-848-3113,bsulmanef@geocities.jp,www\.5+\.com,Luxurious beachfront resort,1,Alajuela,Bella Vista,montana,741.00
+541,Hotel SS,78,189-768-5943,hduplantiereg@i2i.jp,www\.5+\.com,Historic downtown hotel,5,Puntarenas,Tamarindo,montana,184.00
+542,Hotel V,26883,164-876-2925,gcitrineeh@hc360.com,www\.4+\.com,Modern city center hotel,5,Alajuela,La Fortuna,playa,332.00
+543,Hotel JJ,40786,467-528-2379,dquinnellei@uiuc.edu,www\.U+\.com,Cozy boutique hotel,2,Guanacaste,La Fortuna,playa,520.00
+544,Hotel SSS,4,486-921-5138,deverittej@wikia.com,www\.D+\.com,Historic downtown hotel,1,Puntarenas,Bella Vista,playa,918.00
+545,Hotel RR,16,314-249-6039,lmeusek@free.fr,www\.2+\.com,Cozy boutique hotel,4,Alajuela,La Fortuna,playa,775.00
+546,Hotel UUU,4948,530-846-2073,dbinesteadel@prnewswire.com,www\.7+\.com,Modern city center hotel,2,Limon,Liberia,playa,138.00
+547,Hotel MMM,0094,848-505-3771,smunginem@phoca.cz,www\.j+\.com,Historic downtown hotel,1,Heredia,Bella Vista,playa,566.00
+548,Hotel OOO,49,855-449-2726,eblooden@accuweather.com,www\.v+\.com,Historic downtown hotel,2,Alajuela,Manuel Antonio,montana,183.00
+549,Hotel QQ,3,514-159-4747,mkienleineo@free.fr,www\.A+\.com,Modern city center hotel,4,Guanacaste,La Fortuna,playa,486.00
+550,Hotel AAA,079,982-286-8418,crothwellep@goo.ne.jp,www\.2+\.com,Charming countryside inn,4,Alajuela,Tamarindo,playa,765.00
+551,Hotel JJJ,6,106-267-2304,dcromwelleq@google.com.au,www\.p+\.com,Modern city center hotel,5,Alajuela,Manuel Antonio,playa,889.00
+552,Hotel T,2,561-781-9709,kplutheroer@ox.ac.uk,www\.H+\.com,Historic downtown hotel,2,Alajuela,Tamarindo,playa,382.00
+553,Hotel G,807,987-952-2019,emclagaines@domainmarket.com,www\.0+\.com,Cozy boutique hotel,1,Alajuela,Bella Vista,montana,283.00
+554,Hotel CCC,5869,143-845-9911,lcourtenayet@bandcamp.com,www\.a+\.com,Modern city center hotel,4,Limon,La Fortuna,montana,451.00
+555,Hotel AAA,54,840-614-7412,bkeyeu@usa.gov,www\.k+\.com,Charming countryside inn,4,Alajuela,Liberia,playa,321.00
+556,Hotel UU,1780,324-844-5288,mbericev@utexas.edu,www\.t+\.com,Luxurious beachfront resort,2,San Jose,La Fortuna,playa,255.00
+557,Hotel VV,678,678-947-9305,gabrahartew@oracle.com,www\.m+\.com,Historic downtown hotel,2,Limon,Tamarindo,playa,876.00
+558,Hotel JJ,12444,556-149-9253,kjerschkeex@cargocollective.com,www\.N+\.com,Modern city center hotel,5,Alajuela,Manuel Antonio,montana,118.00
+559,Hotel OO,439,999-502-1223,kfolbigeey@squidoo.com,www\.W+\.com,Cozy boutique hotel,3,San Jose,Liberia,montana,114.00
+560,Hotel DD,23,420-769-0278,ndobrowolnyez@sogou.com,www\.j+\.com,Charming countryside inn,5,Alajuela,Bella Vista,playa,671.00
+561,Hotel LL,9129,624-682-2317,dfrapef0@istockphoto.com,www\.h+\.com,Modern city center hotel,1,Alajuela,Liberia,montana,511.00
+562,Hotel MM,8,607-781-4435,jhambidgef1@sina.com.cn,www\.9+\.com,Luxurious beachfront resort,4,Cartago,Bella Vista,montana,946.00
+563,Hotel EE,3975,665-668-9121,dzornf2@aol.com,www\.n+\.com,Historic downtown hotel,1,Limon,La Fortuna,montana,517.00
+564,Hotel YYY,38635,135-976-6065,odunkerleyf3@businesswire.com,www\.5+\.com,Cozy boutique hotel,3,Cartago,Liberia,playa,1000.00
+565,Hotel WWW,571,725-490-2771,kgoggeyf4@technorati.com,www\.I+\.com,Charming countryside inn,1,Puntarenas,Tamarindo,montana,952.00
+566,Hotel XXX,08370,611-994-6185,sbasekf5@uiuc.edu,www\.C+\.com,Historic downtown hotel,2,Limon,Manuel Antonio,playa,691.00
+567,Hotel DD,2,692-473-7007,ccallabyf6@lulu.com,www\.b+\.com,Cozy boutique hotel,2,Guanacaste,Tamarindo,montana,343.00
+568,Hotel MMM,179,713-661-1837,bharowerf7@tumblr.com,www\.5+\.com,Historic downtown hotel,1,Alajuela,La Fortuna,playa,835.00
+569,Hotel Y,0098,163-914-3945,caudsleyf8@flickr.com,www\.5+\.com,Charming countryside inn,4,Cartago,Bella Vista,playa,762.00
+570,Hotel EEE,7855,372-306-8222,hshuxsmithf9@mashable.com,www\.y+\.com,Luxurious beachfront resort,3,Limon,Liberia,montana,809.00
+571,Hotel PPP,903,505-608-9210,bsugarmanfa@amazon.co.jp,www\.t+\.com,Historic downtown hotel,2,Cartago,Bella Vista,montana,344.00
+572,Hotel SS,18854,295-842-2433,psheldrickfb@netlog.com,www\.7+\.com,Modern city center hotel,4,Heredia,Liberia,montana,237.00
+573,Hotel KK,8057,401-540-8105,adorkinsfc@hc360.com,www\.5+\.com,Historic downtown hotel,2,Heredia,La Fortuna,playa,595.00
+574,Hotel F,688,793-659-1200,jhabblefd@t-online.de,www\.R+\.com,Luxurious beachfront resort,3,Guanacaste,Tamarindo,playa,195.00
+575,Hotel QQ,6770,855-535-5316,mwattonfe@fda.gov,www\.l+\.com,Charming countryside inn,5,Cartago,La Fortuna,montana,468.00
+576,Hotel XXX,325,298-496-9964,greadwoodff@virginia.edu,www\.N+\.com,Charming countryside inn,5,Limon,Bella Vista,montana,736.00
+577,Hotel GG,3130,398-130-2954,ccoramfg@mediafire.com,www\.t+\.com,Charming countryside inn,2,Heredia,Manuel Antonio,montana,559.00
+578,Hotel AAA,604,351-393-3460,lochterlonyfh@netlog.com,www\.5+\.com,Luxurious beachfront resort,2,Limon,Tamarindo,montana,747.00
+579,Hotel N,46011,973-383-7136,rlaffordfi@usda.gov,www\.Y+\.com,Cozy boutique hotel,3,Alajuela,Bella Vista,montana,249.00
+580,Hotel V,69632,294-623-7660,nnorquoyfj@wordpress.com,www\.c+\.com,Luxurious beachfront resort,4,Guanacaste,Manuel Antonio,playa,972.00
+581,Hotel K,607,150-317-7411,cvillagefk@hc360.com,www\.k+\.com,Charming countryside inn,4,Guanacaste,La Fortuna,playa,425.00
+582,Hotel HHH,58707,641-267-1172,srannsfl@slashdot.org,www\.v+\.com,Historic downtown hotel,3,Limon,La Fortuna,montana,980.00
+583,Hotel SSS,80,290-311-1804,olauderfm@alexa.com,www\.i+\.com,Luxurious beachfront resort,2,Puntarenas,Liberia,montana,150.00
+584,Hotel XX,681,395-339-8893,bpfeffelfn@nhs.uk,www\.r+\.com,Charming countryside inn,2,Alajuela,Tamarindo,montana,415.00
+585,Hotel K,184,252-160-9289,sstarrsfo@forbes.com,www\.8+\.com,Modern city center hotel,1,San Jose,Tamarindo,playa,347.00
+586,Hotel H,71903,419-730-8576,mrobinettefp@google.fr,www\.d+\.com,Historic downtown hotel,5,San Jose,Manuel Antonio,montana,327.00
+587,Hotel D,3879,501-112-8550,lthorndycraftfq@weather.com,www\.x+\.com,Charming countryside inn,5,San Jose,Liberia,playa,237.00
+588,Hotel PPP,4668,504-874-6925,ekensitfr@paginegialle.it,www\.C+\.com,Historic downtown hotel,1,Limon,La Fortuna,montana,665.00
+589,Hotel ZZZ,72007,656-824-3480,fturtlefs@wired.com,www\.F+\.com,Charming countryside inn,1,Limon,Liberia,playa,342.00
+590,Hotel TT,3337,326-246-6244,gmatzaitisft@i2i.jp,www\.g+\.com,Charming countryside inn,2,Cartago,La Fortuna,montana,508.00
+591,Hotel SS,9,983-760-0509,ndelgadillofu@php.net,www\.T+\.com,Luxurious beachfront resort,5,Limon,Tamarindo,playa,127.00
+592,Hotel E,6465,853-912-8905,ffouchfv@cbslocal.com,www\.u+\.com,Luxurious beachfront resort,1,Limon,Bella Vista,playa,613.00
+593,Hotel ZZ,88754,516-418-5240,mgerramfw@msn.com,www\.5+\.com,Modern city center hotel,1,Alajuela,Liberia,montana,131.00
+594,Hotel K,44452,860-780-5108,srenyardfx@theguardian.com,www\.4+\.com,Charming countryside inn,2,Guanacaste,Liberia,montana,649.00
+595,Hotel DDD,2318,685-953-3014,dchasterfy@over-blog.com,www\.d+\.com,Cozy boutique hotel,4,Guanacaste,La Fortuna,montana,766.00
+596,Hotel E,296,439-984-1728,abritlandfz@lycos.com,www\.7+\.com,Cozy boutique hotel,3,Cartago,Tamarindo,playa,636.00
+597,Hotel MM,8,399-374-7502,sgarrawayg0@digg.com,www\.Y+\.com,Cozy boutique hotel,2,Guanacaste,Liberia,playa,523.00
+598,Hotel TTT,2951,512-745-7512,mlefevreg1@ucsd.edu,www\.h+\.com,Modern city center hotel,5,Alajuela,Liberia,montana,903.00
+599,Hotel JJJ,38,862-638-3699,sshivling2@narod.ru,www\.c+\.com,Charming countryside inn,2,Cartago,Manuel Antonio,montana,822.00
+600,Hotel UU,21449,443-282-9443,rreamsg3@vkontakte.ru,www\.5+\.com,Cozy boutique hotel,3,Guanacaste,Bella Vista,playa,445.00
+601,Hotel LL,25,319-655-2286,ebrigstockg4@nhs.uk,www\.8+\.com,Luxurious beachfront resort,2,Alajuela,Tamarindo,playa,618.00
+602,Hotel JJJ,5365,437-825-8321,cstanyang5@hc360.com,www\.b+\.com,Cozy boutique hotel,5,Cartago,La Fortuna,montana,481.00
+603,Hotel LLL,0844,301-788-8682,dgonnellyg6@addthis.com,www\.9+\.com,Modern city center hotel,4,San Jose,Tamarindo,montana,970.00
+604,Hotel I,44,474-180-8196,cwheowallg7@noaa.gov,www\.s+\.com,Historic downtown hotel,3,Cartago,Tamarindo,montana,446.00
+605,Hotel TT,62,385-440-5300,rdupreyg8@paginegialle.it,www\.3+\.com,Modern city center hotel,5,Puntarenas,La Fortuna,montana,279.00
+606,Hotel K,9,393-384-5522,msayeg9@twitpic.com,www\.a+\.com,Historic downtown hotel,5,Alajuela,La Fortuna,playa,335.00
+607,Hotel G,50,235-774-2698,jlockeyga@cam.ac.uk,www\.y+\.com,Charming countryside inn,4,Alajuela,La Fortuna,montana,799.00
+608,Hotel RR,13154,737-701-4017,wpietrigb@sciencedirect.com,www\.j+\.com,Charming countryside inn,1,Heredia,Manuel Antonio,playa,720.00
+609,Hotel GG,85,749-493-7606,agerniergc@illinois.edu,www\.7+\.com,Charming countryside inn,5,Cartago,Liberia,playa,594.00
+610,Hotel CC,151,761-232-2953,epondegd@123-reg.co.uk,www\.9+\.com,Luxurious beachfront resort,4,Guanacaste,La Fortuna,playa,904.00
+611,Hotel JJJ,5,691-940-6937,kturrillge@de.vu,www\.N+\.com,Luxurious beachfront resort,4,Alajuela,Liberia,montana,990.00
+612,Hotel OOO,037,559-253-6387,smurrgf@amazonaws.com,www\.q+\.com,Charming countryside inn,3,Heredia,Bella Vista,playa,345.00
+613,Hotel RR,089,847-792-2669,acosgreavegg@usatoday.com,www\.T+\.com,Historic downtown hotel,3,Alajuela,Tamarindo,playa,187.00
+614,Hotel YYY,989,277-602-3826,hsimysongh@tumblr.com,www\.K+\.com,Historic downtown hotel,4,Puntarenas,Liberia,playa,494.00
+615,Hotel SSS,9937,661-444-0576,gnapolitanogi@columbia.edu,www\.Z+\.com,Cozy boutique hotel,2,Guanacaste,Bella Vista,playa,604.00
+616,Hotel EEE,7475,558-786-4626,cbaudegj@goo.gl,www\.n+\.com,Cozy boutique hotel,3,Guanacaste,Manuel Antonio,montana,710.00
+617,Hotel Q,279,130-738-6434,daltamiranogk@oracle.com,www\.7+\.com,Historic downtown hotel,4,San Jose,Manuel Antonio,montana,764.00
+618,Hotel QQ,967,271-858-5938,gthurlinggl@go.com,www\.q+\.com,Modern city center hotel,1,Limon,Tamarindo,montana,625.00
+619,Hotel FF,67,599-871-4969,kaggliogm@nba.com,www\.A+\.com,Historic downtown hotel,1,Limon,Manuel Antonio,montana,432.00
+620,Hotel UU,2,733-739-0368,fladleygn@jigsy.com,www\.4+\.com,Modern city center hotel,1,Alajuela,Manuel Antonio,playa,845.00
+621,Hotel OO,01854,844-424-7399,mshakeladego@imdb.com,www\.2+\.com,Luxurious beachfront resort,4,San Jose,Tamarindo,montana,566.00
+622,Hotel J,0,835-529-1994,rcritchgp@webeden.co.uk,www\.Y+\.com,Charming countryside inn,2,Alajuela,Liberia,playa,728.00
+623,Hotel II,05671,805-382-2141,sreidshawgq@ning.com,www\.s+\.com,Cozy boutique hotel,4,Limon,La Fortuna,playa,113.00
+624,Hotel B,00801,808-344-2803,rjeremiahgr@slate.com,www\.V+\.com,Luxurious beachfront resort,3,Puntarenas,Bella Vista,playa,457.00
+625,Hotel KK,30,674-781-1152,yocloneygs@google.it,www\.Y+\.com,Modern city center hotel,1,Puntarenas,Tamarindo,montana,760.00
+626,Hotel B,7,524-850-6251,kmullanygt@com.com,www\.L+\.com,Modern city center hotel,2,Puntarenas,La Fortuna,playa,274.00
+627,Hotel WWW,1,253-329-2508,odundongu@printfriendly.com,www\.0+\.com,Modern city center hotel,3,Cartago,Bella Vista,montana,437.00
+628,Hotel XXX,072,394-667-9430,wmccolleygv@alexa.com,www\.1+\.com,Historic downtown hotel,3,Guanacaste,Liberia,playa,861.00
+629,Hotel H,21,983-579-5408,mcorkellgw@webmd.com,www\.T+\.com,Historic downtown hotel,4,San Jose,Tamarindo,playa,756.00
+630,Hotel PPP,91526,432-734-2960,jhantuschgx@reverbnation.com,www\.P+\.com,Modern city center hotel,2,Limon,Liberia,playa,271.00
+631,Hotel S,7,521-461-1516,msearygy@oakley.com,www\.e+\.com,Historic downtown hotel,5,Alajuela,La Fortuna,montana,735.00
+632,Hotel KK,9,135-942-6131,atrillgz@youtube.com,www\.4+\.com,Charming countryside inn,3,Alajuela,Tamarindo,montana,914.00
+633,Hotel X,69,145-468-0541,dfilsonh0@unicef.org,www\.C+\.com,Cozy boutique hotel,2,Limon,Bella Vista,playa,275.00
+634,Hotel II,5399,551-429-1974,nleidlh1@t-online.de,www\.7+\.com,Cozy boutique hotel,4,Puntarenas,Liberia,playa,136.00
+635,Hotel L,9436,241-785-2967,ggroteh2@google.fr,www\.p+\.com,Luxurious beachfront resort,1,Alajuela,Manuel Antonio,montana,206.00
+636,Hotel QQQ,28709,881-344-8591,cgoulyh3@un.org,www\.g+\.com,Charming countryside inn,1,Guanacaste,Bella Vista,playa,234.00
+637,Hotel T,34,538-231-0767,gbroomhallh4@newyorker.com,www\.T+\.com,Modern city center hotel,2,Puntarenas,Tamarindo,montana,600.00
+638,Hotel BBB,31538,360-675-2208,jbarrimh5@networksolutions.com,www\.v+\.com,Cozy boutique hotel,1,San Jose,Manuel Antonio,playa,378.00
+639,Hotel II,87002,533-435-2668,hlinfooth6@va.gov,www\.S+\.com,Modern city center hotel,2,Heredia,Liberia,playa,108.00
+640,Hotel S,501,421-546-8542,mbrandesh7@ocn.ne.jp,www\.5+\.com,Charming countryside inn,1,Guanacaste,Tamarindo,playa,788.00
+641,Hotel RRR,62,737-186-2296,jklaush8@artisteer.com,www\.k+\.com,Cozy boutique hotel,4,Puntarenas,Tamarindo,montana,646.00
+642,Hotel R,772,180-306-3649,tkinchleyh9@deviantart.com,www\.7+\.com,Historic downtown hotel,1,Guanacaste,Tamarindo,montana,504.00
+643,Hotel S,25,505-873-8896,twoolattha@whitehouse.gov,www\.c+\.com,Modern city center hotel,4,San Jose,Tamarindo,montana,403.00
+644,Hotel E,96933,323-900-6324,epalfreehb@wordpress.com,www\.r+\.com,Historic downtown hotel,4,Heredia,Bella Vista,playa,941.00
+645,Hotel OO,84,439-611-9450,mandrichhc@opera.com,www\.u+\.com,Historic downtown hotel,0,Puntarenas,La Fortuna,montana,907.00
+646,Hotel PPP,6151,391-421-2912,mmcnesshd@howstuffworks.com,www\.6+\.com,Luxurious beachfront resort,3,Guanacaste,Tamarindo,playa,650.00
+647,Hotel XX,808,970-421-2110,aivankinhe@smh.com.au,www\.2+\.com,Luxurious beachfront resort,2,Heredia,La Fortuna,playa,273.00
+648,Hotel LLL,86069,288-781-6531,gallsebrookhf@hugedomains.com,www\.G+\.com,Historic downtown hotel,2,Puntarenas,Tamarindo,playa,683.00
+649,Hotel R,4931,943-545-8135,rpressnellhg@wufoo.com,www\.b+\.com,Luxurious beachfront resort,1,Puntarenas,Liberia,montana,990.00
+650,Hotel UU,86404,907-425-4901,istrippelhh@technorati.com,www\.3+\.com,Historic downtown hotel,4,Guanacaste,Bella Vista,playa,132.00
+651,Hotel EE,882,995-787-5826,mpawlikhi@photobucket.com,www\.H+\.com,Luxurious beachfront resort,3,Puntarenas,Liberia,montana,871.00
+652,Hotel XX,31518,316-327-3148,sdugallhj@ebay.co.uk,www\.a+\.com,Cozy boutique hotel,1,Guanacaste,Bella Vista,playa,547.00
+653,Hotel LL,541,980-931-6588,lperryhk@sogou.com,www\.9+\.com,Charming countryside inn,2,Guanacaste,Bella Vista,montana,169.00
+654,Hotel HH,39,300-837-3904,ccambridgehl@tinyurl.com,www\.E+\.com,Historic downtown hotel,3,San Jose,Tamarindo,playa,192.00
+655,Hotel M,3,633-115-1002,samortshm@squidoo.com,www\.g+\.com,Luxurious beachfront resort,4,Puntarenas,Tamarindo,playa,217.00
+656,Hotel X,1690,406-502-3413,mbarbierhn@istockphoto.com,www\.3+\.com,Charming countryside inn,1,Puntarenas,Tamarindo,playa,604.00
+657,Hotel WW,7138,930-856-4048,jcoenraetsho@live.com,www\.i+\.com,Charming countryside inn,1,Guanacaste,Bella Vista,montana,264.00
+658,Hotel S,59443,,bmcwhinniehp@howstuffworks.com,www\.O+\.com,Modern city center hotel,3,Alajuela,Bella Vista,montana,283.00
+659,Hotel G,739,441-930-6979,glepoidevinhq@ovh.net,www\.8+\.com,Historic downtown hotel,5,Puntarenas,Liberia,montana,803.00
+660,Hotel RRR,183,688-954-5460,dsilverhr@ebay.co.uk,www\.M+\.com,Luxurious beachfront resort,5,San Jose,La Fortuna,playa,733.00
+661,Hotel PPP,2,538-115-5828,fdevalhs@shutterfly.com,www\.b+\.com,Modern city center hotel,3,Alajuela,Liberia,montana,846.00
+662,Hotel T,4,260-417-2296,tcoalesht@whitehouse.gov,www\.u+\.com,Luxurious beachfront resort,2,Puntarenas,Bella Vista,montana,328.00
+663,Hotel QQ,0899,350-823-4828,mwinthu@wufoo.com,www\.m+\.com,Luxurious beachfront resort,4,Guanacaste,Bella Vista,montana,977.00
+664,Hotel E,19511,,rrayhv@blogspot.com,www\.8+\.com,Modern city center hotel,2,Cartago,Tamarindo,montana,539.00
+665,Hotel Q,930,883-706-5468,bbracknallhw@youtu.be,www\.2+\.com,Charming countryside inn,1,Guanacaste,La Fortuna,playa,703.00
+666,Hotel HHH,9182,690-847-2193,enewartehx@usgs.gov,www\.z+\.com,Cozy boutique hotel,5,Cartago,La Fortuna,playa,770.00
+667,Hotel AAA,3,,bwhittamhy@imageshack.us,www\.G+\.com,Historic downtown hotel,3,Puntarenas,Manuel Antonio,montana,995.00
+668,Hotel NN,62092,288-314-7181,fmuddlehz@economist.com,www\.x+\.com,Luxurious beachfront resort,1,Puntarenas,Liberia,montana,877.00
+669,Hotel MMM,0,281-345-2222,drosenstengeli0@bbb.org,www\.c+\.com,Modern city center hotel,4,Heredia,Bella Vista,playa,761.00
+670,Hotel YYY,5880,141-203-5416,ggunbyi1@dyndns.org,www\.y+\.com,Historic downtown hotel,4,Alajuela,Tamarindo,playa,190.00
+671,Hotel V,7057,719-913-9202,pbeckhousei2@infoseek.co.jp,www\.0+\.com,Cozy boutique hotel,3,Guanacaste,La Fortuna,montana,561.00
+672,Hotel II,4,968-963-9504,lcruxtoni3@moonfruit.com,www\.o+\.com,Historic downtown hotel,4,Alajuela,Manuel Antonio,playa,833.00
+673,Hotel HH,2,514-692-1721,gcalderbanki4@360.cn,www\.I+\.com,Charming countryside inn,2,Limon,La Fortuna,montana,997.00
+674,Hotel II,06,924-283-8900,cfarreari5@squidoo.com,www\.v+\.com,Charming countryside inn,4,Limon,La Fortuna,playa,298.00
+675,Hotel U,29,839-396-9828,cdorneyi6@nifty.com,www\.0+\.com,Historic downtown hotel,2,Heredia,Tamarindo,montana,399.00
+676,Hotel CC,40799,139-620-7298,ldescoffieri7@webmd.com,www\.0+\.com,Modern city center hotel,2,Cartago,Liberia,montana,478.00
+677,Hotel VV,6037,336-654-7271,mvanneti8@sbwire.com,www\.1+\.com,Charming countryside inn,3,Guanacaste,Bella Vista,playa,235.00
+678,Hotel WWW,79,582-467-4326,wcerseyi9@fc2.com,www\.8+\.com,Historic downtown hotel,4,Heredia,Tamarindo,playa,382.00
+679,Hotel VVV,0583,719-595-3026,mloftusia@dailymotion.com,www\.f+\.com,Cozy boutique hotel,5,Heredia,Tamarindo,montana,370.00
+680,Hotel R,66,368-195-8459,valabastarib@ox.ac.uk,www\.y+\.com,Cozy boutique hotel,1,San Jose,Liberia,playa,497.00
+681,Hotel A,19,787-732-4115,bstaytic@huffingtonpost.com,www\.7+\.com,Historic downtown hotel,2,Heredia,Manuel Antonio,montana,391.00
+682,Hotel EE,0210,565-835-5766,dranscombid@webmd.com,www\.I+\.com,Modern city center hotel,1,Alajuela,Bella Vista,montana,915.00
+683,Hotel CC,5268,531-599-2688,srobinetie@marketwatch.com,www\.j+\.com,Historic downtown hotel,5,Guanacaste,Liberia,playa,863.00
+684,Hotel AAA,23,332-355-6130,hsandayif@wiley.com,www\.0+\.com,Cozy boutique hotel,1,Puntarenas,Liberia,playa,916.00
+685,Hotel TTT,12795,891-491-2489,tquinnellyig@simplemachines.org,www\.B+\.com,Historic downtown hotel,0,Guanacaste,La Fortuna,playa,363.00
+686,Hotel Y,3168,830-116-5116,gfaiersih@skyrock.com,www\.k+\.com,Modern city center hotel,5,Guanacaste,La Fortuna,playa,633.00
+687,Hotel YYY,84,,drudgardii@hc360.com,www\.e+\.com,Cozy boutique hotel,4,Limon,La Fortuna,playa,586.00
+688,Hotel HH,623,575-339-8044,ashoosmithij@joomla.org,www\.5+\.com,Modern city center hotel,1,Heredia,Liberia,playa,978.00
+689,Hotel RR,923,767-964-7442,mbrabbenik@xinhuanet.com,www\.a+\.com,Cozy boutique hotel,4,Cartago,Bella Vista,montana,119.00
+690,Hotel ZZ,1,792-967-5303,aansteysil@facebook.com,www\.j+\.com,Historic downtown hotel,4,Cartago,Tamarindo,montana,746.00
+691,Hotel LLL,94903,805-810-6909,rpalphreymanim@fastcompany.com,www\.V+\.com,Charming countryside inn,0,Puntarenas,Bella Vista,playa,168.00
+692,Hotel CC,89,611-313-7032,rjollandsin@geocities.jp,www\.s+\.com,Luxurious beachfront resort,4,Cartago,Tamarindo,montana,874.00
+693,Hotel LLL,64,763-508-5729,cledleyio@amazon.de,www\.A+\.com,Cozy boutique hotel,4,Puntarenas,Liberia,montana,279.00
+694,Hotel F,13,826-577-5154,ndelaperrelleip@fastcompany.com,www\.D+\.com,Modern city center hotel,4,Puntarenas,Bella Vista,montana,107.00
+695,Hotel III,55,836-961-8455,tpymeriq@timesonline.co.uk,www\.G+\.com,Historic downtown hotel,1,Limon,Liberia,montana,498.00
+696,Hotel VVV,773,910-284-9689,rbutchartir@yandex.ru,www\.p+\.com,Modern city center hotel,5,San Jose,La Fortuna,playa,156.00
+697,Hotel YY,26,169-734-1591,pargeris@theguardian.com,www\.A+\.com,Luxurious beachfront resort,4,San Jose,Liberia,montana,868.00
+698,Hotel XXX,67211,504-297-6823,bstatersfieldit@hp.com,www\.7+\.com,Historic downtown hotel,4,Cartago,La Fortuna,montana,571.00
+699,Hotel OOO,079,678-848-1155,gchingedehalsiu@issuu.com,www\.p+\.com,Luxurious beachfront resort,1,Cartago,Liberia,playa,121.00
+700,Hotel SSS,6461,358-778-2053,eholdworthiv@gravatar.com,www\.1+\.com,Luxurious beachfront resort,3,San Jose,Manuel Antonio,playa,463.00
+701,Hotel VV,9,600-573-9812,isheariw@dedecms.com,www\.s+\.com,Modern city center hotel,3,Puntarenas,Tamarindo,playa,517.00
+702,Hotel YY,635,591-288-6030,amccaughenix@gnu.org,www\.u+\.com,Modern city center hotel,1,Heredia,Manuel Antonio,playa,763.00
+703,Hotel D,65,853-973-0981,jfearnyoughiy@vinaora.com,www\.V+\.com,Historic downtown hotel,5,San Jose,Tamarindo,montana,307.00
+704,Hotel II,93076,273-567-9780,bgookeyiz@dailymotion.com,www\.9+\.com,Cozy boutique hotel,1,Puntarenas,Manuel Antonio,playa,397.00
+705,Hotel UU,4842,548-587-9751,kpeiserj0@artisteer.com,www\.4+\.com,Modern city center hotel,1,Alajuela,Liberia,montana,522.00
+706,Hotel WW,6,792-871-5891,fparamanj1@unblog.fr,www\.6+\.com,Historic downtown hotel,5,Guanacaste,Tamarindo,montana,428.00
+707,Hotel LLL,8549,990-215-0680,lcromettj2@list-manage.com,www\.X+\.com,Historic downtown hotel,5,San Jose,Manuel Antonio,playa,446.00
+708,Hotel Z,13581,706-355-2216,bpinkettj3@cpanel.net,www\.7+\.com,Historic downtown hotel,4,San Jose,Tamarindo,playa,915.00
+709,Hotel K,422,781-522-7903,lfaulknerj4@shutterfly.com,www\.v+\.com,Historic downtown hotel,1,Cartago,Bella Vista,playa,353.00
+710,Hotel Y,1,718-428-0864,kallewayj5@barnesandnoble.com,www\.7+\.com,Cozy boutique hotel,1,San Jose,La Fortuna,playa,735.00
+711,Hotel SS,76,754-928-8705,mgagenj6@answers.com,www\.Z+\.com,Luxurious beachfront resort,5,San Jose,Manuel Antonio,playa,635.00
+712,Hotel OO,3043,154-382-1216,jhoulahanj7@mysql.com,www\.g+\.com,Luxurious beachfront resort,3,Guanacaste,Tamarindo,montana,693.00
+713,Hotel I,95,499-800-7672,ccrosonj8@biblegateway.com,www\.C+\.com,Historic downtown hotel,1,Cartago,Bella Vista,playa,465.00
+714,Hotel JJJ,06,645-881-1642,vclintonj9@behance.net,www\.1+\.com,Luxurious beachfront resort,3,Heredia,Bella Vista,montana,764.00
+715,Hotel QQ,4511,837-246-4475,kskipperbottomja@alexa.com,www\.7+\.com,Cozy boutique hotel,1,San Jose,Bella Vista,playa,453.00
+716,Hotel CC,2,587-311-2316,mwyerjb@icio.us,www\.Q+\.com,Luxurious beachfront resort,3,Cartago,Liberia,playa,788.00
+717,Hotel MM,1,802-415-9518,ngrobjc@google.co.uk,www\.B+\.com,Luxurious beachfront resort,2,Heredia,Manuel Antonio,montana,627.00
+718,Hotel G,78863,519-384-4126,asellarsjd@vinaora.com,www\.1+\.com,Luxurious beachfront resort,1,Guanacaste,La Fortuna,montana,260.00
+719,Hotel FF,12,620-695-9896,mglauberje@pagesperso-orange.fr,www\.y+\.com,Historic downtown hotel,4,Puntarenas,Liberia,playa,244.00
+720,Hotel E,62,362-358-5297,htredgetjf@xing.com,www\.K+\.com,Modern city center hotel,4,Alajuela,Manuel Antonio,montana,934.00
+721,Hotel BBB,0397,195-529-9615,snicklenjg@latimes.com,www\.E+\.com,Cozy boutique hotel,5,Cartago,Bella Vista,playa,820.00
+722,Hotel P,16,146-569-4058,ulacejh@ow.ly,www\.h+\.com,Cozy boutique hotel,5,Puntarenas,Tamarindo,montana,263.00
+723,Hotel CCC,8403,696-709-4398,fcochji@nydailynews.com,www\.X+\.com,Modern city center hotel,4,Cartago,La Fortuna,playa,496.00
+724,Hotel HHH,37,912-359-9513,tazemajj@w3.org,www\.p+\.com,Luxurious beachfront resort,2,Heredia,Tamarindo,playa,146.00
+725,Hotel UUU,0234,537-528-9719,gbogaysjk@salon.com,www\.i+\.com,Charming countryside inn,4,Alajuela,Bella Vista,playa,217.00
+726,Hotel AAA,4946,806-593-9505,lvarnalsjl@example.com,www\.5+\.com,Luxurious beachfront resort,5,Heredia,Tamarindo,playa,805.00
+727,Hotel EEE,57,450-595-8427,jcoultishjm@php.net,www\.8+\.com,Luxurious beachfront resort,5,Guanacaste,Liberia,playa,176.00
+728,Hotel TTT,888,537-148-7244,dsoutherelljn@spiegel.de,www\.m+\.com,Charming countryside inn,3,Cartago,Tamarindo,playa,459.00
+729,Hotel DDD,8,354-115-8672,claweyjo@nps.gov,www\.J+\.com,Charming countryside inn,1,Guanacaste,Bella Vista,montana,574.00
+730,Hotel YYY,96,524-908-5781,bstudeartjp@1und1.de,www\.g+\.com,Cozy boutique hotel,4,Cartago,La Fortuna,montana,637.00
+731,Hotel VV,144,321-654-6010,dpendrichjq@naver.com,www\.4+\.com,Luxurious beachfront resort,2,Cartago,Manuel Antonio,playa,877.00
+732,Hotel AA,615,368-892-7635,bcamidgejr@qq.com,www\.J+\.com,Cozy boutique hotel,4,Alajuela,Bella Vista,playa,883.00
+733,Hotel N,1998,438-397-4885,afarlambejs@yolasite.com,www\.X+\.com,Cozy boutique hotel,5,Guanacaste,Manuel Antonio,montana,585.00
+734,Hotel OO,63,764-883-6368,tpesekjt@huffingtonpost.com,www\.Y+\.com,Historic downtown hotel,4,Alajuela,Tamarindo,playa,893.00
+735,Hotel HHH,99310,425-364-1842,acreeganju@disqus.com,www\.0+\.com,Charming countryside inn,5,Puntarenas,Liberia,montana,145.00
+736,Hotel H,01138,392-905-0196,mgibkejv@ameblo.jp,www\.1+\.com,Modern city center hotel,3,Guanacaste,La Fortuna,montana,948.00
+737,Hotel RRR,08,211-441-8969,aeastesjw@irs.gov,www\.M+\.com,Luxurious beachfront resort,5,Heredia,Manuel Antonio,playa,874.00
+738,Hotel OO,85665,127-120-2413,apimlottjx@cmu.edu,www\.p+\.com,Historic downtown hotel,4,Guanacaste,Bella Vista,montana,777.00
+739,Hotel H,570,777-254-3598,mfaithfulljy@mit.edu,www\.X+\.com,Charming countryside inn,2,Heredia,Manuel Antonio,playa,568.00
+740,Hotel GGG,855,651-136-7994,jpattinsonjz@typepad.com,www\.0+\.com,Cozy boutique hotel,2,Heredia,Liberia,playa,739.00
+741,Hotel CCC,9163,903-896-4495,tmcallasterk0@google.ru,www\.R+\.com,Charming countryside inn,5,San Jose,Manuel Antonio,montana,946.00
+742,Hotel EE,82,673-438-5418,aparslowk1@barnesandnoble.com,www\.4+\.com,Charming countryside inn,5,Cartago,Tamarindo,montana,532.00
+743,Hotel UU,21,193-846-1595,emccrystalk2@deliciousdays.com,www\.7+\.com,Charming countryside inn,4,Guanacaste,La Fortuna,montana,587.00
+744,Hotel OO,476,886-360-2776,hbathak3@time.com,www\.j+\.com,Cozy boutique hotel,1,San Jose,Manuel Antonio,playa,412.00
+745,Hotel BBB,50,564-804-5946,rarmisteadk4@reference.com,www\.Q+\.com,Luxurious beachfront resort,3,Guanacaste,Liberia,montana,307.00
+746,Hotel KK,907,187-439-3182,jphilipssonk5@ameblo.jp,www\.5+\.com,Modern city center hotel,4,Puntarenas,Tamarindo,montana,276.00
+747,Hotel P,18096,269-889-5338,sdellascalak6@sphinn.com,www\.0+\.com,Modern city center hotel,3,Limon,Bella Vista,montana,568.00
+748,Hotel WWW,49130,604-712-3801,cboeterk7@behance.net,www\.9+\.com,Cozy boutique hotel,5,Alajuela,Bella Vista,playa,542.00
+749,Hotel AAA,858,220-136-9858,fbazeleyk8@arstechnica.com,www\.3+\.com,Historic downtown hotel,4,Heredia,Manuel Antonio,playa,350.00
+750,Hotel OO,160,554-551-0072,mganterk9@odnoklassniki.ru,www\.u+\.com,Cozy boutique hotel,1,Limon,Manuel Antonio,playa,102.00
+751,Hotel GGG,7,646-600-0649,cmenaultka@geocities.com,www\.7+\.com,Historic downtown hotel,4,Guanacaste,Bella Vista,playa,531.00
+752,Hotel N,578,969-235-2044,tdavidgekb@sitemeter.com,www\.x+\.com,Cozy boutique hotel,3,Cartago,La Fortuna,playa,411.00
+753,Hotel KK,871,604-265-1255,gkirtlankc@noaa.gov,www\.i+\.com,Cozy boutique hotel,3,Guanacaste,Manuel Antonio,montana,143.00
+754,Hotel F,13010,775-136-3950,soldenkd@yahoo.com,www\.2+\.com,Luxurious beachfront resort,2,San Jose,Liberia,playa,476.00
+755,Hotel C,2,392-791-1073,rzamorake@com.com,www\.9+\.com,Cozy boutique hotel,2,Cartago,Tamarindo,playa,727.00
+756,Hotel TT,4693,537-888-3757,ekingslykf@bandcamp.com,www\.N+\.com,Cozy boutique hotel,5,San Jose,Manuel Antonio,playa,607.00
+757,Hotel X,6043,811-556-2094,tbainbriggekg@foxnews.com,www\.3+\.com,Cozy boutique hotel,3,Cartago,Tamarindo,montana,717.00
+758,Hotel LL,5,873-575-3108,fpaddingdonkh@deliciousdays.com,www\.9+\.com,Modern city center hotel,1,Guanacaste,Manuel Antonio,playa,886.00
+759,Hotel DDD,65648,784-144-8329,fsumpnerki@cyberchimps.com,www\.J+\.com,Luxurious beachfront resort,4,Limon,Liberia,montana,883.00
+760,Hotel BB,4,274-488-6086,eilewiczkj@desdev.cn,www\.5+\.com,Charming countryside inn,4,Alajuela,La Fortuna,playa,764.00
+761,Hotel EE,660,713-801-4071,dtetfordkk@sourceforge.net,www\.N+\.com,Charming countryside inn,5,San Jose,Liberia,playa,445.00
+762,Hotel LLL,800,955-399-6592,wdunderdalekl@si.edu,www\.O+\.com,Luxurious beachfront resort,2,San Jose,Tamarindo,montana,320.00
+763,Hotel NNN,53,510-137-7712,lhallekm@youku.com,www\.S+\.com,Modern city center hotel,1,Heredia,Liberia,montana,387.00
+764,Hotel UU,60136,803-972-7977,hperkinkn@cargocollective.com,www\.3+\.com,Charming countryside inn,2,Limon,Manuel Antonio,montana,911.00
+765,Hotel N,30,750-733-3333,cmacgowko@state.tx.us,www\.b+\.com,Luxurious beachfront resort,1,Alajuela,Liberia,playa,804.00
+766,Hotel NNN,5295,454-752-0947,mvasilevichkp@blinklist.com,www\.Q+\.com,Modern city center hotel,4,Alajuela,Liberia,playa,906.00
+767,Hotel A,59117,296-367-5243,bhaslenkq@tinypic.com,www\.6+\.com,Luxurious beachfront resort,3,Guanacaste,Liberia,montana,239.00
+768,Hotel YY,61,326-249-7002,bsquelchkr@sitemeter.com,www\.6+\.com,Modern city center hotel,3,Cartago,Tamarindo,playa,376.00
+769,Hotel BBB,09364,484-817-8470,lrosenfarbks@posterous.com,www\.O+\.com,Historic downtown hotel,2,Alajuela,La Fortuna,montana,462.00
+770,Hotel DD,68,323-843-9500,gcordelkt@nih.gov,www\.G+\.com,Modern city center hotel,5,San Jose,Tamarindo,playa,409.00
+771,Hotel YY,28,445-360-2644,kmenlowku@canalblog.com,www\.c+\.com,Cozy boutique hotel,3,Limon,La Fortuna,playa,249.00
+772,Hotel DD,13,501-687-8329,bsoulsbykv@wisc.edu,www\.O+\.com,Modern city center hotel,1,Heredia,Tamarindo,playa,853.00
+773,Hotel CCC,034,535-128-8083,bsleitkw@techcrunch.com,www\.1+\.com,Cozy boutique hotel,2,Guanacaste,Liberia,montana,248.00
+774,Hotel F,19,579-317-4030,bgledekx@bizjournals.com,www\.Q+\.com,Charming countryside inn,1,Heredia,Manuel Antonio,montana,102.00
+775,Hotel RR,62023,282-697-7164,amcgillreichky@vimeo.com,www\.H+\.com,Modern city center hotel,5,Alajuela,Manuel Antonio,playa,908.00
+776,Hotel N,21,532-128-9706,csentonkz@sciencedaily.com,www\.k+\.com,Historic downtown hotel,4,San Jose,La Fortuna,montana,899.00
+777,Hotel F,40,208-431-3764,gericksonl0@skype.com,www\.p+\.com,Modern city center hotel,5,Guanacaste,Bella Vista,playa,215.00
+778,Hotel QQQ,81,339-847-2759,oacomel1@weebly.com,www\.3+\.com,Charming countryside inn,4,Cartago,Tamarindo,montana,281.00
+779,Hotel AAA,6294,999-931-2938,eakhurstl2@nsw.gov.au,www\.l+\.com,Charming countryside inn,1,Guanacaste,Manuel Antonio,montana,381.00
+780,Hotel HH,3,,squelchl3@is.gd,www\.4+\.com,Modern city center hotel,4,Alajuela,La Fortuna,montana,659.00
+781,Hotel FFF,131,231-182-7747,vstorrarl4@harvard.edu,www\.0+\.com,Luxurious beachfront resort,2,San Jose,Liberia,montana,607.00
+782,Hotel QQQ,529,,grufflil5@constantcontact.com,www\.1+\.com,Cozy boutique hotel,2,Heredia,La Fortuna,montana,637.00
+783,Hotel R,634,312-594-6764,elehrahanl6@google.com,www\.O+\.com,Historic downtown hotel,3,Heredia,La Fortuna,playa,402.00
+784,Hotel YY,0117,274-146-5811,ksoutherilll7@twitter.com,www\.M+\.com,Cozy boutique hotel,4,Heredia,Manuel Antonio,playa,294.00
+785,Hotel OO,593,505-401-0191,sborgbartolol8@berkeley.edu,www\.9+\.com,Modern city center hotel,5,Heredia,Bella Vista,playa,358.00
+786,Hotel E,6,202-518-2783,rbarcal9@altervista.org,www\.i+\.com,Historic downtown hotel,2,Limon,Liberia,montana,269.00
+787,Hotel G,60449,912-501-4102,ssweetzerla@aol.com,www\.9+\.com,Luxurious beachfront resort,2,San Jose,Manuel Antonio,playa,264.00
+788,Hotel S,6561,165-536-5058,rcomizzolilb@live.com,www\.Y+\.com,Luxurious beachfront resort,3,Puntarenas,Liberia,montana,960.00
+789,Hotel WW,83617,597-415-3317,krupellc@indiatimes.com,www\.3+\.com,Charming countryside inn,2,Alajuela,Bella Vista,playa,744.00
+790,Hotel BB,92,223-399-0556,coldroydeld@jugem.jp,www\.s+\.com,Cozy boutique hotel,5,San Jose,Manuel Antonio,montana,749.00
+791,Hotel UUU,7969,706-186-9976,droadle@mayoclinic.com,www\.N+\.com,Historic downtown hotel,5,Heredia,Bella Vista,playa,627.00
+792,Hotel VVV,8,747-886-2394,aharsumlf@aboutads.info,www\.U+\.com,Historic downtown hotel,1,Heredia,La Fortuna,playa,116.00
+793,Hotel V,23,893-117-3815,psmaillg@joomla.org,www\.3+\.com,Charming countryside inn,4,Alajuela,Liberia,montana,690.00
+794,Hotel JJJ,61,189-431-4300,dmudlelh@exblog.jp,www\.6+\.com,Luxurious beachfront resort,1,Guanacaste,Tamarindo,playa,809.00
+795,Hotel I,54,808-308-4604,mgothupli@dot.gov,www\.3+\.com,Cozy boutique hotel,1,Heredia,La Fortuna,playa,152.00
+796,Hotel AAA,400,720-302-8799,msuchlj@addthis.com,www\.B+\.com,Modern city center hotel,3,San Jose,Manuel Antonio,montana,334.00
+797,Hotel W,6,338-782-5125,wduchantlk@patch.com,www\.0+\.com,Cozy boutique hotel,3,Heredia,Bella Vista,playa,587.00
+798,Hotel FFF,28080,938-681-9731,rhelietll@creativecommons.org,www\.s+\.com,Charming countryside inn,4,Heredia,Manuel Antonio,playa,288.00
+799,Hotel UU,568,949-344-4536,lceneylm@stanford.edu,www\.6+\.com,Modern city center hotel,5,San Jose,Tamarindo,montana,686.00
+800,Hotel BB,7921,454-289-2577,rtudorln@samsung.com,www\.s+\.com,Luxurious beachfront resort,3,Alajuela,Manuel Antonio,montana,268.00
+801,Hotel J,1,510-791-6013,ebiskupiaklo@ca.gov,www\.B+\.com,Modern city center hotel,0,Cartago,La Fortuna,montana,669.00
+802,Hotel KKK,27,960-577-5068,bfirebracelp@dion.ne.jp,www\.W+\.com,Charming countryside inn,5,Puntarenas,Bella Vista,montana,861.00
+803,Hotel UU,362,832-254-0963,lhorleylq@youtube.com,www\.F+\.com,Charming countryside inn,4,Puntarenas,Bella Vista,playa,274.00
+804,Hotel UU,32936,422-306-4621,schancelierlr@nbcnews.com,www\.4+\.com,Charming countryside inn,4,Puntarenas,Manuel Antonio,montana,948.00
+805,Hotel BB,72393,,bwilderspoonls@nymag.com,www\.U+\.com,Charming countryside inn,5,San Jose,Bella Vista,montana,157.00
+806,Hotel SS,5,461-968-5451,ghedneylt@cam.ac.uk,www\.1+\.com,Modern city center hotel,5,Heredia,Liberia,montana,590.00
+807,Hotel D,3421,296-499-9556,kbortonlu@icio.us,www\.m+\.com,Cozy boutique hotel,4,Cartago,Tamarindo,montana,627.00
+808,Hotel III,1410,864-389-0099,carckolllv@google.com.au,www\.P+\.com,Cozy boutique hotel,5,Puntarenas,Bella Vista,montana,332.00
+809,Hotel NNN,61664,887-698-5725,ospurwaylw@google.ca,www\.s+\.com,Charming countryside inn,3,Puntarenas,La Fortuna,montana,782.00
+810,Hotel V,97,683-591-0791,noronanlx@stanford.edu,www\.6+\.com,Luxurious beachfront resort,4,Heredia,La Fortuna,montana,918.00
+811,Hotel WWW,37,357-713-1719,jhilbournely@yahoo.co.jp,www\.A+\.com,Cozy boutique hotel,2,Alajuela,Liberia,montana,679.00
+812,Hotel III,760,366-754-1862,rchessonlz@dion.ne.jp,www\.4+\.com,Luxurious beachfront resort,4,Heredia,Liberia,playa,190.00
+813,Hotel I,03,472-823-9226,nstennersm0@t.co,www\.B+\.com,Charming countryside inn,5,Limon,Tamarindo,playa,679.00
+814,Hotel OO,2548,565-688-0694,sream1@mtv.com,www\.7+\.com,Luxurious beachfront resort,4,Heredia,Bella Vista,playa,967.00
+815,Hotel E,302,886-138-4165,sstarkm2@spotify.com,www\.g+\.com,Historic downtown hotel,1,Cartago,La Fortuna,montana,871.00
+816,Hotel HH,77,891-166-9857,ldykam3@plala.or.jp,www\.6+\.com,Charming countryside inn,4,Limon,La Fortuna,montana,694.00
+817,Hotel SSS,20479,939-379-7992,nmariansm4@godaddy.com,www\.i+\.com,Charming countryside inn,1,Cartago,Tamarindo,playa,411.00
+818,Hotel HHH,53,326-602-8580,jgadaudm5@ihg.com,www\.z+\.com,Charming countryside inn,5,Heredia,Tamarindo,montana,901.00
+819,Hotel SSS,6694,371-146-6071,bcamiesm6@desdev.cn,www\.n+\.com,Luxurious beachfront resort,4,Puntarenas,Manuel Antonio,montana,749.00
+820,Hotel XX,7364,250-461-5959,esighartm7@simplemachines.org,www\.p+\.com,Cozy boutique hotel,4,Cartago,La Fortuna,playa,391.00
+821,Hotel J,586,490-344-5150,dfeatherbym8@gizmodo.com,www\.8+\.com,Historic downtown hotel,2,Alajuela,Liberia,playa,488.00
+822,Hotel I,6,501-798-2552,tlimrickm9@paypal.com,www\.l+\.com,Luxurious beachfront resort,4,Puntarenas,Liberia,montana,923.00
+823,Hotel M,72,525-889-3060,htregiddoma@yahoo.co.jp,www\.W+\.com,Modern city center hotel,4,Alajuela,Tamarindo,playa,288.00
+824,Hotel P,7438,577-607-3657,epartenermb@patch.com,www\.B+\.com,Cozy boutique hotel,3,Guanacaste,La Fortuna,playa,884.00
+825,Hotel HH,0222,191-907-6296,hpeppermc@ihg.com,www\.x+\.com,Cozy boutique hotel,2,Guanacaste,Tamarindo,montana,690.00
+826,Hotel GGG,713,182-845-2175,skowalskimd@mozilla.org,www\.E+\.com,Cozy boutique hotel,5,Heredia,Manuel Antonio,playa,886.00
+827,Hotel EE,13,434-961-4936,rgriffinme@soup.io,www\.I+\.com,Historic downtown hotel,2,San Jose,Liberia,playa,377.00
+828,Hotel UU,229,131-989-3536,ithuilliermf@sourceforge.net,www\.v+\.com,Modern city center hotel,5,Puntarenas,Bella Vista,playa,415.00
+829,Hotel BBB,0263,259-322-7406,gringwoodmg@naver.com,www\.o+\.com,Historic downtown hotel,5,Alajuela,La Fortuna,montana,594.00
+830,Hotel ZZZ,09,344-691-4865,mhusthwaitemh@gizmodo.com,www\.7+\.com,Cozy boutique hotel,4,Puntarenas,La Fortuna,playa,875.00
+831,Hotel G,51,137-654-8734,dmatiewemi@fema.gov,www\.7+\.com,Charming countryside inn,4,Guanacaste,Manuel Antonio,playa,151.00
+832,Hotel J,9,381-376-2297,jmedlarmj@state.tx.us,www\.f+\.com,Modern city center hotel,5,Heredia,Liberia,montana,915.00
+833,Hotel L,33459,867-472-5206,hkleismk@admin.ch,www\.0+\.com,Luxurious beachfront resort,3,Alajuela,Bella Vista,montana,547.00
+834,Hotel L,4616,291-435-2566,aandreevml@cam.ac.uk,www\.M+\.com,Cozy boutique hotel,4,Cartago,Manuel Antonio,montana,130.00
+835,Hotel HH,30383,257-972-9619,bcaneromm@photobucket.com,www\.M+\.com,Modern city center hotel,2,Guanacaste,Manuel Antonio,montana,390.00
+836,Hotel FF,73,126-504-5511,eillesleymn@last.fm,www\.K+\.com,Luxurious beachfront resort,4,Heredia,Liberia,playa,308.00
+837,Hotel PPP,57,320-964-2186,fespinoymo@photobucket.com,www\.a+\.com,Cozy boutique hotel,1,Heredia,La Fortuna,montana,166.00
+838,Hotel UUU,4,635-159-8758,ngisbyemp@nyu.edu,www\.y+\.com,Luxurious beachfront resort,2,Puntarenas,Bella Vista,montana,344.00
+839,Hotel KKK,5676,626-467-0012,carchleymq@stumbleupon.com,www\.Q+\.com,Historic downtown hotel,5,Puntarenas,Tamarindo,playa,611.00
+840,Hotel PP,10,425-859-1811,chuggettmr@mail.ru,www\.j+\.com,Charming countryside inn,2,San Jose,Liberia,montana,675.00
+841,Hotel SS,34888,169-117-1760,gboatrightms@usa.gov,www\.M+\.com,Modern city center hotel,4,Alajuela,Liberia,montana,774.00
+842,Hotel XXX,01259,682-745-4653,kstricklermt@wisc.edu,www\.8+\.com,Historic downtown hotel,5,Cartago,Manuel Antonio,playa,456.00
+843,Hotel JJJ,37,924-285-2331,ahandfordmu@i2i.jp,www\.3+\.com,Charming countryside inn,1,Cartago,Bella Vista,montana,216.00
+844,Hotel ZZ,2224,383-518-7137,jwhithornmv@blinklist.com,www\.F+\.com,Historic downtown hotel,5,Heredia,Manuel Antonio,montana,684.00
+845,Hotel GG,59928,513-857-1015,lbrunnsteinmw@addthis.com,www\.2+\.com,Modern city center hotel,5,Guanacaste,La Fortuna,ciudad,514.00
+846,Hotel LLL,47646,691-955-0995,lneesonmx@samsung.com,www\.9+\.com,Historic downtown hotel,1,San Jose,Liberia,ciudad,175.00
+847,Hotel TT,07621,883-510-1191,tbenediktovichmy@nbcnews.com,www\.w+\.com,Historic downtown hotel,2,Heredia,Liberia,ciudad,869.00
+848,Hotel NNN,6,102-761-1564,rfitzermz@irs.gov,www\.h+\.com,Cozy boutique hotel,1,Puntarenas,Tamarindo,ciudad,597.00
+849,Hotel X,6445,742-584-6543,edeshonn0@ameblo.jp,www\.I+\.com,Historic downtown hotel,4,Puntarenas,Bella Vista,ciudad,656.00
+850,Hotel T,4,385-596-8115,pbrotherheadn1@umich.edu,www\.a+\.com,Modern city center hotel,2,Alajuela,La Fortuna,ciudad,821.00
+851,Hotel P,9,499-244-9509,pnurseyn2@house.gov,www\.z+\.com,Luxurious beachfront resort,3,Puntarenas,Manuel Antonio,ciudad,529.00
+852,Hotel XX,07332,850-708-2289,lvongrollmannn3@technorati.com,www\.T+\.com,Historic downtown hotel,2,Guanacaste,Liberia,ciudad,332.00
+853,Hotel MM,4883,727-594-5493,cclaybornn4@mac.com,www\.z+\.com,Charming countryside inn,5,Limon,La Fortuna,ciudad,461.00
+854,Hotel SS,19,993-705-2246,hlashamn5@creativecommons.org,www\.3+\.com,Charming countryside inn,2,Puntarenas,Tamarindo,ciudad,421.00
+855,Hotel XXX,2678,557-569-8218,cgearyn6@mozilla.org,www\.4+\.com,Charming countryside inn,5,Heredia,Manuel Antonio,ciudad,823.00
+856,Hotel X,25,121-391-1294,hstopforthn7@cmu.edu,www\.0+\.com,Charming countryside inn,4,Limon,Manuel Antonio,ciudad,964.00
+857,Hotel RR,9,234-116-5302,mjochananyn8@patch.com,www\.5+\.com,Modern city center hotel,3,Heredia,La Fortuna,ciudad,558.00
+858,Hotel H,763,176-302-0037,agaffern9@reference.com,www\.m+\.com,Modern city center hotel,1,Puntarenas,Tamarindo,ciudad,670.00
+859,Hotel DDD,15,147-978-5793,rrenihanna@microsoft.com,www\.o+\.com,Modern city center hotel,5,Guanacaste,Bella Vista,ciudad,913.00
+860,Hotel PPP,62,825-613-3716,sgiddynb@ow.ly,www\.T+\.com,Historic downtown hotel,4,San Jose,Liberia,ciudad,277.00
+861,Hotel UU,70,,astaningnc@mapy.cz,www\.9+\.com,Luxurious beachfront resort,5,Heredia,Liberia,ciudad,649.00
+862,Hotel GGG,4,146-868-9344,cstancliffend@jimdo.com,www\.g+\.com,Charming countryside inn,3,Puntarenas,Tamarindo,ciudad,426.00
+863,Hotel N,43,105-244-7752,rarnone@army.mil,www\.w+\.com,Charming countryside inn,3,Guanacaste,Tamarindo,ciudad,372.00
+864,Hotel EEE,2322,190-792-7442,bheildnf@about.me,www\.X+\.com,Modern city center hotel,3,Limon,Tamarindo,ciudad,717.00
+865,Hotel EEE,882,772-879-1745,lbiaggioling@weibo.com,www\.U+\.com,Historic downtown hotel,5,Cartago,Bella Vista,ciudad,113.00
+866,Hotel CC,5529,206-232-4777,mlowdianenh@cdc.gov,www\.j+\.com,Historic downtown hotel,3,San Jose,La Fortuna,ciudad,650.00
+867,Hotel E,45,595-970-2791,awarkeni@yahoo.co.jp,www\.m+\.com,Luxurious beachfront resort,5,Alajuela,Bella Vista,ciudad,930.00
+868,Hotel P,8028,645-946-6590,esprottnj@omniture.com,www\.a+\.com,Historic downtown hotel,3,Heredia,Liberia,ciudad,266.00
+869,Hotel TT,451,755-186-0034,jdummettnk@seesaa.net,www\.X+\.com,Cozy boutique hotel,1,San Jose,Tamarindo,ciudad,844.00
+870,Hotel RRR,55,799-412-3776,hquinevannl@360.cn,www\.X+\.com,Historic downtown hotel,4,Guanacaste,Tamarindo,ciudad,149.00
+871,Hotel JJJ,65840,,pbesnm@mozilla.com,www\.8+\.com,Charming countryside inn,1,San Jose,Bella Vista,ciudad,668.00
+872,Hotel GG,53,374-724-9733,vbomfieldnn@weather.com,www\.Y+\.com,Cozy boutique hotel,1,Cartago,Bella Vista,ciudad,945.00
+873,Hotel VVV,88074,678-723-9660,gmoratno@youtube.com,www\.N+\.com,Charming countryside inn,5,Puntarenas,Bella Vista,ciudad,314.00
+874,Hotel FFF,03,737-883-6409,abernaseknp@digg.com,www\.7+\.com,Cozy boutique hotel,2,Puntarenas,La Fortuna,ciudad,645.00
+875,Hotel M,5,451-141-8396,moleaghamnq@narod.ru,www\.5+\.com,Charming countryside inn,4,Puntarenas,Bella Vista,ciudad,496.00
+876,Hotel III,3741,679-457-6019,gquesnenr@exblog.jp,www\.j+\.com,Modern city center hotel,1,Limon,La Fortuna,ciudad,934.00
+877,Hotel II,21,385-271-0178,jpitchfordns@xinhuanet.com,www\.E+\.com,Historic downtown hotel,1,Heredia,Liberia,ciudad,412.00
+878,Hotel GG,67,362-614-1311,jrollinsonnt@moonfruit.com,www\.Z+\.com,Charming countryside inn,3,Puntarenas,Tamarindo,ciudad,898.00
+879,Hotel Z,117,958-269-0253,nvogeleinnu@wired.com,www\.0+\.com,Cozy boutique hotel,1,Alajuela,Liberia,ciudad,571.00
+880,Hotel GG,4,157-520-0302,lmoradnv@gizmodo.com,www\.E+\.com,Historic downtown hotel,1,Heredia,Tamarindo,ciudad,962.00
+881,Hotel ZZZ,291,870-437-7682,zdeackesnw@wikispaces.com,www\.6+\.com,Charming countryside inn,2,Heredia,Manuel Antonio,ciudad,214.00
+882,Hotel B,41418,330-363-6568,tenriquesnx@boston.com,www\.o+\.com,Charming countryside inn,4,San Jose,Liberia,ciudad,130.00
+883,Hotel ZZZ,600,972-735-7590,bmcmurtyrny@homestead.com,www\.O+\.com,Charming countryside inn,2,Alajuela,La Fortuna,ciudad,551.00
+884,Hotel UU,7,235-164-4745,nvernaynz@hostgator.com,www\.Z+\.com,Charming countryside inn,1,Limon,Manuel Antonio,ciudad,106.00
+885,Hotel BBB,7059,535-155-2765,rwabeo0@sfgate.com,www\.d+\.com,Charming countryside inn,4,Limon,Liberia,ciudad,964.00
+886,Hotel YY,6,716-404-5171,mmilleyo1@amazon.co.uk,www\.G+\.com,Historic downtown hotel,4,Heredia,Manuel Antonio,ciudad,760.00
+887,Hotel G,09,,ryareo2@mediafire.com,www\.i+\.com,Cozy boutique hotel,4,San Jose,Tamarindo,ciudad,743.00
+888,Hotel Q,909,230-182-6262,ddjordjevico3@mozilla.org,www\.y+\.com,Luxurious beachfront resort,3,Puntarenas,Manuel Antonio,ciudad,853.00
+889,Hotel K,2,480-882-3622,awiggleswortho4@github.io,www\.A+\.com,Historic downtown hotel,5,San Jose,La Fortuna,ciudad,320.00
+890,Hotel Q,1,567-634-1700,rtoomeyo5@indiatimes.com,www\.L+\.com,Cozy boutique hotel,4,San Jose,Bella Vista,ciudad,536.00
+891,Hotel QQ,3,157-875-9498,ecullono6@histats.com,www\.M+\.com,Luxurious beachfront resort,3,Limon,La Fortuna,ciudad,168.00
+892,Hotel S,0,858-794-9140,aalanso7@amazon.co.jp,www\.x+\.com,Charming countryside inn,1,Guanacaste,Tamarindo,ciudad,427.00
+893,Hotel E,792,241-584-3240,sremingtono8@harvard.edu,www\.9+\.com,Historic downtown hotel,2,Alajuela,Manuel Antonio,ciudad,166.00
+894,Hotel G,7234,757-292-4834,erubio9@marketwatch.com,www\.V+\.com,Charming countryside inn,4,San Jose,La Fortuna,ciudad,543.00
+895,Hotel T,8157,210-363-1171,cmcblainoa@surveymonkey.com,www\.5+\.com,Luxurious beachfront resort,4,Heredia,Manuel Antonio,ciudad,118.00
+896,Hotel DDD,38,176-757-4257,rheugleob@ifeng.com,www\.m+\.com,Cozy boutique hotel,2,Heredia,Bella Vista,ciudad,243.00
+897,Hotel WWW,87361,896-620-4235,rbraidleyoc@twitter.com,www\.7+\.com,Cozy boutique hotel,1,Limon,Tamarindo,ciudad,485.00
+898,Hotel S,15812,,dwalshod@tinyurl.com,www\.9+\.com,Historic downtown hotel,1,Alajuela,Manuel Antonio,ciudad,242.00
+899,Hotel MMM,36,606-494-0278,gminetoe@merriam-webster.com,www\.A+\.com,Luxurious beachfront resort,5,Puntarenas,Bella Vista,ciudad,860.00
+900,Hotel PP,8492,857-995-3853,kbogeysof@domainmarket.com,www\.1+\.com,Luxurious beachfront resort,2,Heredia,Manuel Antonio,ciudad,171.00
+901,Hotel SSS,0,518-138-4494,hlethamog@washington.edu,www\.1+\.com,Charming countryside inn,0,Puntarenas,Tamarindo,ciudad,118.00
+902,Hotel S,194,,ngarreltsoh@usnews.com,www\.5+\.com,Historic downtown hotel,1,Heredia,Manuel Antonio,ciudad,539.00
+903,Hotel X,0061,398-425-4001,callportoi@taobao.com,www\.G+\.com,Modern city center hotel,1,Guanacaste,La Fortuna,ciudad,201.00
+904,Hotel JJ,5,267-716-2103,dchiezeoj@facebook.com,www\.9+\.com,Cozy boutique hotel,5,Limon,Manuel Antonio,ciudad,637.00
+905,Hotel X,6,857-933-7194,drhymesok@xrea.com,www\.V+\.com,Cozy boutique hotel,4,Guanacaste,Manuel Antonio,ciudad,892.00
+906,Hotel SSS,7019,631-290-4863,cbartoleynol@sina.com.cn,www\.U+\.com,Charming countryside inn,1,Puntarenas,La Fortuna,ciudad,110.00
+907,Hotel ZZZ,24065,242-364-9078,beneverom@foxnews.com,www\.V+\.com,Historic downtown hotel,4,Puntarenas,Liberia,ciudad,660.00
+908,Hotel KKK,1,448-769-1355,tmackeanon@pcworld.com,www\.1+\.com,Cozy boutique hotel,2,Limon,Manuel Antonio,ciudad,711.00
+909,Hotel PPP,069,773-537-2815,kvandersonoo@gizmodo.com,www\.6+\.com,Historic downtown hotel,5,Puntarenas,Tamarindo,ciudad,276.00
+910,Hotel A,8,304-822-2896,jangellop@parallels.com,www\.2+\.com,Modern city center hotel,4,Guanacaste,Manuel Antonio,ciudad,436.00
+911,Hotel W,45,230-743-0474,bmarcussenoq@fda.gov,www\.h+\.com,Charming countryside inn,2,Guanacaste,Bella Vista,ciudad,603.00
+912,Hotel U,15112,267-799-5589,xfarnieor@salon.com,www\.X+\.com,Modern city center hotel,1,San Jose,Liberia,ciudad,625.00
+913,Hotel U,3882,,dpatterfieldos@fotki.com,www\.x+\.com,Historic downtown hotel,5,Cartago,Tamarindo,ciudad,969.00
+914,Hotel C,12,429-602-6261,tmckechnieot@nyu.edu,www\.4+\.com,Historic downtown hotel,3,Limon,Tamarindo,ciudad,935.00
+915,Hotel MM,3229,490-639-7500,csaipyou@ucoz.ru,www\.G+\.com,Historic downtown hotel,1,Guanacaste,Tamarindo,ciudad,183.00
+916,Hotel RRR,5761,912-901-0984,kcharnockov@ted.com,www\.5+\.com,Luxurious beachfront resort,5,San Jose,Manuel Antonio,ciudad,626.00
+917,Hotel M,004,905-251-2634,mbroomeow@deliciousdays.com,www\.7+\.com,Luxurious beachfront resort,5,San Jose,La Fortuna,ciudad,145.00
+918,Hotel D,4341,997-746-8707,ehaskettox@dailymail.co.uk,www\.f+\.com,Luxurious beachfront resort,3,Alajuela,Tamarindo,ciudad,603.00
+919,Hotel Z,171,324-274-7446,cdictyoy@mac.com,www\.n+\.com,Luxurious beachfront resort,5,Heredia,La Fortuna,ciudad,297.00
+920,Hotel KK,059,439-111-4756,gmohunoz@vimeo.com,www\.f+\.com,Modern city center hotel,1,Cartago,Liberia,ciudad,825.00
+921,Hotel QQ,447,720-607-7021,vcorradettip0@list-manage.com,www\.f+\.com,Charming countryside inn,5,Puntarenas,Tamarindo,ciudad,154.00
+922,Hotel M,71962,907-707-1650,yballep1@cdbaby.com,www\.W+\.com,Charming countryside inn,5,San Jose,Manuel Antonio,ciudad,871.00
+923,Hotel HH,8,963-516-0638,troullierp2@hatena.ne.jp,www\.p+\.com,Modern city center hotel,5,Puntarenas,Tamarindo,ciudad,114.00
+924,Hotel BBB,27,776-674-5275,ggobatp3@wikimedia.org,www\.d+\.com,Charming countryside inn,4,Heredia,Bella Vista,ciudad,548.00
+925,Hotel XXX,4,799-861-1183,schattertonp4@webs.com,www\.j+\.com,Historic downtown hotel,4,Alajuela,Bella Vista,ciudad,277.00
+926,Hotel C,9,183-867-6427,wsifflettp5@1und1.de,www\.X+\.com,Historic downtown hotel,3,San Jose,Tamarindo,ciudad,503.00
+927,Hotel WWW,824,100-990-0171,sborthramp6@histats.com,www\.s+\.com,Historic downtown hotel,4,Limon,Bella Vista,ciudad,925.00
+928,Hotel C,52390,703-586-0498,clessliep7@myspace.com,www\.T+\.com,Historic downtown hotel,2,Guanacaste,Manuel Antonio,ciudad,585.00
+929,Hotel WWW,4717,417-670-7584,fsydallp8@fc2.com,www\.D+\.com,Cozy boutique hotel,2,Cartago,Liberia,ciudad,914.00
+930,Hotel JJ,1278,435-622-6253,schellingworthp9@desdev.cn,www\.N+\.com,Cozy boutique hotel,3,Alajuela,Manuel Antonio,ciudad,549.00
+931,Hotel Y,3786,500-180-8494,kthairspa@tmall.com,www\.O+\.com,Historic downtown hotel,3,Limon,Bella Vista,ciudad,389.00
+932,Hotel J,1,870-570-8665,wpendrickpb@creativecommons.org,www\.0+\.com,Modern city center hotel,3,Puntarenas,La Fortuna,ciudad,521.00
+933,Hotel RRR,38687,374-674-6146,cmulcockpc@shareasale.com,www\.n+\.com,Charming countryside inn,2,Guanacaste,Bella Vista,ciudad,715.00
+934,Hotel TTT,03,785-296-9925,bhodintonpd@netlog.com,www\.J+\.com,Charming countryside inn,2,San Jose,Manuel Antonio,ciudad,406.00
+935,Hotel GG,88443,422-227-9394,hlapsliepe@go.com,www\.e+\.com,Cozy boutique hotel,3,San Jose,Tamarindo,ciudad,282.00
+936,Hotel I,4,548-899-4044,gfoldespf@illinois.edu,www\.w+\.com,Modern city center hotel,1,Guanacaste,Bella Vista,ciudad,149.00
+937,Hotel OO,7,659-695-0163,ckynetonpg@unc.edu,www\.x+\.com,Cozy boutique hotel,5,Puntarenas,Liberia,ciudad,136.00
+938,Hotel NN,10,876-749-9204,sdonkersleyph@gnu.org,www\.5+\.com,Luxurious beachfront resort,2,Puntarenas,Manuel Antonio,ciudad,208.00
+939,Hotel W,1,447-532-7027,emackettrickpi@123-reg.co.uk,www\.1+\.com,Charming countryside inn,3,Guanacaste,La Fortuna,ciudad,410.00
+940,Hotel RRR,800,311-836-8995,tcotelardpj@hibu.com,www\.R+\.com,Cozy boutique hotel,1,Cartago,Liberia,ciudad,797.00
+941,Hotel PPP,5955,817-931-2231,dtebaldpk@washingtonpost.com,www\.Y+\.com,Cozy boutique hotel,5,Puntarenas,Liberia,ciudad,245.00
+942,Hotel PPP,0657,791-623-8733,lmonaghanpl@narod.ru,www\.D+\.com,Modern city center hotel,4,Guanacaste,Tamarindo,ciudad,302.00
+943,Hotel JJ,93942,214-271-9301,ggeorgelinpm@g.co,www\.9+\.com,Luxurious beachfront resort,2,Heredia,Bella Vista,ciudad,465.00
+944,Hotel ZZZ,4,312-519-0832,aastellpn@wufoo.com,www\.g+\.com,Modern city center hotel,4,Alajuela,Liberia,ciudad,493.00
+945,Hotel CCC,0086,823-176-8825,istiggerpo@odnoklassniki.ru,www\.F+\.com,Charming countryside inn,4,Puntarenas,Manuel Antonio,ciudad,338.00
+946,Hotel ZZZ,8102,255-995-0460,meltonepp@boston.com,www\.R+\.com,Historic downtown hotel,0,San Jose,Manuel Antonio,ciudad,570.00
+947,Hotel MMM,39544,185-303-7081,iswinerdpq@shutterfly.com,www\.Z+\.com,Charming countryside inn,4,Heredia,Liberia,ciudad,412.00
+948,Hotel FF,4323,297-224-1778,bhainpr@ehow.com,www\.5+\.com,Modern city center hotel,3,Alajuela,La Fortuna,ciudad,274.00
+949,Hotel XXX,49,661-823-1651,dwatersps@yelp.com,www\.4+\.com,Modern city center hotel,2,Guanacaste,Tamarindo,ciudad,135.00
+950,Hotel VVV,3,847-471-9338,tvaenpt@zdnet.com,www\.y+\.com,Cozy boutique hotel,1,Heredia,La Fortuna,ciudad,126.00
+951,Hotel KKK,3649,973-293-6574,cburnistonpu@blogspot.com,www\.l+\.com,Charming countryside inn,5,Guanacaste,Manuel Antonio,ciudad,493.00
+952,Hotel K,063,394-402-3523,wtippertonpv@freewebs.com,www\.3+\.com,Historic downtown hotel,5,Cartago,Manuel Antonio,ciudad,482.00
+953,Hotel VVV,75272,185-558-7539,btunnockpw@yahoo.co.jp,www\.U+\.com,Cozy boutique hotel,4,Puntarenas,Tamarindo,ciudad,925.00
+954,Hotel OOO,9210,960-153-5246,sphilpaultpx@technorati.com,www\.B+\.com,Historic downtown hotel,1,Heredia,La Fortuna,ciudad,901.00
+955,Hotel G,0,830-635-5483,krabierpy@1und1.de,www\.E+\.com,Modern city center hotel,1,Guanacaste,Manuel Antonio,ciudad,772.00
+956,Hotel B,594,570-847-3643,keuesdenpz@nba.com,www\.A+\.com,Cozy boutique hotel,2,Puntarenas,Liberia,ciudad,123.00
+957,Hotel EEE,5,951-479-8437,wrosieq0@google.it,www\.4+\.com,Charming countryside inn,2,Guanacaste,Manuel Antonio,ciudad,749.00
+958,Hotel PP,413,163-492-4216,tstollmeierq1@parallels.com,www\.H+\.com,Historic downtown hotel,4,Guanacaste,La Fortuna,ciudad,868.00
+959,Hotel RRR,0,,ssyerq2@cnbc.com,www\.b+\.com,Historic downtown hotel,3,Heredia,Liberia,ciudad,400.00
+960,Hotel HH,763,562-449-9642,sreolfoq3@google.co.jp,www\.3+\.com,Luxurious beachfront resort,5,Guanacaste,Bella Vista,ciudad,361.00
+961,Hotel B,4536,156-660-0740,kflearq4@ucsd.edu,www\.6+\.com,Luxurious beachfront resort,1,Alajuela,Liberia,ciudad,204.00
+962,Hotel VV,166,706-189-5098,gbrosemanq5@independent.co.uk,www\.1+\.com,Charming countryside inn,4,Puntarenas,Tamarindo,ciudad,493.00
+963,Hotel NN,19,497-891-6080,aknillq6@jalbum.net,www\.y+\.com,Charming countryside inn,5,Alajuela,Tamarindo,ciudad,903.00
+964,Hotel EEE,2558,223-978-3333,agrimaq7@huffingtonpost.com,www\.x+\.com,Historic downtown hotel,4,Cartago,La Fortuna,montana,430.00
+965,Hotel XXX,76,635-524-1717,gdreweq8@godaddy.com,www\.X+\.com,Charming countryside inn,3,Puntarenas,Bella Vista,montana,483.00
+966,Hotel LLL,51842,405-756-2354,vmckeatingq9@i2i.jp,www\.w+\.com,Luxurious beachfront resort,4,Puntarenas,Tamarindo,playa,707.00
+967,Hotel NNN,91,538-936-8078,orockhallqa@msu.edu,www\.V+\.com,Modern city center hotel,4,Alajuela,La Fortuna,montana,515.00
+968,Hotel F,464,839-223-3725,htoderbruggeqb@alibaba.com,www\.5+\.com,Charming countryside inn,2,Guanacaste,Tamarindo,playa,184.00
+969,Hotel NN,2,924-914-5686,mstrotonqc@imdb.com,www\.m+\.com,Luxurious beachfront resort,5,Limon,Manuel Antonio,montana,478.00
+970,Hotel MM,30,823-716-7322,rduntonqd@biblegateway.com,www\.x+\.com,Charming countryside inn,2,Limon,Liberia,playa,523.00
+971,Hotel LLL,77277,792-500-4576,ihaswallqe@yahoo.com,www\.8+\.com,Modern city center hotel,5,Heredia,Bella Vista,montana,580.00
+972,Hotel C,67,728-276-3839,gfollettqf@taobao.com,www\.b+\.com,Modern city center hotel,5,Guanacaste,Bella Vista,playa,926.00
+973,Hotel KK,0,685-435-7825,nfellneeqg@jigsy.com,www\.d+\.com,Modern city center hotel,1,Limon,Tamarindo,montana,938.00
+974,Hotel DDD,9,757-908-4457,rwanstallqh@google.pl,www\.u+\.com,Historic downtown hotel,1,San Jose,Manuel Antonio,playa,483.00
+975,Hotel UU,178,217-869-0071,ktrewinnardqi@usnews.com,www\.v+\.com,Cozy boutique hotel,1,Limon,La Fortuna,playa,756.00
+976,Hotel G,120,290-191-1298,brettieqj@i2i.jp,www\.k+\.com,Charming countryside inn,1,Guanacaste,La Fortuna,playa,179.00
+977,Hotel Q,033,213-270-9568,sparsandqk@omniture.com,www\.X+\.com,Historic downtown hotel,5,Limon,Manuel Antonio,montana,427.00
+978,Hotel P,74484,910-394-2503,nahrendql@about.com,www\.o+\.com,Modern city center hotel,3,Cartago,La Fortuna,montana,823.00
+979,Hotel KKK,79,580-956-0596,drooseqm@aboutads.info,www\.i+\.com,Historic downtown hotel,2,Alajuela,Bella Vista,montana,740.00
+980,Hotel B,3,837-974-7030,abascombeqn@arstechnica.com,www\.0+\.com,Luxurious beachfront resort,2,Alajuela,Tamarindo,montana,967.00
+981,Hotel Y,32,166-968-9950,rmarusikqo@reverbnation.com,www\.r+\.com,Luxurious beachfront resort,4,Guanacaste,Manuel Antonio,montana,664.00
+982,Hotel GGG,8749,764-764-8351,tbauduccioqp@washington.edu,www\.B+\.com,Modern city center hotel,3,San Jose,Manuel Antonio,montana,948.00
+983,Hotel JJJ,83,324-985-8813,hjoinseyqq@ted.com,www\.1+\.com,Luxurious beachfront resort,4,Puntarenas,La Fortuna,playa,729.00
+984,Hotel RRR,28712,561-125-9547,lmcneillieqr@ucsd.edu,www\.Z+\.com,Luxurious beachfront resort,2,Cartago,Manuel Antonio,montana,154.00
+985,Hotel J,41977,578-663-3127,cbradborneqs@patch.com,www\.l+\.com,Historic downtown hotel,3,Alajuela,Bella Vista,playa,561.00
+986,Hotel CC,101,155-120-4699,oabrahamiqt@sina.com.cn,www\.8+\.com,Luxurious beachfront resort,5,Cartago,Bella Vista,montana,392.00
+987,Hotel GG,2,321-633-5792,shealingsqu@usnews.com,www\.g+\.com,Historic downtown hotel,5,Limon,Manuel Antonio,playa,344.00
+988,Hotel H,57066,796-702-1769,cschoenrockqv@exblog.jp,www\.i+\.com,Charming countryside inn,2,Heredia,La Fortuna,playa,690.00
+989,Hotel III,7191,684-665-1320,dlambollqw@webeden.co.uk,www\.6+\.com,Historic downtown hotel,3,Heredia,Tamarindo,montana,394.00
+990,Hotel WWW,6,357-757-3467,winglesonqx@mit.edu,www\.8+\.com,Luxurious beachfront resort,5,Puntarenas,Liberia,playa,241.00
+991,Hotel XXX,50,360-829-0770,jfosterqy@feedburner.com,www\.c+\.com,Historic downtown hotel,2,Heredia,Tamarindo,playa,375.00
+992,Hotel X,59,661-585-4968,pfochqz@stumbleupon.com,www\.E+\.com,Cozy boutique hotel,0,San Jose,La Fortuna,montana,306.00
+993,Hotel RR,281,741-246-8502,rrosthornr0@rediff.com,www\.T+\.com,Modern city center hotel,5,Alajuela,Tamarindo,montana,736.00
+994,Hotel A,23482,708-304-8392,cmcmillanr1@dagondesign.com,www\.I+\.com,Modern city center hotel,5,Heredia,Manuel Antonio,montana,686.00
+995,Hotel LLL,866,259-939-8078,vbreakwellr2@nifty.com,www\.k+\.com,Luxurious beachfront resort,1,Heredia,La Fortuna,playa,307.00
+996,Hotel DD,74477,207-230-1788,sronchkar3@who.int,www\.N+\.com,Luxurious beachfront resort,4,Cartago,Manuel Antonio,montana,186.00
+997,Hotel D,870,884-529-7448,swaslingr4@zdnet.com,www\.S+\.com,Cozy boutique hotel,3,Alajuela,La Fortuna,playa,514.00
+998,Hotel XX,65261,320-963-4790,bcannonr5@huffingtonpost.com,www\.b+\.com,Modern city center hotel,2,San Jose,Liberia,playa,389.00
+999,Hotel JJ,63368,608-385-4777,nmcgeraghtyr6@scientificamerican.com,www\.w+\.com,Charming countryside inn,4,Limon,Tamarindo,playa,836.00
+1000,Hotel GG,7,398-236-8360,lyeardsleyr7@rambler.ru,www\.U+\.com,Modern city center hotel,3,Limon,Manuel Antonio,playa,484.00
+1001,Hotel NN,69870,781-743-0259,bgrimsdaler8@cam.ac.uk,www\.D+\.com,Modern city center hotel,3,Cartago,Bella Vista,playa,994.00
+1002,Hotel L,87775,218-917-1194,asteptor9@list-manage.com,www\.l+\.com,Modern city center hotel,5,Heredia,La Fortuna,playa,446.00
+1003,Hotel OOO,427,363-907-8202,blangshawra@bing.com,www\.8+\.com,Cozy boutique hotel,1,Heredia,La Fortuna,montana,574.00
+1004,Hotel T,4,215-718-3059,ctreagustrb@home.pl,www\.6+\.com,Luxurious beachfront resort,4,Puntarenas,Bella Vista,montana,190.00
+1005,Hotel W,4936,716-880-8941,ghelstriprc@biblegateway.com,www\.1+\.com,Cozy boutique hotel,1,Heredia,Manuel Antonio,montana,859.00
+1006,Hotel ZZ,2,757-925-8370,ogrovesrd@cbsnews.com,www\.6+\.com,Luxurious beachfront resort,3,Limon,Manuel Antonio,montana,210.00
+1007,Hotel NNN,2,315-253-0082,cfarfolomeevre@cisco.com,www\.6+\.com,Luxurious beachfront resort,1,Guanacaste,Tamarindo,playa,791.00
+1008,Hotel JJJ,46385,199-680-5551,ballsoprf@europa.eu,www\.6+\.com,Luxurious beachfront resort,4,Guanacaste,Tamarindo,playa,294.00
+1009,Hotel A,992,944-994-5673,landersrg@moonfruit.com,www\.k+\.com,Cozy boutique hotel,1,Puntarenas,Manuel Antonio,montana,411.00
+1010,Hotel BB,78608,646-651-7389,fklynerrh@creativecommons.org,www\.N+\.com,Charming countryside inn,5,Heredia,Tamarindo,montana,354.00
+1011,Hotel F,21303,853-911-4756,muphillri@studiopress.com,www\.Z+\.com,Cozy boutique hotel,1,San Jose,Liberia,playa,988.00
+1012,Hotel W,517,466-347-3339,ghartleyrj@scribd.com,www\.R+\.com,Modern city center hotel,4,Alajuela,Liberia,montana,636.00
+1013,Hotel NNN,10972,104-782-5616,dcherrettrk@aboutads.info,www\.P+\.com,Charming countryside inn,3,Guanacaste,Liberia,montana,456.00
+1014,Hotel K,8,661-344-6397,hifillrl@comsenz.com,www\.S+\.com,Luxurious beachfront resort,2,Limon,Bella Vista,montana,506.00
+1015,Hotel HHH,7,736-235-0279,ghickeringillrm@omniture.com,www\.H+\.com,Cozy boutique hotel,1,Guanacaste,La Fortuna,playa,659.00
+1016,Hotel FFF,4,227-110-3657,lbernaldorn@prnewswire.com,www\.2+\.com,Modern city center hotel,2,Puntarenas,Tamarindo,playa,114.00
+1017,Hotel EEE,05,297-191-8075,bboundeyro@shop-pro.jp,www\.N+\.com,Charming countryside inn,2,Limon,Manuel Antonio,montana,651.00
+1018,Hotel VV,526,,vsimkinsrp@who.int,www\.5+\.com,Historic downtown hotel,4,San Jose,Liberia,montana,630.00
+1019,Hotel SSS,2,428-507-1960,jeccleshallrq@google.it,www\.0+\.com,Historic downtown hotel,1,Guanacaste,La Fortuna,montana,480.00
+1020,Hotel RR,1,886-599-8432,gcreightonrr@shop-pro.jp,www\.g+\.com,Luxurious beachfront resort,3,Limon,Manuel Antonio,montana,848.00

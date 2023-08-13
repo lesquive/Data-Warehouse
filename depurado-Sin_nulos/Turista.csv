@@ -1,0 +1,1278 @@
+IdTurista,NombreTurista,PaisOrigen,Edad,Genero,EstadoCivil
+1,Liam Smith,Irlanda,25,Masculino,Soltero
+2,Olivia Johnson,Suecia,32,Femenino,Soltera
+3,Noah Müller,Suiza,29,Masculino,Soltero
+4,Emma Schmidt,Austria,28,Femenino,Casada
+5,Sophia Nielsen,Dinamarca,27,Femenino,Soltera
+6,Lucas Hansen,Noruega,31,Masculino,Soltero
+7,Ava Andersen,Dinamarca,30,Femenino,Soltera
+8,Liam Olsen,Noruega,28,Masculino,Soltero
+9,Olivia Larsen,Dinamarca,26,Femenino,Casada
+10,Elijah Kristensen,Dinamarca,33,Masculino,Casado
+11,Emily Rasmussen,Dinamarca,25,Femenino,Soltera
+12,Alexander Pedersen,Dinamarca,30,Masculino,Soltero
+13,Mia Jorgensen,Dinamarca,29,Femenino,Soltera
+14,James Christensen,Dinamarca,31,Masculino,Soltero
+15,Isabella Nielsen,Dinamarca,26,Femenino,Soltera
+16,William Jensen,Noruega,27,Masculino,Soltero
+17,Sophia Christensen,Dinamarca,29,Femenino,Soltera
+18,Oliver Olsen,Noruega,28,Masculino,Soltero
+19,Amelia Andersen,Dinamarca,30,Femenino,Casada
+20,Benjamin Kristiansen,Dinamarca,27,Masculino,Soltero
+21,Isabella Jorgensen,Dinamarca,32,Femenino,Soltera
+22,Lucas Christensen,Dinamarca,29,Masculino,Soltero
+23,Emma Nielsen,Dinamarca,26,Femenino,Casada
+24,Alexander Pedersen,Dinamarca,28,Masculino,Soltero
+25,Mia Jorgensen,Dinamarca,31,Femenino,Soltera
+26,James Christensen,Dinamarca,27,Masculino,Soltero
+27,Isabella Nielsen,Dinamarca,29,Femenino,Soltera
+28,William Jensen,Noruega,26,Masculino,Soltero
+29,Sophia Christensen,Dinamarca,30,Femenino,Soltera
+30,Oliver Olsen,Noruega,31,Masculino,Soltero
+31,Amelia Andersen,Dinamarca,27,Femenino,Soltera
+32,Benjamin Kristiansen,Dinamarca,29,Masculino,Casado
+33,Isabella Jorgensen,Dinamarca,28,Femenino,Soltera
+34,Lucas Christensen,Dinamarca,30,Masculino,Soltero
+35,Emma Nielsen,Dinamarca,27,Femenino,Casada
+36,Alexander Pedersen,Dinamarca,29,Masculino,Soltero
+37,Mia Jorgensen,Dinamarca,28,Femenino,Soltera
+38,James Christensen,Dinamarca,30,Masculino,Soltero
+39,Isabella Nielsen,Dinamarca,29,Femenino,Soltera
+40,William Jensen,Noruega,27,Masculino,Soltero
+41,Sophia Christensen,Dinamarca,30,Femenino,Soltera
+42,Oliver Olsen,Noruega,31,Masculino,Soltero
+43,Amelia Andersen,Dinamarca,27,Femenino,Soltera
+44,Benjamin Kristiansen,Dinamarca,29,Masculino,Casado
+45,Isabella Jorgensen,Dinamarca,28,Femenino,Soltera
+46,Lucas Christensen,Dinamarca,30,Masculino,Soltero
+47,Emma Nielsen,Dinamarca,27,Femenino,Casada
+48,Alexander Pedersen,Dinamarca,29,Masculino,Soltero
+49,Mia Jorgensen,Dinamarca,28,Femenino,Soltera
+50,James Christensen,Dinamarca,30,Masculino,Soltero
+51,Isabella Nielsen,Dinamarca,29,Femenino,Soltera
+52,William Jensen,Noruega,26,Masculino,Soltero
+53,Sophia Christensen,Dinamarca,30,Femenino,Soltera
+54,Oliver Olsen,Noruega,31,Masculino,Soltero
+55,Amelia Andersen,Dinamarca,27,Femenino,Soltera
+56,Benjamin Kristiansen,Dinamarca,29,Masculino,Casado
+57,Isabella Jorgensen,Dinamarca,28,Femenino,Soltera
+58,Lucas Christensen,Dinamarca,30,Masculino,Soltero
+59,Emma Nielsen,Dinamarca,27,Femenino,Casada
+60,Alexander Pedersen,Dinamarca,29,Masculino,Soltero
+61,Mia Jorgensen,Dinamarca,28,Femenino,Soltera
+62,James Christensen,Dinamarca,30,Masculino,Soltero
+63,Isabella Nielsen,Dinamarca,29,Femenino,Soltera
+64,William Jensen,Noruega,27,Masculino,Soltero
+65,Sophia Christensen,Dinamarca,30,Femenino,Soltera
+66,Oliver Olsen,Noruega,31,Masculino,Soltero
+67,Amelia Andersen,Dinamarca,27,Femenino,Soltera
+68,Benjamin Kristiansen,Dinamarca,29,Masculino,Casado
+69,Isabella Jorgensen,Dinamarca,28,Femenino,Soltera
+70,Lucas Christensen,Dinamarca,30,Masculino,Soltero
+71,Emma Nielsen,Dinamarca,27,Femenino,Casada
+72,Alexander Pedersen,Dinamarca,29,Masculino,Soltero
+73,Mia Jorgensen,Dinamarca,28,Femenino,Soltera
+74,James Christensen,Dinamarca,30,Masculino,Soltero
+75,Isabella Nielsen,Dinamarca,29,Femenino,Soltera
+76,William Jensen,Noruega,26,Masculino,Soltero
+77,Sophia Christensen,Dinamarca,30,Femenino,Soltera
+78,Oliver Olsen,Noruega,31,Masculino,Soltero
+79,Amelia Andersen,Dinamarca,27,Femenino,Soltera
+80,Benjamin Kristiansen,Dinamarca,29,Masculino,Casado
+81,Isabella Jorgensen,Dinamarca,28,Femenino,Soltera
+82,Lucas Christensen,Dinamarca,30,Masculino,Soltero
+83,Emma Nielsen,Dinamarca,27,Femenino,Casada
+84,Alexander Pedersen,Dinamarca,29,Masculino,Soltero
+85,Mia Jorgensen,Dinamarca,28,Femenino,Soltera
+86,James Christensen,Dinamarca,30,Masculino,Soltero
+87,Isabella Nielsen,Dinamarca,29,Femenino,Soltera
+88,William Jensen,Noruega,27,Masculino,Soltero
+89,Sophia Christensen,Dinamarca,30,Femenino,Soltera
+90,Oliver Olsen,Noruega,31,Masculino,Soltero
+91,Amelia Andersen,Dinamarca,27,Femenino,Soltera
+92,Benjamin Kristiansen,Dinamarca,29,Masculino,Casado
+93,Isabella Jorgensen,Dinamarca,28,Femenino,Soltera
+94,Lucas Christensen,Dinamarca,30,Masculino,Soltero
+95,Emma Nielsen,Dinamarca,27,Femenino,Casada
+96,Alexander Pedersen,Dinamarca,29,Masculino,Soltero
+97,Mia Jorgensen,Dinamarca,28,Femenino,Soltera
+98,James Christensen,Dinamarca,30,Masculino,Soltero
+99,Isabella Nielsen,Dinamarca,29,Femenino,Soltera
+100,William Jensen,Noruega,26,Masculino,Soltero
+101,Sophia Christensen,Dinamarca,30,Femenino,Soltera
+102,Oliver Olsen,Noruega,31,Masculino,Soltero
+103,Amelia Andersen,Dinamarca,27,Femenino,Soltera
+104,Benjamin Kristiansen,Dinamarca,29,Masculino,Casado
+105,Isabella Jorgensen,Dinamarca,28,Femenino,Soltera
+106,Lucas Christensen,Dinamarca,30,Masculino,Soltero
+107,Emma Nielsen,Dinamarca,27,Femenino,Casada
+108,Alexander Pedersen,Dinamarca,29,Masculino,Soltero
+109,Mia Jorgensen,Dinamarca,28,Femenino,Soltera
+110,James Christensen,Dinamarca,30,Masculino,Soltero
+111,Isabella Nielsen,Dinamarca,29,Femenino,Soltera
+112,William Jensen,Noruega,27,Masculino,Soltero
+113,Sophia Christensen,Dinamarca,30,Femenino,Soltera
+114,Oliver Olsen,Noruega,31,Masculino,Soltero
+115,Amelia Andersen,Dinamarca,27,Femenino,Soltera
+116,Benjamin Kristiansen,Dinamarca,29,Masculino,Casado
+117,Isabella Jorgensen,Dinamarca,28,Femenino,Soltera
+118,Lucas Christensen,Dinamarca,30,Masculino,Soltero
+119,Emma Nielsen,Dinamarca,27,Femenino,Casada
+120,Alexander Pedersen,Dinamarca,29,Masculino,Soltero
+121,Sophie Girard,Francia,26,Femenino,Soltera
+122,Hugo Dubois,Francia,29,Masculino,Soltero
+123,Chiara Rossi,Italia,30,Femenino,Casada
+124,Giacomo Russo,Italia,32,Masculino,Casado
+125,Hannah Müller,Alemania,28,Femenino,Soltera
+126,Maximilian Weber,Alemania,31,Masculino,Soltero
+127,Mia Nilsson,Suecia,27,Femenino,Soltera
+128,Elias Andersson,Suecia,29,Masculino,Soltero
+129,Anastasia Ivanova,Rusia,30,Femenino,Soltera
+130,Dmitri Petrov,Rusia,28,Masculino,Soltero
+131,Emma Smith,Reino Unido,25,Femenino,Soltera
+132,James Johnson,Reino Unido,32,Masculino,Soltero
+133,Lara Fernandez,Espana,29,Femenino,Soltera
+134,Santiago Morales,Espana,33,Masculino,Soltero
+135,Lina Andersen,Suecia,28,Femenino,Soltera
+136,Arvid Gustafsson,Suecia,31,Masculino,Soltero
+137,Chiara Ferrari,Italia,27,Femenino,Soltera
+138,Leonardo Romano,Italia,29,Masculino,Soltero
+139,Emma Dupont,Francia,30,Femenino,Casada
+140,Antoine Lefebvre,Francia,27,Masculino,Soltero
+141,Sophia Weber,Alemania,29,Femenino,Soltera
+142,Alexander Meier,Alemania,32,Masculino,Soltero
+143,Isabella Olsen,Noruega,28,Femenino,Soltera
+144,Erik Haugen,Noruega,30,Masculino,Soltero
+145,Anna Andersen,Dinamarca,31,Femenino,Soltera
+146,Lukas Nielsen,Dinamarca,27,Masculino,Soltero
+147,Olivia Hansen,Dinamarca,29,Femenino,Soltera
+148,Emil Jensen,Dinamarca,32,Masculino,Soltero
+149,Martina Bianchi,Italia,28,Femenino,Soltera
+150,Marco Esposito,Italia,30,Masculino,Soltero
+151,Sophie Leroy,Francia,31,Femenino,Soltera
+152,Julien Lambert,Francia,27,Masculino,Soltero
+153,Lena Müller,Alemania,29,Femenino,Soltera
+154,Felix Bauer,Alemania,32,Masculino,Soltero
+155,Emilia Gustafsson,Suecia,28,Femenino,Soltera
+156,Oskar Lindberg,Suecia,30,Masculino,Soltero
+157,Chiara Rossi,Italia,31,Femenino,Casada
+158,Gianluca Marino,Italia,27,Masculino,Soltero
+159,Lara Dupont,Francia,29,Femenino,Soltera
+160,Sacha Girard,Francia,32,Masculino,Soltero
+161,Hannah Weber,Alemania,28,Femenino,Soltera
+162,Maximilian Fischer,Alemania,30,Masculino,Soltero
+163,Mia Nilsson,Suecia,31,Femenino,Soltera
+164,Elias Andersson,Suecia,27,Masculino,Soltero
+165,Anastasia Ivanova,Rusia,29,Femenino,Soltera
+166,Dmitri Petrov,Rusia,32,Masculino,Soltero
+167,Emma Smith,Reino Unido,28,Femenino,Soltera
+168,James Johnson,Reino Unido,30,Masculino,Soltero
+169,Lara Fernandez,Espana,31,Femenino,Soltera
+170,Santiago Morales,Espana,27,Masculino,Soltero
+171,Lina Andersen,Suecia,29,Femenino,Soltera
+172,Arvid Gustafsson,Suecia,32,Masculino,Soltero
+173,Chiara Ferrari,Italia,28,Femenino,Soltera
+174,Leonardo Romano,Italia,30,Masculino,Soltero
+175,Emma Dupont,Francia,31,Femenino,Casada
+176,Antoine Lefebvre,Francia,27,Masculino,Soltero
+177,Sophia Weber,Alemania,29,Femenino,Soltera
+178,Alexander Meier,Alemania,32,Masculino,Soltero
+179,Isabella Olsen,Noruega,28,Femenino,Soltera
+180,Erik Haugen,Noruega,30,Masculino,Soltero
+181,Anna Andersen,Dinamarca,31,Femenino,Soltera
+182,Lukas Nielsen,Dinamarca,27,Masculino,Soltero
+183,Olivia Hansen,Dinamarca,29,Femenino,Soltera
+184,Emil Jensen,Dinamarca,32,Masculino,Soltero
+185,Martina Bianchi,Italia,28,Femenino,Soltera
+186,Marco Esposito,Italia,30,Masculino,Soltero
+187,Sophie Leroy,Francia,31,Femenino,Soltera
+188,Julien Lambert,Francia,27,Masculino,Soltero
+189,Lena Müller,Alemania,29,Femenino,Soltera
+190,Felix Bauer,Alemania,32,Masculino,Soltero
+191,Emilia Gustafsson,Suecia,28,Femenino,Soltera
+192,Oskar Lindberg,Suecia,30,Masculino,Soltero
+193,Chiara Rossi,Italia,31,Femenino,Casada
+194,Gianluca Marino,Italia,27,Masculino,Soltero
+195,Lara Dupont,Francia,29,Femenino,Soltera
+196,Sacha Girard,Francia,32,Masculino,Soltero
+197,Hannah Weber,Alemania,28,Femenino,Soltera
+198,Maximilian Fischer,Alemania,30,Masculino,Soltero
+199,Mia Nilsson,Suecia,31,Femenino,Soltera
+200,Elias Andersson,Suecia,27,Masculino,Soltero
+201,Anastasia Ivanova,Rusia,29,Femenino,Soltera
+202,Dmitri Petrov,Rusia,32,Masculino,Soltero
+203,Emma Smith,Reino Unido,28,Femenino,Soltera
+204,James Johnson,Reino Unido,30,Masculino,Soltero
+205,Lara Fernandez,Espana,31,Femenino,Soltera
+206,Santiago Morales,Espana,27,Masculino,Soltero
+207,Lina Andersen,Suecia,29,Femenino,Soltera
+208,Arvid Gustafsson,Suecia,32,Masculino,Soltero
+209,Chiara Ferrari,Italia,28,Femenino,Soltera
+210,Leonardo Romano,Italia,30,Masculino,Soltero
+211,Emma Dupont,Francia,31,Femenino,Casada
+212,Antoine Lefebvre,Francia,27,Masculino,Soltero
+213,Sophia Weber,Alemania,29,Femenino,Soltera
+214,Alexander Meier,Alemania,32,Masculino,Soltero
+215,Isabella Olsen,Noruega,28,Femenino,Soltera
+216,Erik Haugen,Noruega,30,Masculino,Soltero
+217,Anna Andersen,Dinamarca,31,Femenino,Soltera
+218,Lukas Nielsen,Dinamarca,27,Masculino,Soltero
+219,Olivia Hansen,Dinamarca,29,Femenino,Soltera
+220,Emil Jensen,Dinamarca,32,Masculino,Soltero
+221,Sophia Andersson,Suecia,7,Femenino,Soltera
+222,Oscar Lindberg,Suecia,12,Masculino,Soltero
+223,Lina Nielsen,Dinamarca,10,Femenino,Soltera
+224,Emil Jensen,Dinamarca,8,Masculino,Soltero
+225,Martina Bianchi,Italia,13,Femenino,Soltera
+226,Marco Esposito,Italia,9,Masculino,Soltero
+227,Sophie Leroy,Francia,6,Femenino,Soltera
+228,Julien Lambert,Francia,11,Masculino,Soltero
+229,Lena Müller,Alemania,10,Femenino,Soltera
+230,Felix Bauer,Alemania,12,Masculino,Soltero
+231,Emilia Gustafsson,Suecia,6,Femenino,Soltera
+232,Oskar Lindberg,Suecia,11,Masculino,Soltero
+233,Chiara Rossi,Italia,7,Femenino,Soltera
+234,Gianluca Marino,Italia,12,Masculino,Soltero
+235,Lara Dupont,Francia,9,Femenino,Soltera
+236,Sacha Girard,Francia,10,Masculino,Soltero
+237,Hannah Weber,Alemania,8,Femenino,Soltera
+238,Maximilian Fischer,Alemania,13,Masculino,Soltero
+239,Mia Nilsson,Suecia,7,Femenino,Soltera
+240,Elias Andersson,Suecia,10,Masculino,Soltero
+241,Anastasia Ivanova,Rusia,11,Femenino,Soltera
+242,Dmitri Petrov,Rusia,6,Masculino,Soltero
+243,Emma Smith,Reino Unido,13,Femenino,Soltera
+244,James Johnson,Reino Unido,9,Masculino,Soltero
+245,Lara Fernandez,Espana,7,Femenino,Soltera
+246,Santiago Morales,Espana,12,Masculino,Soltero
+247,Lina Andersen,Suecia,6,Femenino,Soltera
+248,Arvid Gustafsson,Suecia,11,Masculino,Soltero
+249,Chiara Ferrari,Italia,10,Femenino,Soltera
+250,Leonardo Romano,Italia,12,Masculino,Soltero
+251,Emma Dupont,Francia,8,Femenino,Soltera
+252,Antoine Lefebvre,Francia,13,Masculino,Soltero
+253,Sophia Weber,Alemania,6,Femenino,Soltera
+254,Alexander Meier,Alemania,11,Masculino,Soltero
+255,Isabella Olsen,Noruega,10,Femenino,Soltera
+256,Erik Haugen,Noruega,9,Masculino,Soltero
+257,Anna Andersen,Dinamarca,12,Femenino,Soltera
+258,Lukas Nielsen,Dinamarca,6,Masculino,Soltero
+259,Olivia Hansen,Dinamarca,11,Femenino,Soltera
+260,Emil Jensen,Dinamarca,10,Masculino,Soltero
+261,Martina Bianchi,Italia,9,Femenino,Soltera
+262,Marco Esposito,Italia,13,Masculino,Soltero
+263,Sophie Leroy,Francia,6,Femenino,Soltera
+264,Julien Lambert,Francia,12,Masculino,Soltero
+265,Lena Müller,Alemania,7,Femenino,Soltera
+266,Felix Bauer,Alemania,10,Masculino,Soltero
+267,Emilia Gustafsson,Suecia,11,Femenino,Soltera
+268,Oskar Lindberg,Suecia,6,Masculino,Soltero
+269,Chiara Rossi,Italia,12,Femenino,Soltera
+270,Gianluca Marino,Italia,9,Masculino,Soltero
+271,Lara Dupont,Francia,10,Femenino,Soltera
+272,Sacha Girard,Francia,7,Masculino,Soltero
+273,Hannah Weber,Alemania,11,Femenino,Soltera
+274,Maximilian Fischer,Alemania,6,Masculino,Soltero
+275,Mia Nilsson,Suecia,12,Femenino,Soltera
+276,Elias Andersson,Suecia,10,Masculino,Soltero
+277,Anastasia Ivanova,Rusia,9,Femenino,Soltera
+278,Dmitri Petrov,Rusia,13,Masculino,Soltero
+279,Emma Smith,Reino Unido,6,Femenino,Soltera
+280,James Johnson,Reino Unido,11,Masculino,Soltero
+281,Lara Fernandez,Espana,12,Femenino,Soltera
+282,Santiago Morales,Espana,7,Masculino,Soltero
+283,Lina Andersen,Suecia,9,Femenino,Soltera
+284,Arvid Gustafsson,Suecia,10,Masculino,Soltero
+285,Chiara Ferrari,Italia,6,Femenino,Soltera
+286,Leonardo Romano,Italia,13,Masculino,Soltero
+287,Emma Dupont,Francia,7,Femenino,Soltera
+288,Antoine Lefebvre,Francia,11,Masculino,Soltero
+289,Sophia Weber,Alemania,10,Femenino,Soltera
+290,Alexander Meier,Alemania,8,Masculino,Soltero
+291,Isabella Olsen,Noruega,13,Femenino,Soltera
+292,Erik Haugen,Noruega,7,Masculino,Soltero
+293,Anna Andersen,Dinamarca,9,Femenino,Soltera
+294,Lukas Nielsen,Dinamarca,10,Masculino,Soltero
+295,Olivia Hansen,Dinamarca,6,Femenino,Soltera
+296,Emil Jensen,Dinamarca,12,Masculino,Soltero
+297,Martina Bianchi,Italia,11,Femenino,Soltera
+298,Marco Esposito,Italia,9,Masculino,Soltero
+299,Sophie Leroy,Francia,7,Femenino,Soltera
+300,Julien Lambert,Francia,10,Masculino,Soltero
+301,Lena Müller,Alemania,6,Femenino,Soltera
+302,Felix Bauer,Alemania,12,Masculino,Soltero
+303,Emilia Gustafsson,Suecia,11,Femenino,Soltera
+304,Oskar Lindberg,Suecia,7,Masculino,Soltero
+305,Chiara Rossi,Italia,9,Femenino,Soltera
+306,Gianluca Marino,Italia,13,Masculino,Soltero
+307,Lara Dupont,Francia,6,Femenino,Soltera
+308,Sacha Girard,Francia,12,Masculino,Soltero
+309,Hannah Weber,Alemania,10,Femenino,Soltera
+310,Maximilian Fischer,Alemania,9,Masculino,Soltero
+311,Mia Nilsson,Suecia,13,Femenino,Soltera
+312,Elias Andersson,Suecia,6,Masculino,Soltero
+313,Anastasia Ivanova,Rusia,11,Femenino,Soltera
+314,Dmitri Petrov,Rusia,7,Masculino,Soltero
+315,Emma Smith,Reino Unido,9,Femenino,Soltera
+316,James Johnson,Reino Unido,12,Masculino,Soltero
+317,Lara Fernandez,Espana,6,Femenino,Soltera
+318,Santiago Morales,Espana,13,Masculino,Soltero
+319,Lina Andersen,Suecia,11,Femenino,Soltera
+320,Arvid Gustafsson,Suecia,8,Masculino,Soltero
+1002,Geno,China,17,Femenino,Soltero
+1003,Carine,Micronesia,52,Masculino,Soltero
+1004,Bastian,Mexico,15,Masculino,Divorciado
+1005,Dona,Indonesia,51,Femenino,Casado
+1006,Janella,Russia,19,Femenino,Divorciado
+1007,Gillan,China,29,Femenino,Viudo
+1008,Karla,Azerbaijan,49,Femenino,Casado
+1009,Valli,Sweden,49,Masculino,Divorciado
+1010,Kacy,Argentina,68,Masculino,Soltero
+1011,Mary,Malaysia,54,Masculino,Soltero
+1012,Rivi,Indonesia,48,Femenino,Soltero
+1014,Phil,Vietnam,25,Masculino,Viudo
+1015,Tessi,Poland,37,Masculino,Casado
+1016,Nathanil,China,33,Femenino,Soltero
+1017,Rosene,Philippines,47,Femenino,Viudo
+1018,Adena,Bolivia,70,Masculino,Divorciado
+1019,Mufinella,Croatia,18,Masculino,Soltero
+1020,Simone,Brazil,26,Femenino,Viudo
+1021,Sawyer,Greece,72,Femenino,Casado
+1022,Tildy,Colombia,27,Masculino,Viudo
+1023,Sigfrid,Portugal,37,Femenino,Casado
+1024,Latrena,Slovenia,74,Masculino,Casado
+1025,Ciro,Indonesia,50,Femenino,Divorciado
+1026,Michal,China,14,Masculino,Divorciado
+1027,Carroll,Pakistan,73,Femenino,Viudo
+1028,Caritta,Ukraine,62,Femenino,Divorciado
+1029,Onfroi,China,30,Masculino,Casado
+1030,Paloma,China,46,Femenino,Viudo
+1031,Claybourne,China,58,Femenino,Soltero
+1032,Alejoa,Philippines,49,Femenino,Casado
+1033,Jermaine,Mauritania,18,Masculino,Divorciado
+1034,Madelena,Philippines,27,Femenino,Casado
+1035,Virgie,Honduras,20,Femenino,Soltero
+1036,Melonie,Poland,68,Masculino,Viudo
+1037,Joycelin,Poland,75,Femenino,Casado
+1038,Rowney,Indonesia,43,Masculino,Casado
+1039,Xenia,Russia,73,Masculino,Divorciado
+1040,Lucila,Poland,46,Masculino,Casado
+1041,Wandie,Saudi Arabia,66,Femenino,Casado
+1042,Ryan,Indonesia,17,Masculino,Viudo
+1043,Jephthah,France,69,Femenino,Soltero
+1044,Gianni,Brazil,70,Femenino,Casado
+1045,Marji,Indonesia,27,Femenino,Casado
+1046,Ruprecht,Honduras,26,Femenino,Divorciado
+1047,Estele,China,69,Femenino,Divorciado
+1048,Hasheem,Papua New Guinea,70,Masculino,Viudo
+1049,Robinett,Burundi,32,Masculino,Divorciado
+1050,Bevan,Sweden,42,Masculino,Soltero
+1051,Elsworth,Philippines,27,Masculino,Soltero
+1052,Lynsey,Indonesia,61,Femenino,Soltero
+1053,Rorie,Mexico,48,Masculino,Divorciado
+1054,Cathy,Poland,58,Femenino,Divorciado
+1055,Cordelie,China,68,Femenino,Viudo
+1056,Henry,France,29,Femenino,Soltero
+1057,Nobe,Albania,60,Masculino,Divorciado
+1058,Veradis,Argentina,11,Femenino,Soltero
+1059,Jorey,Brazil,56,Masculino,Casado
+1060,Shelia,Philippines,40,Masculino,Soltero
+1061,Orran,Russia,62,Masculino,Casado
+1062,Veda,Japan,69,Femenino,Divorciado
+1063,Coraline,China,68,Femenino,Soltero
+1064,Isadore,United States,70,Masculino,Soltero
+1065,Orlan,Japan,46,Masculino,Divorciado
+1066,Nicholas,Indonesia,75,Femenino,Soltero
+1067,Bellanca,Macedonia,45,Femenino,Viudo
+1068,Pierre,Russia,66,Femenino,Casado
+1069,Mike,Russia,50,Femenino,Divorciado
+1071,Ernaline,Indonesia,25,Masculino,Viudo
+1072,Joleen,Japan,14,Masculino,Soltero
+1073,Obidiah,Portugal,35,Masculino,Soltero
+1074,Phaidra,Micronesia,67,Masculino,Divorciado
+1075,Cchaddie,France,57,Femenino,Viudo
+1076,Irene,Poland,65,Femenino,Soltero
+1077,Gunter,Russia,48,Femenino,Soltero
+1078,Mirabella,Myanmar,64,Femenino,Divorciado
+1080,Gill,Indonesia,51,Femenino,Soltero
+1081,Terrance,China,65,Masculino,Casado
+1082,Devlin,Malawi,62,Femenino,Soltero
+1083,Denys,China,63,Masculino,Soltero
+1084,Catlaina,China,19,Masculino,Divorciado
+1085,Bondy,Liberia,15,Femenino,Casado
+1086,Gerrard,Afghanistan,8,Femenino,Divorciado
+1087,Simone,Philippines,54,Masculino,Viudo
+1088,Perla,France,60,Masculino,Soltero
+1089,Sarine,China,28,Femenino,Divorciado
+1090,Gwyneth,Czech Republic,74,Femenino,Divorciado
+1091,Miriam,Argentina,27,Femenino,Divorciado
+1092,Ilaire,Japan,45,Femenino,Viudo
+1093,Thomasina,Guinea,56,Femenino,Soltero
+1094,Aviva,Kazakhstan,13,Masculino,Soltero
+1095,Sibilla,China,9,Masculino,Casado
+1096,Riva,Sweden,27,Femenino,Casado
+1097,Verne,China,40,Femenino,Casado
+1098,Wood,Japan,43,Masculino,Viudo
+1099,Bonnie,Guatemala,25,Masculino,Divorciado
+1100,Pietra,Niger,73,Femenino,Divorciado
+1101,Derward,China,21,Masculino,Soltero
+1102,Shaylynn,Syria,64,Masculino,Soltero
+1103,Colline,Russia,67,Masculino,Viudo
+1104,Bambie,China,60,Femenino,Casado
+1105,Cybill,Slovenia,36,Femenino,Divorciado
+1106,Philomena,United States,55,Femenino,Casado
+1107,Blancha,Russia,47,Masculino,Casado
+1108,Llywellyn,France,43,Masculino,Viudo
+1109,Giorgia,Iraq,58,Masculino,Divorciado
+1110,Israel,Philippines,50,Femenino,Soltero
+1111,Kym,Poland,75,Masculino,Viudo
+1112,Codi,Philippines,20,Femenino,Casado
+1113,Kacie,France,73,Femenino,Soltero
+1114,Nat,Philippines,57,Masculino,Viudo
+1115,Corrine,China,8,Femenino,Casado
+1116,Brooke,Azerbaijan,37,Masculino,Viudo
+1117,Averil,Jamaica,60,Femenino,Casado
+1118,Saunder,Papua New Guinea,23,Femenino,Casado
+1119,Penny,China,27,Femenino,Viudo
+1120,Jeno,Indonesia,53,Masculino,Soltero
+1121,Greggory,Ukraine,18,Masculino,Soltero
+1122,Elva,France,35,Masculino,Viudo
+1123,Hephzibah,French Polynesia,28,Masculino,Viudo
+1124,Chelsey,Estonia,13,Femenino,Soltero
+1125,Fonzie,Ireland,57,Femenino,Viudo
+1126,Wallie,Cyprus,33,Masculino,Divorciado
+1127,Filbert,Sweden,55,Masculino,Viudo
+1128,Jessie,Nigeria,23,Masculino,Soltero
+1129,Jordain,Indonesia,47,Masculino,Casado
+1130,Jerry,Kuwait,34,Femenino,Viudo
+1131,Coraline,Russia,31,Masculino,Divorciado
+1132,Graeme,Israel,11,Masculino,Casado
+1133,Yehudi,Russia,47,Masculino,Divorciado
+1134,Happy,Portugal,50,Femenino,Divorciado
+1135,Jozef,Indonesia,36,Masculino,Viudo
+1136,Eleanora,South Africa,59,Masculino,Viudo
+1137,Carlen,Czech Republic,53,Masculino,Casado
+1139,Fanya,Taiwan,71,Femenino,Viudo
+1140,Angele,France,54,Masculino,Casado
+1141,Nicole,Canada,50,Masculino,Divorciado
+1142,Gwennie,Indonesia,33,Masculino,Viudo
+1143,Skip,Brazil,43,Masculino,Viudo
+1144,Granny,Ecuador,55,Femenino,Divorciado
+1145,Micaela,Russia,47,Femenino,Casado
+1146,Steward,Uzbekistan,63,Masculino,Casado
+1148,Rachelle,Greece,70,Femenino,Viudo
+1149,Zea,China,46,Masculino,Casado
+1150,Tillie,China,24,Masculino,Viudo
+1151,Arabella,Tunisia,59,Masculino,Divorciado
+1152,Lucia,Zimbabwe,56,Masculino,Soltero
+1153,Robbi,China,65,Femenino,Viudo
+1154,Gertrud,China,42,Masculino,Soltero
+1155,Elora,South Africa,35,Masculino,Viudo
+1156,Meredith,Czech Republic,29,Femenino,Viudo
+1157,Kati,Mexico,26,Femenino,Soltero
+1158,Becky,Honduras,65,Masculino,Casado
+1159,Cathryn,Tajikistan,71,Masculino,Viudo
+1160,David,Indonesia,47,Femenino,Viudo
+1161,Tripp,Peru,26,Masculino,Divorciado
+1162,Jean,Uzbekistan,39,Masculino,Casado
+1163,Tremain,Chile,28,Femenino,Viudo
+1165,Wiatt,France,47,Masculino,Soltero
+1166,Avram,Brazil,43,Femenino,Divorciado
+1167,Allys,China,52,Masculino,Casado
+1168,Skipp,Russia,41,Masculino,Divorciado
+1169,Orton,Portugal,54,Femenino,Viudo
+1171,Maren,China,75,Femenino,Soltero
+1172,Merell,Sweden,67,Masculino,Divorciado
+1173,Chrissy,Mexico,71,Femenino,Casado
+1174,Joel,China,17,Femenino,Soltero
+1175,Felicio,Nicaragua,9,Masculino,Viudo
+1176,Hewet,Russia,57,Femenino,Viudo
+1177,Henryetta,Finland,38,Masculino,Divorciado
+1178,Dew,Japan,53,Masculino,Viudo
+1179,Candice,China,73,Masculino,Casado
+1180,Daffy,Cameroon,68,Masculino,Casado
+1181,Ezmeralda,United States,35,Femenino,Viudo
+1182,Sherie,Poland,21,Femenino,Viudo
+1183,Garvy,Peru,45,Masculino,Divorciado
+1184,Lev,Ukraine,35,Femenino,Divorciado
+1185,Sena,Philippines,55,Masculino,Viudo
+1186,Sholom,Mauritius,16,Femenino,Soltero
+1188,Yasmin,Canada,12,Masculino,Divorciado
+1189,Torey,Ukraine,17,Femenino,Viudo
+1190,Ambros,Angola,63,Masculino,Soltero
+1191,Avictor,China,64,Femenino,Viudo
+1192,Enriqueta,Philippines,64,Masculino,Casado
+1193,Gris,Greece,14,Masculino,Viudo
+1194,Ardine,Bangladesh,17,Masculino,Divorciado
+1195,Forbes,Sweden,38,Masculino,Viudo
+1196,Berkly,China,13,Masculino,Viudo
+1197,Emlynn,France,30,Masculino,Divorciado
+1198,Samuel,Peru,18,Masculino,Viudo
+1199,Eugine,Peru,27,Masculino,Soltero
+1200,Brynne,Sweden,74,Masculino,Soltero
+1201,Orv,Portugal,20,Masculino,Soltero
+1202,Noreen,Colombia,75,Masculino,Casado
+1203,Violet,Mexico,70,Masculino,Viudo
+1204,Colette,China,44,Femenino,Casado
+1205,Leola,Philippines,33,Femenino,Viudo
+1207,Joanne,China,10,Masculino,Divorciado
+1208,Hunter,United Kingdom,8,Femenino,Viudo
+1209,Estrellita,Latvia,31,Femenino,Soltero
+1211,Teriann,Poland,47,Masculino,Casado
+1212,Rosaleen,China,30,Femenino,Divorciado
+1213,Derk,Pakistan,14,Femenino,Viudo
+1214,Lenora,Afghanistan,27,Masculino,Soltero
+1215,Hanan,China,57,Masculino,Viudo
+1216,Frederica,Argentina,18,Masculino,Casado
+1217,Ulberto,Canada,38,Masculino,Casado
+1218,Ivette,China,42,Femenino,Soltero
+1219,Karyn,Slovenia,73,Masculino,Divorciado
+1220,Tatum,Philippines,30,Femenino,Divorciado
+1221,Danila,Colombia,36,Femenino,Soltero
+1222,Alix,Kyrgyzstan,60,Masculino,Viudo
+1223,Jareb,Mexico,71,Femenino,Soltero
+1224,Conrade,Syria,29,Masculino,Viudo
+1225,Artus,China,28,Masculino,Divorciado
+1226,Glenn,Poland,8,Masculino,Divorciado
+1227,Luce,New Zealand,38,Masculino,Soltero
+1228,Berty,China,69,Femenino,Viudo
+1229,Andrei,Iran,31,Femenino,Casado
+1230,Joe,United States,15,Femenino,Soltero
+1231,Renato,Kenya,8,Femenino,Viudo
+1232,Gardy,Portugal,24,Masculino,Viudo
+1233,Barthel,Iran,75,Femenino,Casado
+1234,Zandra,Philippines,22,Femenino,Casado
+1235,Jacobo,Ukraine,52,Femenino,Viudo
+1236,Poppy,Russia,25,Masculino,Casado
+1237,Gav,Poland,20,Femenino,Divorciado
+1238,Pierce,Indonesia,34,Femenino,Viudo
+1239,Reta,Japan,34,Masculino,Casado
+1240,Faun,Ukraine,52,Masculino,Casado
+1241,Peggie,Ethiopia,34,Masculino,Casado
+1242,Curt,Russia,19,Masculino,Soltero
+1243,Trace,Egypt,34,Masculino,Casado
+1244,Brietta,Costa Rica,49,Masculino,Viudo
+1245,Gates,Peru,48,Femenino,Soltero
+1246,Oswald,China,21,Femenino,Soltero
+1247,Melina,Philippines,36,Femenino,Divorciado
+1248,Izabel,Russia,57,Masculino,Divorciado
+1249,Emilia,Peru,16,Femenino,Casado
+1250,Jervis,Indonesia,70,Femenino,Soltero
+1251,Herbert,Russia,53,Masculino,Casado
+1252,Breanne,Poland,13,Masculino,Divorciado
+1253,Michaela,Russia,73,Masculino,Viudo
+1254,Danny,Brazil,49,Femenino,Casado
+1255,Tibold,Vietnam,36,Femenino,Viudo
+1257,Ginger,Ukraine,13,Masculino,Soltero
+1258,Rowe,Bahamas,39,Femenino,Divorciado
+1259,Omero,China,55,Femenino,Casado
+1260,Frank,China,54,Femenino,Soltero
+1261,Jania,Russia,74,Masculino,Divorciado
+1262,Haskell,Philippines,33,Femenino,Soltero
+1263,Nevins,Philippines,33,Masculino,Casado
+1265,Orsola,Brazil,42,Femenino,Soltero
+1266,Archambault,Tanzania,40,Femenino,Soltero
+1267,Silvester,China,33,Femenino,Divorciado
+1268,Noni,Indonesia,54,Femenino,Soltero
+1269,Jessalyn,Indonesia,40,Masculino,Casado
+1270,Malory,Palestinian Territory,29,Masculino,Viudo
+1271,Bartlet,Mexico,20,Masculino,Soltero
+1272,Ricoriki,France,43,Femenino,Casado
+1273,Brittani,Indonesia,29,Masculino,Casado
+1274,Kalie,Portugal,25,Masculino,Soltero
+1275,Woodrow,Nigeria,72,Masculino,Soltero
+1276,Mateo,Russia,31,Femenino,Divorciado
+1277,Burr,Pakistan,15,Masculino,Divorciado
+1278,Field,Russia,39,Masculino,Soltero
+1279,Ward,China,42,Femenino,Viudo
+1280,Lucias,Netherlands,40,Masculino,Soltero
+1281,Hagan,China,12,Femenino,Casado
+1282,Jule,Indonesia,43,Femenino,Viudo
+1283,Lona,China,23,Masculino,Casado
+1284,Alisun,Czech Republic,62,Femenino,Soltero
+1285,Clint,China,22,Femenino,Soltero
+1286,Phebe,Croatia,10,Femenino,Divorciado
+1287,Ruddie,Laos,11,Femenino,Viudo
+1288,Lambert,Burkina Faso,43,Masculino,Casado
+1289,Art,Russia,67,Femenino,Divorciado
+1290,Trueman,China,69,Masculino,Casado
+1291,Gretel,Brazil,34,Femenino,Soltero
+1292,Demetria,China,67,Masculino,Viudo
+1293,Francoise,Sweden,20,Masculino,Divorciado
+1294,Jasmina,Sri Lanka,73,Femenino,Soltero
+1296,Hanan,Indonesia,18,Masculino,Viudo
+1297,Ade,Portugal,73,Femenino,Casado
+1298,Susi,Ukraine,46,Femenino,Viudo
+1299,Theadora,Russia,51,Femenino,Divorciado
+1301,Ewan,Indonesia,73,Femenino,Casado
+1302,Catie,Brazil,41,Masculino,Casado
+1303,Marcela,United States,47,Masculino,Viudo
+1304,Gwynne,Indonesia,21,Femenino,Viudo
+1305,Nickie,Russia,32,Femenino,Casado
+1306,Sharl,Brazil,31,Masculino,Divorciado
+1307,Shayla,Vietnam,24,Femenino,Soltero
+1308,Woodrow,United States,49,Masculino,Viudo
+1309,Beale,Sweden,44,Masculino,Viudo
+1310,Bambie,Sweden,45,Femenino,Viudo
+1311,Ingram,Russia,49,Masculino,Soltero
+1312,Cristi,Indonesia,28,Femenino,Soltero
+1313,Flint,Indonesia,49,Masculino,Casado
+1314,Hatty,Japan,45,Masculino,Viudo
+1315,Betsy,Sweden,37,Masculino,Viudo
+1316,Gunther,Belarus,45,Masculino,Viudo
+1317,Fawn,Portugal,62,Femenino,Viudo
+1318,Brandi,Indonesia,52,Femenino,Divorciado
+1319,Donnie,Morocco,27,Masculino,Viudo
+1320,Trey,China,42,Femenino,Divorciado
+1321,Lorianne,Brazil,46,Masculino,Soltero
+1322,Giselle,Ethiopia,38,Masculino,Casado
+1323,Denna,Croatia,36,Femenino,Casado
+1324,Bogart,Indonesia,67,Masculino,Viudo
+1326,Freddy,Honduras,60,Femenino,Soltero
+1327,Gwen,Japan,19,Femenino,Viudo
+1328,Sloan,Portugal,67,Masculino,Viudo
+1329,Peria,China,50,Femenino,Divorciado
+1330,Meir,Sri Lanka,23,Femenino,Viudo
+1331,Buddie,Armenia,31,Femenino,Soltero
+1333,Tish,Indonesia,43,Femenino,Divorciado
+1334,Odette,Canada,30,Masculino,Soltero
+1335,Madelene,China,17,Masculino,Casado
+1336,James,Thailand,61,Femenino,Viudo
+1337,Norrie,Indonesia,16,Femenino,Viudo
+1338,Tara,Nigeria,42,Femenino,Soltero
+1339,Lin,Philippines,71,Masculino,Divorciado
+1340,Artie,Albania,51,Femenino,Divorciado
+1341,Debi,Sweden,55,Masculino,Divorciado
+1342,Norry,Myanmar,11,Masculino,Casado
+1343,Bryanty,China,55,Masculino,Viudo
+1344,Bette-ann,Tunisia,68,Femenino,Divorciado
+1345,Tarrance,Indonesia,27,Femenino,Divorciado
+1346,Fawn,France,12,Masculino,Viudo
+1347,Saleem,China,52,Femenino,Divorciado
+1348,Ingelbert,Russia,11,Femenino,Casado
+1349,Emmalee,Benin,74,Masculino,Divorciado
+1350,Janka,Sweden,69,Femenino,Casado
+1351,Hoyt,Ukraine,26,Femenino,Soltero
+1352,Shea,Philippines,55,Femenino,Soltero
+1353,Pierre,Portugal,43,Masculino,Soltero
+1354,Peggi,Sweden,59,Femenino,Divorciado
+1355,Paloma,China,47,Masculino,Soltero
+1356,Marsha,Vietnam,34,Femenino,Divorciado
+1357,Janaye,United States,49,Femenino,Soltero
+1358,Bev,China,49,Masculino,Soltero
+1359,Emmett,Indonesia,47,Masculino,Casado
+1360,Selene,China,73,Masculino,Viudo
+1361,Layton,Pakistan,60,Masculino,Soltero
+1362,Tirrell,Netherlands,33,Femenino,Divorciado
+1363,Tiffie,Afghanistan,47,Femenino,Viudo
+1364,Belia,China,21,Masculino,Divorciado
+1365,Ree,Japan,69,Masculino,Soltero
+1366,Dee dee,Ecuador,67,Femenino,Viudo
+1367,Lucius,Chile,24,Masculino,Divorciado
+1368,Alfonse,Nigeria,12,Masculino,Casado
+1369,Gilligan,France,46,Femenino,Casado
+1370,Shermy,Philippines,18,Femenino,Viudo
+1371,Frazier,Indonesia,66,Masculino,Casado
+1372,Tilda,China,72,Femenino,Viudo
+1373,Genni,Nigeria,74,Femenino,Divorciado
+1374,Sandy,Bangladesh,13,Masculino,Viudo
+1375,Janette,Azerbaijan,57,Masculino,Divorciado
+1376,Kathryne,Russia,14,Femenino,Soltero
+1377,Rossie,Belarus,33,Masculino,Divorciado
+1378,Helenelizabeth,Indonesia,17,Masculino,Divorciado
+1379,Thaine,Cameroon,35,Masculino,Viudo
+1380,Christian,China,75,Masculino,Casado
+1381,Luelle,Indonesia,30,Masculino,Soltero
+1382,Wally,China,75,Masculino,Soltero
+1383,Kerrin,Ukraine,18,Masculino,Divorciado
+1384,Maggy,Bolivia,43,Masculino,Viudo
+1385,Regan,Thailand,31,Femenino,Divorciado
+1386,Sammie,Cuba,33,Femenino,Casado
+1388,Hewe,France,36,Femenino,Divorciado
+1390,Koral,Japan,35,Femenino,Viudo
+1391,Davita,China,51,Femenino,Soltero
+1392,Ileane,China,32,Masculino,Casado
+1393,Cameron,Ecuador,29,Femenino,Viudo
+1394,Madonna,Ukraine,26,Femenino,Divorciado
+1395,Krista,China,19,Femenino,Soltero
+1396,Sullivan,Indonesia,40,Femenino,Casado
+1397,Nelia,China,15,Femenino,Soltero
+1398,Shelli,Serbia,44,Masculino,Soltero
+1399,Adrian,Greece,56,Masculino,Viudo
+1400,Fidole,North Korea,52,Masculino,Casado
+1401,Linc,Indonesia,37,Femenino,Soltero
+1402,Delmar,Sweden,51,Masculino,Divorciado
+1403,Dominick,China,53,Femenino,Divorciado
+1404,Jaymee,Nigeria,20,Masculino,Divorciado
+1405,Merrile,Mexico,74,Femenino,Soltero
+1406,Hilary,Estonia,45,Masculino,Viudo
+1407,Costa,Indonesia,52,Femenino,Viudo
+1408,Morgun,Czech Republic,29,Femenino,Soltero
+1409,Guthrey,China,27,Masculino,Soltero
+1410,Garv,Netherlands,13,Femenino,Viudo
+1411,Julian,Peru,32,Masculino,Soltero
+1412,Lucienne,Brazil,44,Femenino,Viudo
+1413,Jamaal,Indonesia,55,Femenino,Divorciado
+1414,Damian,Canada,13,Femenino,Viudo
+1415,Sharia,Palestinian Territory,35,Femenino,Soltero
+1416,Rey,China,73,Femenino,Casado
+1417,Babbette,United States,29,Masculino,Viudo
+1418,Brigg,Portugal,54,Femenino,Viudo
+1419,Kiel,China,16,Femenino,Viudo
+1420,Elsi,Morocco,16,Masculino,Soltero
+1421,Silvana,China,63,Femenino,Casado
+1422,Pattie,China,18,Masculino,Soltero
+1424,Gaile,China,40,Femenino,Casado
+1425,Edin,Kazakhstan,18,Masculino,Casado
+1426,Cathi,Honduras,62,Masculino,Soltero
+1427,Reina,Philippines,11,Femenino,Casado
+1428,Roth,Philippines,55,Femenino,Divorciado
+1429,Giff,Indonesia,66,Masculino,Casado
+1430,Raffaello,Croatia,18,Masculino,Divorciado
+1431,Auguste,Sweden,38,Femenino,Soltero
+1432,Michel,Philippines,14,Femenino,Divorciado
+1433,Piper,Philippines,69,Masculino,Casado
+1434,Electra,Indonesia,39,Masculino,Soltero
+1435,Trudie,Czech Republic,43,Masculino,Casado
+1436,Lira,China,41,Masculino,Soltero
+1437,Aimil,Belarus,51,Masculino,Casado
+1438,Caria,China,27,Masculino,Viudo
+1439,Alexia,Czech Republic,52,Femenino,Casado
+1440,Teri,Indonesia,29,Femenino,Casado
+1441,Piper,Mongolia,26,Femenino,Soltero
+1442,Beverley,Czech Republic,35,Masculino,Casado
+1443,Neall,Czech Republic,25,Femenino,Soltero
+1444,Burke,Russia,21,Femenino,Viudo
+1445,Alison,Cuba,19,Femenino,Viudo
+1446,Sheree,United States,39,Masculino,Casado
+1447,Giacopo,China,12,Masculino,Soltero
+1448,Harlen,South Africa,51,Masculino,Divorciado
+1449,Elenore,Palestinian Territory,18,Masculino,Divorciado
+1451,Rubie,Philippines,57,Masculino,Casado
+1452,Breena,France,23,Femenino,Divorciado
+1453,Fawn,Russia,71,Masculino,Divorciado
+1454,Diana,Armenia,71,Masculino,Divorciado
+1455,Jelene,China,14,Masculino,Viudo
+1456,Pippy,Iran,32,Masculino,Divorciado
+1457,Rania,France,48,Masculino,Soltero
+1458,Earlie,Poland,29,Masculino,Viudo
+1459,Erroll,China,43,Femenino,Viudo
+1460,Tarrance,New Zealand,39,Masculino,Divorciado
+1461,Vonnie,Sweden,37,Masculino,Soltero
+1462,Imogen,Colombia,55,Masculino,Soltero
+1463,Ewan,Indonesia,59,Femenino,Viudo
+1464,Romeo,Albania,50,Femenino,Divorciado
+1465,Leonard,Philippines,14,Femenino,Soltero
+1466,Saxe,China,46,Femenino,Viudo
+1467,Cathee,China,15,Masculino,Casado
+1468,Daron,Uzbekistan,10,Femenino,Casado
+1470,Trevar,United States,44,Masculino,Soltero
+1471,Teador,Maldives,43,Masculino,Viudo
+1472,Wilt,Philippines,59,Femenino,Casado
+1473,Eadmund,Russia,20,Masculino,Viudo
+1474,Sollie,Brazil,63,Masculino,Soltero
+1475,Abbie,Egypt,71,Masculino,Casado
+1476,Gianni,Afghanistan,41,Masculino,Casado
+1477,Ferd,Ukraine,35,Femenino,Viudo
+1478,Dalia,Indonesia,37,Femenino,Casado
+1479,Dru,Brazil,75,Femenino,Viudo
+1480,Nalani,Philippines,52,Masculino,Viudo
+1481,Ceil,Portugal,70,Femenino,Viudo
+1482,Trueman,Canada,60,Masculino,Casado
+1483,Jillane,China,45,Masculino,Soltero
+1484,Godard,Indonesia,41,Femenino,Soltero
+1485,Laura,Sweden,61,Femenino,Casado
+1486,Thurstan,United States,31,Masculino,Divorciado
+1487,Joni,Bulgaria,40,Femenino,Divorciado
+1488,Onofredo,China,48,Masculino,Viudo
+1489,Danit,North Korea,51,Masculino,Soltero
+1490,Nolie,Indonesia,11,Masculino,Casado
+1491,Lenka,Philippines,11,Masculino,Viudo
+1492,Robby,Russia,21,Femenino,Divorciado
+1493,Dominica,Guinea,54,Masculino,Viudo
+1494,Zahara,Japan,24,Masculino,Casado
+1495,Chad,Russia,59,Femenino,Divorciado
+1496,Jarid,Croatia,25,Femenino,Casado
+1497,Chelsy,Russia,61,Femenino,Soltero
+1498,Elyn,Morocco,66,Masculino,Viudo
+1499,Giraud,China,45,Femenino,Divorciado
+1500,Margaux,Indonesia,16,Femenino,Divorciado
+1501,Christy,Russia,22,Femenino,Soltero
+1502,Faith,Argentina,20,Femenino,Divorciado
+1503,Chicky,China,72,Masculino,Casado
+1504,Tansy,Sweden,54,Masculino,Soltero
+1505,Connie,China,49,Masculino,Viudo
+1506,Antonio,Poland,73,Femenino,Soltero
+1507,Jessi,France,10,Masculino,Divorciado
+1508,Ellie,Portugal,10,Masculino,Casado
+1509,Birch,United Arab Emirates,64,Masculino,Divorciado
+1510,Cheston,Tunisia,48,Femenino,Soltero
+1511,Mercie,Norway,19,Femenino,Divorciado
+1512,Cyndie,Indonesia,39,Masculino,Casado
+1513,Trudy,Indonesia,55,Femenino,Soltero
+1514,Lucius,Finland,69,Masculino,Divorciado
+1515,Spenser,Poland,48,Masculino,Viudo
+1516,Clarabelle,Poland,47,Femenino,Viudo
+1517,Costa,Thailand,47,Masculino,Soltero
+1518,Latrena,Indonesia,25,Masculino,Soltero
+1520,Clemmy,Chile,25,Femenino,Divorciado
+1521,Halimeda,Peru,59,Masculino,Divorciado
+1522,Alick,Greece,9,Masculino,Casado
+1523,Reggi,China,21,Masculino,Soltero
+1524,Estrella,Czech Republic,32,Masculino,Casado
+1525,Maryellen,Japan,65,Masculino,Soltero
+1526,Flori,Indonesia,22,Femenino,Viudo
+1527,Jeremy,Mauritius,24,Masculino,Viudo
+1528,Lev,Czech Republic,73,Masculino,Soltero
+1529,Aeriel,Indonesia,47,Masculino,Viudo
+1530,Alexandrina,Serbia,49,Femenino,Soltero
+1531,Cyb,China,55,Femenino,Viudo
+1532,Friedrich,Brazil,46,Masculino,Casado
+1533,Justis,China,57,Masculino,Viudo
+1534,Skip,China,44,Masculino,Viudo
+1535,Tim,Peru,35,Masculino,Soltero
+1536,Deerdre,China,74,Femenino,Viudo
+1537,Kendrick,Philippines,46,Masculino,Divorciado
+1538,Cordie,Indonesia,58,Masculino,Casado
+1539,Gerome,Chile,46,Femenino,Divorciado
+1540,Rodney,South Korea,22,Masculino,Casado
+1541,May,Croatia,44,Femenino,Soltero
+1542,Sigmund,Bangladesh,27,Femenino,Viudo
+1543,Jenelle,Indonesia,47,Femenino,Divorciado
+1544,Arlee,Brazil,73,Femenino,Casado
+1545,Aldin,Belarus,69,Femenino,Casado
+1546,Zola,Malaysia,39,Masculino,Viudo
+1547,Jude,China,18,Masculino,Viudo
+1548,Myrtle,Papua New Guinea,35,Masculino,Casado
+1549,Emelita,China,66,Femenino,Divorciado
+1550,Evan,Sweden,61,Femenino,Casado
+1551,Geri,Russia,35,Masculino,Viudo
+1552,Dennison,Honduras,47,Femenino,Casado
+1553,Cully,Poland,16,Masculino,Soltero
+1554,Rickie,China,35,Femenino,Viudo
+1555,Brigid,Russia,55,Masculino,Divorciado
+1556,Abby,Kazakhstan,27,Masculino,Soltero
+1557,Nial,Cuba,65,Femenino,Casado
+1558,Chiquia,Malawi,25,Masculino,Casado
+1559,Jolynn,Kazakhstan,28,Femenino,Casado
+1560,Allene,Indonesia,65,Masculino,Viudo
+1561,Hazlett,Peru,22,Masculino,Casado
+1562,Noble,Indonesia,46,Masculino,Divorciado
+1563,Geoff,Colombia,54,Femenino,Viudo
+1564,Natalya,Indonesia,50,Masculino,Casado
+1565,Niels,Chad,48,Masculino,Soltero
+1566,Caresse,United States,36,Masculino,Viudo
+1567,Sibyl,China,57,Femenino,Viudo
+1568,Sloane,France,19,Femenino,Divorciado
+1570,Alberto,Germany,35,Femenino,Divorciado
+1571,Edy,China,71,Masculino,Casado
+1572,Hamil,Sweden,30,Femenino,Viudo
+1573,Friederike,Philippines,61,Femenino,Viudo
+1574,Anthe,China,35,Masculino,Divorciado
+1575,Chance,Indonesia,16,Masculino,Casado
+1576,Marchall,Vietnam,28,Masculino,Divorciado
+1577,Christie,Japan,23,Femenino,Divorciado
+1578,Theodoric,Uruguay,67,Masculino,Viudo
+1579,Tamar,Comoros,56,Femenino,Viudo
+1580,Lief,Philippines,30,Masculino,Casado
+1581,Cecilius,Philippines,68,Masculino,Soltero
+1582,Kristo,Mozambique,30,Masculino,Divorciado
+1583,Eloisa,Bolivia,21,Femenino,Casado
+1584,Salomi,Brazil,34,Masculino,Divorciado
+1585,Mitch,Poland,15,Masculino,Divorciado
+1586,Cammy,Japan,46,Femenino,Viudo
+1587,Tedra,Czech Republic,8,Femenino,Casado
+1588,Gran,China,42,Masculino,Casado
+1589,Alexio,Mexico,58,Femenino,Soltero
+1591,Orelia,Switzerland,25,Masculino,Viudo
+1592,Fowler,Ukraine,34,Masculino,Casado
+1593,Verne,China,47,Femenino,Viudo
+1594,Olly,China,38,Masculino,Casado
+1595,Ossie,China,9,Femenino,Divorciado
+1596,Bartholomeo,Sweden,70,Masculino,Soltero
+1597,Alon,Myanmar,15,Masculino,Soltero
+1598,Alberik,Indonesia,60,Femenino,Viudo
+1599,Karoly,China,52,Femenino,Viudo
+1600,Mab,United States,36,Femenino,Casado
+1601,Margy,China,32,Masculino,Soltero
+1602,Dionis,Tanzania,59,Femenino,Divorciado
+1603,Marlow,Czech Republic,52,Masculino,Viudo
+1604,Hastings,Trinidad and Tobago,22,Femenino,Casado
+1605,Goldia,Bosnia and Herzegovina,19,Masculino,Viudo
+1606,Karylin,Peru,66,Masculino,Casado
+1607,Normie,Portugal,61,Femenino,Viudo
+1608,Louisa,Poland,46,Masculino,Casado
+1609,Brose,Morocco,43,Masculino,Viudo
+1610,Horatio,Malaysia,73,Femenino,Soltero
+1611,Bond,Poland,8,Masculino,Divorciado
+1612,Alfy,Indonesia,15,Femenino,Divorciado
+1613,Marie,Poland,50,Femenino,Divorciado
+1614,Sloane,France,72,Masculino,Soltero
+1615,Mozelle,Russia,21,Femenino,Viudo
+1616,Rikki,Colombia,37,Femenino,Viudo
+1617,Karoline,Philippines,43,Femenino,Viudo
+1618,Jamison,Portugal,10,Femenino,Casado
+1619,Rachel,Colombia,70,Masculino,Divorciado
+1620,Nehemiah,Indonesia,55,Masculino,Viudo
+1621,Nat,China,22,Masculino,Viudo
+1622,Krystyna,China,44,Femenino,Casado
+1623,Kirsteni,China,35,Masculino,Viudo
+1624,Sisile,Indonesia,68,Femenino,Divorciado
+1625,Patrizia,Russia,30,Masculino,Viudo
+1626,Abagail,Paraguay,49,Femenino,Soltero
+1627,Gardy,Indonesia,35,Masculino,Casado
+1628,Norbert,Indonesia,10,Femenino,Casado
+1629,Scotti,Morocco,38,Femenino,Viudo
+1630,Kizzie,Indonesia,16,Femenino,Viudo
+1631,Garik,Tunisia,41,Femenino,Viudo
+1632,Jackquelin,Burkina Faso,72,Femenino,Viudo
+1633,Win,Indonesia,22,Femenino,Casado
+1634,Vernor,Russia,60,Femenino,Divorciado
+1635,Cate,Portugal,62,Femenino,Casado
+1636,Roth,Philippines,26,Masculino,Casado
+1637,Nikolai,China,56,Femenino,Casado
+1638,Stafford,Philippines,34,Masculino,Soltero
+1639,Sancho,Paraguay,34,Femenino,Divorciado
+1640,Lorrie,France,63,Masculino,Divorciado
+1641,Easter,Iran,34,Masculino,Viudo
+1642,Alecia,Argentina,31,Femenino,Casado
+1643,Farrah,China,45,Masculino,Viudo
+1644,Ysabel,Philippines,9,Masculino,Divorciado
+1645,Shirley,Philippines,9,Masculino,Viudo
+1646,Chet,Philippines,31,Masculino,Divorciado
+1647,Colver,Indonesia,8,Femenino,Casado
+1648,Ernie,Venezuela,36,Masculino,Soltero
+1649,Jimmy,Mexico,51,Femenino,Divorciado
+1651,Barnie,China,63,Femenino,Casado
+1652,Lavinia,China,22,Femenino,Soltero
+1653,Phelia,China,50,Femenino,Soltero
+1654,Loydie,Canada,27,Masculino,Casado
+1655,Antonie,Canada,60,Femenino,Soltero
+1656,Starlene,China,54,Masculino,Viudo
+1657,Alana,China,65,Masculino,Viudo
+1658,Reagen,France,21,Masculino,Casado
+1659,Quintin,Russia,72,Femenino,Soltero
+1660,Gunar,Philippines,54,Masculino,Soltero
+1662,Noland,Myanmar,52,Femenino,Viudo
+1663,Luther,Peru,53,Femenino,Viudo
+1664,Stormi,Indonesia,58,Masculino,Divorciado
+1665,Bianca,Philippines,72,Femenino,Casado
+1666,Muffin,Czech Republic,50,Masculino,Soltero
+1667,Dyane,Indonesia,17,Femenino,Casado
+1668,Danice,Philippines,17,Masculino,Viudo
+1669,Jena,China,12,Femenino,Soltero
+1670,Shandeigh,Germany,52,Femenino,Viudo
+1671,Ferrel,Nigeria,47,Femenino,Casado
+1672,Parrnell,Indonesia,12,Femenino,Soltero
+1674,Robbert,China,58,Femenino,Viudo
+1676,Stephani,Russia,23,Femenino,Casado
+1677,Beauregard,Colombia,70,Masculino,Casado
+1678,Paten,Portugal,56,Masculino,Casado
+1679,Rudd,China,48,Femenino,Casado
+1680,Stacee,China,47,Femenino,Casado
+1681,Junina,France,53,Femenino,Casado
+1682,Jermaine,Philippines,48,Masculino,Casado
+1683,Denys,Poland,65,Femenino,Casado
+1684,Martynne,Vietnam,64,Femenino,Casado
+1685,Bing,Philippines,36,Masculino,Casado
+1686,Nealy,Japan,69,Femenino,Divorciado
+1687,Avrom,Central African Republic,68,Masculino,Divorciado
+1688,Rene,China,11,Femenino,Divorciado
+1689,Val,Russia,47,Femenino,Viudo
+1690,Karlen,Germany,46,Masculino,Soltero
+1691,Beitris,China,62,Masculino,Divorciado
+1692,Latisha,Russia,21,Femenino,Soltero
+1693,Vidovik,Macedonia,50,Femenino,Divorciado
+1694,Jackqueline,France,42,Masculino,Viudo
+1695,Conni,Bulgaria,67,Masculino,Divorciado
+1696,Sylvester,France,20,Femenino,Divorciado
+1697,Janette,Madagascar,30,Masculino,Divorciado
+1698,Ralph,Palestinian Territory,37,Masculino,Soltero
+1699,Codie,Brazil,27,Femenino,Soltero
+1700,Brynne,China,15,Masculino,Casado
+1701,Benita,Indonesia,34,Masculino,Casado
+1703,Vlad,Sweden,36,Masculino,Casado
+1704,Opalina,Argentina,24,Masculino,Soltero
+1705,Ricoriki,Poland,25,Masculino,Casado
+1706,Abigale,Poland,27,Femenino,Viudo
+1707,Riva,Philippines,55,Femenino,Divorciado
+1708,Dennie,China,71,Masculino,Casado
+1709,Suzanna,Madagascar,46,Femenino,Divorciado
+1710,Sayres,Japan,17,Femenino,Soltero
+1711,Vernon,China,56,Masculino,Soltero
+1712,Nettle,France,61,Femenino,Soltero
+1713,Terrill,China,12,Masculino,Viudo
+1714,Allayne,Uzbekistan,45,Femenino,Soltero
+1715,Miriam,Germany,34,Masculino,Casado
+1716,Patsy,Japan,11,Femenino,Divorciado
+1717,Patricia,Indonesia,57,Femenino,Soltero
+1718,Renie,France,44,Masculino,Soltero
+1719,Francis,Portugal,9,Femenino,Casado
+1720,Nora,Russia,11,Femenino,Casado
+1721,Marice,United States,61,Masculino,Soltero
+1722,Nance,France,30,Femenino,Viudo
+1723,Sampson,Thailand,42,Femenino,Viudo
+1724,Aldwin,Japan,12,Femenino,Divorciado
+1725,Karel,Brazil,17,Femenino,Casado
+1726,Aile,Sweden,56,Femenino,Casado
+1727,Ninnetta,China,71,Masculino,Casado
+1728,Roselin,Poland,58,Femenino,Casado
+1729,Boone,Indonesia,67,Masculino,Soltero
+1730,Thorsten,Poland,73,Femenino,Casado
+1731,Adriano,Colombia,11,Masculino,Viudo
+1732,Maude,Indonesia,61,Femenino,Divorciado
+1733,Raimundo,Malaysia,72,Femenino,Divorciado
+1734,Rem,China,15,Masculino,Divorciado
+1735,Jud,United States,19,Masculino,Casado
+1736,Lonnie,Indonesia,19,Masculino,Soltero
+1737,Therese,El Salvador,63,Femenino,Soltero
+1738,Clotilda,China,33,Femenino,Casado
+1739,Celene,China,59,Femenino,Viudo
+1740,Jacqueline,Ireland,46,Femenino,Viudo
+1741,Rhea,Indonesia,14,Femenino,Casado
+1742,Madelena,Croatia,54,Masculino,Casado
+1743,Jorey,Malaysia,33,Masculino,Soltero
+1744,Deirdre,Czech Republic,27,Masculino,Soltero
+1745,Arlina,Philippines,71,Femenino,Soltero
+1746,Gar,Sweden,34,Femenino,Viudo
+1747,Lorilee,Indonesia,26,Femenino,Soltero
+1748,Rhetta,China,41,Masculino,Divorciado
+1749,Ursala,Philippines,61,Femenino,Divorciado
+1750,Niven,Colombia,17,Masculino,Divorciado
+1751,Frasquito,China,55,Femenino,Soltero
+1752,Reid,Brazil,23,Femenino,Casado
+1753,Dell,China,45,Femenino,Divorciado
+1754,Ario,Romania,12,Masculino,Casado
+1755,Eileen,Indonesia,38,Masculino,Divorciado
+1756,Bertie,Russia,27,Femenino,Viudo
+1757,Carie,Canada,69,Femenino,Soltero
+1758,Clemente,China,64,Masculino,Divorciado
+1759,Alene,Poland,26,Masculino,Viudo
+1760,Piper,Portugal,37,Masculino,Soltero
+1761,Lonny,Argentina,40,Masculino,Soltero
+1762,Kissie,France,24,Femenino,Divorciado
+1763,Julee,Bolivia,18,Masculino,Viudo
+1764,Lissa,China,64,Masculino,Casado
+1765,Catharine,Madagascar,50,Masculino,Divorciado
+1766,Chucho,Albania,34,Masculino,Divorciado
+1767,Emmie,United States,9,Masculino,Divorciado
+1768,Tillie,France,75,Femenino,Soltero
+1769,Kristel,Brazil,11,Femenino,Viudo
+1770,Rafaelia,Poland,50,Masculino,Viudo
+1771,Ode,China,55,Femenino,Casado
+1772,Rory,Vietnam,8,Masculino,Soltero
+1773,Sue,Egypt,49,Masculino,Casado
+1774,Myer,Russia,48,Masculino,Viudo
+1775,Peggi,Bolivia,71,Femenino,Viudo
+1776,Delano,Vietnam,45,Femenino,Casado
+1778,Jami,Greece,50,Masculino,Divorciado
+1779,Harlie,Portugal,30,Masculino,Divorciado
+1780,Nate,France,74,Femenino,Viudo
+1782,Aloise,China,13,Femenino,Viudo
+1783,Rosaline,South Korea,38,Femenino,Soltero
+1784,Lenard,Portugal,63,Masculino,Casado
+1785,Benedikta,China,31,Femenino,Divorciado
+1786,Nilson,Costa Rica,59,Masculino,Casado
+1787,Jacky,Zambia,23,Femenino,Viudo
+1790,Guillema,China,68,Femenino,Divorciado
+1791,Pet,Brazil,68,Femenino,Viudo
+1792,Hilliard,Indonesia,27,Femenino,Soltero
+1793,Martina,Mexico,36,Masculino,Soltero
+1794,Reuben,Tunisia,12,Femenino,Viudo
+1795,Winna,France,59,Masculino,Soltero
+1796,Cristionna,France,47,Masculino,Casado
+1797,Pepi,Vietnam,73,Masculino,Divorciado
+1798,Becky,Poland,42,Masculino,Divorciado
+1799,Weston,Poland,67,Femenino,Soltero
+1800,Frankie,China,12,Femenino,Soltero
+1801,Corilla,Portugal,66,Masculino,Viudo
+1802,Arleen,Iran,56,Femenino,Casado
+1803,Caz,China,14,Femenino,Casado
+1804,Jonas,Colombia,15,Femenino,Viudo
+1805,Nate,Mexico,73,Femenino,Soltero
+1806,Brenda,Brazil,56,Masculino,Viudo
+1807,Artur,Poland,39,Masculino,Soltero
+1808,Celene,Saudi Arabia,25,Femenino,Divorciado
+1809,Hubey,Canada,28,Masculino,Soltero
+1810,Hubey,Philippines,40,Masculino,Viudo
+1811,Shem,Moldova,18,Femenino,Viudo
+1812,Hanna,Czech Republic,38,Masculino,Casado
+1813,Neal,Ukraine,13,Masculino,Divorciado
+1814,Curry,Russia,58,Masculino,Casado
+1815,Camel,China,57,Femenino,Viudo
+1816,Skipper,Germany,25,Femenino,Viudo
+1817,Caroljean,China,61,Masculino,Viudo
+1818,Lenora,Philippines,30,Masculino,Divorciado
+1819,Byron,Brazil,71,Femenino,Casado
+1820,Roxine,China,47,Masculino,Casado
+1821,Elene,Philippines,31,Femenino,Viudo
+1822,Phillipe,France,13,Femenino,Divorciado
+1823,Alyda,Ukraine,40,Femenino,Divorciado
+1824,Alric,Russia,54,Masculino,Casado
+1825,Lucille,Indonesia,47,Femenino,Divorciado
+1826,Coral,New Zealand,40,Masculino,Divorciado
+1827,Skyler,Sweden,65,Masculino,Viudo
+1828,Zilvia,Argentina,22,Femenino,Casado
+1829,Sue,China,18,Masculino,Casado
+1830,Roderich,Indonesia,59,Femenino,Casado
+1831,Codie,Japan,68,Femenino,Viudo
+1832,Eduardo,China,60,Masculino,Viudo
+1833,Andy,United States,57,Masculino,Viudo
+1834,Clay,Laos,50,Masculino,Casado
+1835,Berny,Yemen,65,Femenino,Viudo
+1836,Lemuel,Indonesia,55,Masculino,Casado
+1837,Georgette,Senegal,10,Masculino,Soltero
+1838,Gilbertine,Sweden,48,Femenino,Viudo
+1839,Alden,Colombia,46,Masculino,Casado
+1840,Keelby,Portugal,28,Masculino,Soltero
+1841,Brynna,Slovenia,21,Masculino,Casado
+1842,Thaddus,Egypt,74,Femenino,Viudo
+1843,Cristal,Ireland,30,Masculino,Divorciado
+1844,Nonna,Russia,64,Masculino,Viudo
+1845,Jermaine,China,70,Masculino,Soltero
+1846,Boigie,China,43,Femenino,Viudo
+1847,Teddy,Austria,50,Femenino,Soltero
+1848,Tova,China,70,Masculino,Divorciado
+1849,Kim,Philippines,39,Masculino,Soltero
+1850,Amberly,Indonesia,50,Femenino,Casado
+1851,Aeriela,Nigeria,75,Femenino,Divorciado
+1852,Cristobal,China,70,Masculino,Viudo
+1853,Shaine,Colombia,23,Femenino,Viudo
+1854,Willard,Indonesia,8,Femenino,Casado
+1855,Ellyn,Portugal,31,Masculino,Divorciado
+1856,Thor,Tanzania,72,Femenino,Casado
+1857,Susanne,Philippines,21,Masculino,Divorciado
+1858,Teri,Sweden,72,Femenino,Viudo
+1859,Manya,Poland,8,Femenino,Viudo
+1860,Kris,Madagascar,24,Femenino,Soltero
+1861,Miltie,China,18,Masculino,Casado
+1862,Ofilia,Poland,8,Masculino,Casado
+1863,Rianon,France,20,Masculino,Casado
+1864,Gradeigh,Brazil,45,Masculino,Viudo
+1865,Fairleigh,Philippines,10,Masculino,Casado
+1866,Floris,Thailand,17,Femenino,Casado
+1867,John,Portugal,37,Femenino,Casado
+1868,Tana,Thailand,8,Masculino,Soltero
+1869,Angy,China,75,Femenino,Soltero
+1870,Gigi,Japan,68,Femenino,Casado
+1871,Kala,Greece,28,Femenino,Soltero
+1873,Phaidra,China,59,Masculino,Casado
+1874,Dallis,Peru,39,Masculino,Casado
+1875,Jenda,China,38,Femenino,Casado
+1876,Alberik,Guatemala,46,Masculino,Divorciado
+1877,Dorrie,Poland,28,Femenino,Soltero
+1878,Gus,Sri Lanka,17,Femenino,Divorciado
+1880,Alyssa,Paraguay,39,Femenino,Soltero
+1882,Juliet,Brazil,45,Femenino,Casado
+1884,Sancho,Zambia,45,Femenino,Casado
+1885,Jody,China,65,Femenino,Viudo
+1886,Aksel,China,25,Masculino,Divorciado
+1887,Arnaldo,Afghanistan,39,Masculino,Divorciado
+1888,Sancho,Uganda,68,Masculino,Divorciado
+1889,Berton,China,15,Masculino,Divorciado
+1890,Nadeen,China,72,Masculino,Viudo
+1891,Esdras,Philippines,67,Masculino,Soltero
+1892,Sada,Netherlands,32,Femenino,Divorciado
+1893,Carlin,Lithuania,8,Masculino,Casado
+1894,Christi,France,32,Femenino,Soltero
+1895,Pincas,Azerbaijan,53,Masculino,Divorciado
+1896,Polly,Peru,61,Masculino,Soltero
+1897,Orelee,Colombia,71,Masculino,Casado
+1898,Alexandra,Poland,39,Masculino,Soltero
+1899,Kira,Russia,38,Masculino,Viudo
+1900,Neysa,Indonesia,31,Femenino,Divorciado
+1901,Kit,Czech Republic,36,Femenino,Soltero
+1902,Emmanuel,China,8,Masculino,Viudo
+1904,Chad,Japan,44,Masculino,Soltero
+1905,Ervin,Philippines,34,Femenino,Divorciado
+1906,Aili,Indonesia,8,Femenino,Viudo
+1907,Durante,Portugal,33,Masculino,Divorciado
+1908,Bertie,Brazil,31,Masculino,Viudo
+1909,Lela,China,10,Masculino,Divorciado
+1910,Tabby,Russia,52,Femenino,Casado
+1911,Vasily,Portugal,14,Femenino,Divorciado
+1912,Torre,Netherlands,16,Femenino,Casado
+1913,Flore,Ireland,23,Femenino,Viudo
+1914,Boonie,Indonesia,10,Femenino,Divorciado
+1915,Eve,Indonesia,33,Femenino,Casado
+1916,Elianore,Brazil,60,Femenino,Viudo
+1917,Loella,Thailand,31,Femenino,Soltero
+1918,Cyndie,Canada,63,Femenino,Casado
+1920,Lynnea,Peru,53,Masculino,Soltero
+1921,Romola,Malaysia,31,Femenino,Casado
+1922,Vale,China,24,Femenino,Viudo
+1924,Cissy,Bosnia and Herzegovina,64,Femenino,Soltero
+1925,Korella,China,44,Masculino,Divorciado
+1926,Corette,Ecuador,44,Masculino,Soltero
+1927,Phillie,Indonesia,57,Femenino,Casado
+1928,Evvie,China,12,Masculino,Casado
+1929,Herby,Mexico,28,Masculino,Casado
+1930,Warde,South Africa,64,Masculino,Soltero
+1931,Andros,China,8,Masculino,Viudo
+1932,Flossie,Brazil,24,Femenino,Viudo
+1933,Pippa,Nigeria,30,Femenino,Divorciado
+1934,Katuscha,China,17,Masculino,Viudo
+1935,Giorgia,Indonesia,28,Masculino,Divorciado
+1936,Britta,San Marino,35,Femenino,Divorciado
+1937,Norris,Sweden,63,Masculino,Casado
+1938,Bat,Indonesia,71,Femenino,Divorciado
+1940,Robby,Sweden,60,Masculino,Viudo
+1941,Xymenes,China,41,Femenino,Casado
+1942,Mab,China,68,Masculino,Viudo
+1943,Wolf,Philippines,60,Masculino,Divorciado
+1944,Frankie,Saudi Arabia,22,Masculino,Casado
+1945,Sofia,Panama,32,Masculino,Viudo
+1946,Jerrine,Indonesia,26,Masculino,Viudo
+1947,Judah,Indonesia,45,Masculino,Divorciado
+1948,Myriam,Russia,60,Masculino,Soltero
+1949,Darrell,France,14,Femenino,Viudo
+1950,Gran,France,46,Masculino,Divorciado
+1951,Janeczka,France,41,Masculino,Divorciado
+1952,Mirna,Bosnia and Herzegovina,8,Femenino,Casado
+1953,Piper,Portugal,33,Femenino,Viudo
+1954,Beckie,Indonesia,36,Femenino,Divorciado
+1955,Cody,Portugal,10,Masculino,Soltero
+1956,Aubrette,France,24,Masculino,Casado
+1957,Bartholomeus,China,14,Femenino,Casado
+1958,Binny,El Salvador,70,Femenino,Casado
+1959,Clerc,Philippines,53,Masculino,Casado
+1960,Fred,Portugal,23,Masculino,Viudo
+1961,Sigismund,Belarus,22,Masculino,Divorciado
+1962,Alric,China,47,Masculino,Soltero
+1963,Tiffany,China,68,Masculino,Soltero
+1964,Barbabas,Russia,50,Femenino,Divorciado
+1965,Marge,Brazil,27,Masculino,Soltero
+1966,Diannne,Russia,51,Femenino,Divorciado
+1967,Courtney,Indonesia,36,Masculino,Viudo
+1968,Kata,Armenia,57,Femenino,Divorciado
+1969,Rosalie,Philippines,11,Masculino,Viudo
+1971,Alfonse,China,36,Masculino,Viudo
+1972,Jacquelyn,United States,50,Femenino,Viudo
+1973,Tannie,China,10,Femenino,Divorciado
+1974,Errick,Nicaragua,63,Masculino,Soltero
+1976,Theressa,Jamaica,31,Masculino,Viudo
+1977,Fairlie,Poland,23,Masculino,Viudo
+1978,Franciskus,Japan,11,Masculino,Divorciado
+1979,Jerrilyn,China,46,Femenino,Viudo
+1980,Dotti,Sweden,60,Masculino,Casado
+1981,Brana,France,38,Femenino,Casado
+1982,Wrennie,Norway,14,Masculino,Viudo
+1983,Nikolai,Philippines,17,Masculino,Soltero
+1984,Mack,Equatorial Guinea,43,Femenino,Viudo
+1985,Moore,United States,22,Masculino,Divorciado
+1986,Fanchette,United States,32,Femenino,Divorciado
+1987,Ethel,Saudi Arabia,13,Masculino,Casado
+1988,Elsbeth,China,64,Femenino,Soltero
+1989,Wadsworth,Czech Republic,12,Femenino,Viudo
+1990,Roxie,Indonesia,31,Masculino,Divorciado
+1991,Cahra,Yemen,19,Masculino,Viudo
+1992,Darcey,Mexico,39,Femenino,Soltero
+1993,Tobias,Jordan,50,Femenino,Divorciado
+1994,Meridel,Indonesia,68,Masculino,Soltero
+1995,Maia,Paraguay,39,Masculino,Divorciado
+1996,Austen,Nicaragua,28,Masculino,Casado
+1997,Karlee,Poland,36,Masculino,Soltero
+1998,Gregoor,Guatemala,64,Femenino,Soltero
+1999,Arley,China,70,Femenino,Divorciado
+2000,Aurilia,Guadeloupe,24,Masculino,Viudo
+2001,Tonye,Jordan,19,Femenino,Divorciado

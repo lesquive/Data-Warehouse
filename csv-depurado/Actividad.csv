@@ -1,0 +1,1001 @@
+IDActividad,TipoActividad,NombreActividad,CostoDia
+1001,Montana,Caminata en el parque,168.00
+1002,Ciudad,Area de juegos,344.00
+1003,Ciudad,Camping en el bosque,272.00
+1004,Playa,Caminata en el parque,179.00
+1005,Playa,Caminata en el parque,260.00
+1006,Ciudad,Clases de baile,331.00
+1007,Ciudad,Caminata en el parque,292.00
+1008,Playa,Camping en el bosque,64.00
+1009,Playa,Camping en el bosque,101.00
+1010,Playa,Camping en el bosque,340.00
+1011,Montana,Taller de cocina,167.00
+1012,Montana,Taller de cocina,253.00
+1013,Ciudad,Partido de futbol,363.00
+1014,Montana,Excursion a la montana,246.00
+1015,Montana,Dia de spa,72.00
+1016,Ciudad,Visita a un parque de diversiones,162.00
+1017,Playa,Paseo en bicicleta,302.00
+1018,Montana,Paseo en bicicleta,246.00
+1019,Playa,Visita a un parque de diversiones,314.00
+1020,Playa,Picnic en la playa,0.00
+1021,Montana,Partido de futbol,193.00
+1022,Playa,Taller de cocina,233.00
+1023,Ciudad,Picnic en la playa,315.00
+1024,Playa,Dia de spa,247.00
+1025,Montana,Partido de futbol,240.00
+1026,Ciudad,Caminata en el parque,343.00
+1027,Montana,Tour en barco,85.00
+1028,Montana,Dia de spa,92.00
+1029,Ciudad,Tour en barco,172.00
+1030,Ciudad,Visita a un museo,184.00
+1031,Playa,Clases de baile,229.00
+1032,Montana,Excursion a la montana,121.00
+1033,Ciudad,Concierto al aire libre,124.00
+1034,Ciudad,Partido de futbol,51.00
+1035,Playa,Karaoke night,328.00
+1036,Playa,Karaoke night,293.00
+1037,Playa,Partido de futbol,134.00
+1038,Montana,Visita a un museo,110.00
+1039,Montana,Area de juegos,158.00
+1040,Playa,Caminata en el parque,331.00
+1041,Montana,Area de juegos,213.00
+1042,Montana,Excursion a la montana,193.00
+1043,Playa,Karaoke night,244.00
+1044,Montana,Clases de baile,325.00
+1045,Montana,Taller de cocina,274.00
+1046,Montana,Caminata en el parque,67.00
+1047,Playa,Taller de cocina,238.00
+1048,Ciudad,Partido de futbol,204.00
+1049,Playa,Visita a un museo,321.00
+1050,Playa,Visita a un parque de diversiones,265.00
+1051,Ciudad,Taller de cocina,322.00
+1052,Ciudad,Concierto al aire libre,105.00
+1053,Ciudad,Area de juegos,275.00
+1054,Montana,Taller de cocina,226.00
+1055,Ciudad,Picnic en la playa,96.00
+1056,Ciudad,Karaoke night,255.00
+1057,Ciudad,Visita a un parque de diversiones,110.00
+1058,Ciudad,Clases de baile,311.00
+1059,Playa,Visita a un parque de diversiones,227.00
+1060,Playa,Paseo en bicicleta,196.00
+1061,Playa,Concierto al aire libre,104.00
+1062,Playa,Paseo en bicicleta,303.00
+1063,Playa,Area de juegos,234.00
+1064,Ciudad,Partido de futbol,118.00
+1065,Ciudad,Camping en el bosque,167.00
+1066,Ciudad,Picnic en la playa,197.00
+1067,Montana,Karaoke night,277.00
+1068,Ciudad,Concierto al aire libre,137.00
+1069,Montana,Visita a un museo,363.00
+1070,Playa,Camping en el bosque,280.00
+1071,Ciudad,Area de juegos,103.00
+1072,Ciudad,Concierto al aire libre,85.00
+1073,Playa,Excursion a la montana,125.00
+1074,Montana,Tour en barco,264.00
+1075,Playa,Concierto al aire libre,251.00
+1076,Montana,Camping en el bosque,125.00
+1077,Ciudad,Visita a un parque de diversiones,236.00
+1078,Ciudad,Area de juegos,162.00
+1079,Montana,Caminata en el parque,0.00
+1080,Playa,Area de juegos,217.00
+1081,Playa,Visita a un parque de diversiones,146.00
+1082,Montana,Visita a un parque de diversiones,56.00
+1083,Ciudad,Tour en barco,0.00
+1084,Montana,Karaoke night,302.00
+1085,Playa,Karaoke night,352.00
+1086,Montana,Paseo en bicicleta,109.00
+1087,Ciudad,Picnic en la playa,204.00
+1088,Playa,Area de juegos,203.00
+1089,Ciudad,Partido de futbol,181.00
+1090,Ciudad,Picnic en la playa,259.00
+1091,Ciudad,Visita a un parque de diversiones,333.00
+1092,Montana,Camping en el bosque,296.00
+1093,Playa,Concierto al aire libre,305.00
+1094,Ciudad,Picnic en la playa,358.00
+1095,Ciudad,Partido de futbol,181.00
+1096,Montana,Karaoke night,169.00
+1097,Playa,Concierto al aire libre,68.00
+1098,Ciudad,Karaoke night,273.00
+1099,Playa,Visita a un parque de diversiones,139.00
+1100,Montana,Picnic en la playa,201.00
+1101,Playa,Paseo en bicicleta,116.00
+1102,Playa,Karaoke night,233.00
+1103,Ciudad,Visita a un parque de diversiones,183.00
+1104,Ciudad,Tour en barco,329.00
+1105,Playa,Partido de futbol,172.00
+1106,Ciudad,Taller de cocina,67.00
+1107,Playa,Camping en el bosque,235.00
+1108,Playa,Karaoke night,288.00
+1109,Ciudad,Visita a un museo,72.00
+1110,Ciudad,Karaoke night,120.00
+1111,Playa,Excursion a la montana,245.00
+1112,Montana,Clases de baile,102.00
+1113,Ciudad,Clases de baile,291.00
+1114,Montana,Taller de cocina,311.00
+1115,Ciudad,Area de juegos,355.00
+1116,Playa,Visita a un museo,287.00
+1117,Ciudad,Clases de baile,251.00
+1118,Montana,Excursion a la montana,64.00
+1119,Playa,Excursion a la montana,239.00
+1120,Montana,Picnic en la playa,154.00
+1121,Montana,Excursion a la montana,193.00
+1122,Ciudad,Picnic en la playa,61.00
+1123,Montana,Partido de futbol,260.00
+1124,Playa,Taller de cocina,199.00
+1125,Ciudad,Excursion a la montana,328.00
+1126,Ciudad,Excursion a la montana,169.00
+1127,Montana,Tour en barco,119.00
+1128,Montana,Paseo en bicicleta,112.00
+1129,Ciudad,Dia de spa,110.00
+1130,Ciudad,Excursion a la montana,180.00
+1131,Ciudad,Dia de spa,296.00
+1132,Ciudad,Concierto al aire libre,132.00
+1133,Ciudad,Partido de futbol,309.00
+1134,Playa,Camping en el bosque,139.00
+1135,Montana,Area de juegos,295.00
+1136,Montana,Karaoke night,157.00
+1137,Playa,Paseo en bicicleta,302.00
+1138,Montana,Tour en barco,291.00
+1139,Montana,Excursion a la montana,255.00
+1140,Montana,Picnic en la playa,152.00
+1141,Playa,Partido de futbol,271.00
+1142,Montana,Tour en barco,240.00
+1143,Ciudad,Excursion a la montana,89.00
+1144,Montana,Picnic en la playa,150.00
+1145,Ciudad,Dia de spa,236.00
+1146,Montana,Karaoke night,192.00
+1147,Playa,Paseo en bicicleta,227.00
+1148,Montana,Visita a un parque de diversiones,321.00
+1149,Montana,Visita a un museo,321.00
+1150,Playa,Clases de baile,72.00
+1151,Playa,Visita a un museo,340.00
+1152,Montana,Karaoke night,353.00
+1153,Playa,Paseo en bicicleta,248.00
+1154,Playa,Caminata en el parque,50.00
+1155,Montana,Paseo en bicicleta,223.00
+1156,Playa,Concierto al aire libre,133.00
+1157,Montana,Visita a un museo,140.00
+1158,Playa,Concierto al aire libre,266.00
+1159,Montana,Visita a un museo,92.00
+1160,Montana,Picnic en la playa,198.00
+1161,Ciudad,Karaoke night,224.00
+1162,Ciudad,Taller de cocina,110.00
+1163,Montana,Clases de baile,198.00
+1164,Montana,Concierto al aire libre,259.00
+1165,Ciudad,Picnic en la playa,85.00
+1166,Ciudad,Partido de futbol,166.00
+1167,Ciudad,Karaoke night,162.00
+1168,Playa,Caminata en el parque,50.00
+1169,Montana,Camping en el bosque,121.00
+1170,Ciudad,Taller de cocina,326.00
+1171,Ciudad,Camping en el bosque,344.00
+1172,Playa,Clases de baile,257.00
+1173,Montana,Tour en barco,183.00
+1174,Montana,Taller de cocina,136.00
+1175,Playa,Paseo en bicicleta,114.00
+1176,Ciudad,Camping en el bosque,331.00
+1177,Ciudad,Partido de futbol,97.00
+1178,Montana,Camping en el bosque,334.00
+1179,Ciudad,Partido de futbol,162.00
+1180,Montana,Paseo en bicicleta,123.00
+1181,Ciudad,Camping en el bosque,355.00
+1182,Ciudad,Excursion a la montana,127.00
+1183,Montana,Paseo en bicicleta,311.00
+1184,Playa,Taller de cocina,183.00
+1185,Ciudad,Taller de cocina,142.00
+1186,Playa,Karaoke night,211.00
+1187,Montana,Paseo en bicicleta,109.00
+1188,Ciudad,Camping en el bosque,132.00
+1189,Montana,Paseo en bicicleta,245.00
+1190,Montana,Dia de spa,319.00
+1191,Playa,Concierto al aire libre,92.00
+1192,Ciudad,Tour en barco,231.00
+1193,Playa,Picnic en la playa,343.00
+1194,Montana,Picnic en la playa,189.00
+1195,Montana,Visita a un parque de diversiones,85.00
+1196,Montana,Visita a un parque de diversiones,141.00
+1197,Playa,Concierto al aire libre,231.00
+1198,Montana,Camping en el bosque,178.00
+1199,Playa,Picnic en la playa,106.00
+1200,Ciudad,Visita a un parque de diversiones,213.00
+1201,Ciudad,Picnic en la playa,280.00
+1202,Playa,Taller de cocina,336.00
+1203,Ciudad,Concierto al aire libre,64.00
+1204,Montana,Paseo en bicicleta,202.00
+1205,Playa,Concierto al aire libre,303.00
+1206,Ciudad,Visita a un museo,68.00
+1207,Ciudad,Concierto al aire libre,140.00
+1208,Montana,Partido de futbol,323.00
+1209,Ciudad,Caminata en el parque,354.00
+1210,Playa,Picnic en la playa,121.00
+1211,Montana,Dia de spa,273.00
+1212,Ciudad,Camping en el bosque,308.00
+1213,Ciudad,Visita a un museo,314.00
+1214,Playa,Area de juegos,53.00
+1215,Playa,Tour en barco,172.00
+1216,Montana,Tour en barco,182.00
+1217,Montana,Camping en el bosque,214.00
+1218,Ciudad,Karaoke night,241.00
+1219,Montana,Paseo en bicicleta,228.00
+1220,Montana,Taller de cocina,311.00
+1221,Playa,Clases de baile,153.00
+1222,Montana,Concierto al aire libre,221.00
+1223,Montana,Picnic en la playa,124.00
+1224,Ciudad,Visita a un parque de diversiones,258.00
+1225,Montana,Dia de spa,106.00
+1226,Montana,Picnic en la playa,333.00
+1227,Montana,Clases de baile,308.00
+1228,Montana,Clases de baile,129.00
+1229,Montana,Paseo en bicicleta,278.00
+1230,Montana,Visita a un parque de diversiones,69.00
+1231,Montana,Paseo en bicicleta,66.00
+1232,Montana,Tour en barco,361.00
+1233,Ciudad,Camping en el bosque,320.00
+1234,Playa,Visita a un parque de diversiones,196.00
+1235,Montana,Concierto al aire libre,357.00
+1236,Ciudad,Area de juegos,91.00
+1237,Playa,Picnic en la playa,219.00
+1238,Montana,Excursion a la montana,273.00
+1239,Playa,Excursion a la montana,123.00
+1240,Ciudad,Picnic en la playa,319.00
+1241,Montana,Taller de cocina,220.00
+1242,Playa,Area de juegos,137.00
+1243,Playa,Picnic en la playa,81.00
+1244,Ciudad,Tour en barco,97.00
+1245,Ciudad,Caminata en el parque,50.00
+1246,Playa,Camping en el bosque,194.00
+1247,Playa,Dia de spa,168.00
+1248,Montana,Clases de baile,243.00
+1249,Playa,Concierto al aire libre,0.00
+1250,Playa,Taller de cocina,342.00
+1251,Ciudad,Karaoke night,69.00
+1252,Ciudad,Camping en el bosque,57.00
+1253,Montana,Taller de cocina,81.00
+1254,Playa,Concierto al aire libre,223.00
+1255,Montana,Camping en el bosque,217.00
+1256,Ciudad,Concierto al aire libre,226.00
+1257,Playa,Visita a un parque de diversiones,202.00
+1258,Montana,Camping en el bosque,77.00
+1259,Ciudad,Visita a un parque de diversiones,128.00
+1260,Playa,Dia de spa,249.00
+1261,Playa,Area de juegos,224.00
+1262,Playa,Picnic en la playa,252.00
+1263,Playa,Dia de spa,329.00
+1264,Ciudad,Camping en el bosque,346.00
+1265,Montana,Excursion a la montana,297.00
+1266,Ciudad,Picnic en la playa,331.00
+1267,Playa,Visita a un parque de diversiones,134.00
+1268,Ciudad,Caminata en el parque,113.00
+1269,Montana,Dia de spa,209.00
+1270,Montana,Concierto al aire libre,208.00
+1271,Playa,Picnic en la playa,143.00
+1272,Montana,Visita a un parque de diversiones,200.00
+1273,Montana,Karaoke night,313.00
+1274,Ciudad,Caminata en el parque,273.00
+1275,Playa,Dia de spa,64.00
+1276,Montana,Tour en barco,164.00
+1277,Montana,Visita a un parque de diversiones,54.00
+1278,Montana,Clases de baile,0.00
+1279,Montana,Taller de cocina,111.00
+1280,Ciudad,Area de juegos,336.00
+1281,Playa,Partido de futbol,148.00
+1282,Playa,Taller de cocina,331.00
+1283,Ciudad,Visita a un museo,113.00
+1284,Montana,Paseo en bicicleta,238.00
+1285,Montana,Area de juegos,362.00
+1286,Ciudad,Picnic en la playa,256.00
+1287,Ciudad,Visita a un museo,107.00
+1288,Montana,Taller de cocina,69.00
+1289,Playa,Clases de baile,315.00
+1290,Ciudad,Concierto al aire libre,55.00
+1291,Montana,Partido de futbol,122.00
+1292,Montana,Caminata en el parque,289.00
+1293,Montana,Area de juegos,201.00
+1294,Montana,Caminata en el parque,161.00
+1295,Playa,Excursion a la montana,310.00
+1296,Ciudad,Camping en el bosque,129.00
+1297,Playa,Karaoke night,356.00
+1298,Montana,Dia de spa,75.00
+1299,Playa,Camping en el bosque,170.00
+1300,Playa,Caminata en el parque,297.00
+1301,Playa,Caminata en el parque,229.00
+1302,Playa,Excursion a la montana,244.00
+1303,Playa,Partido de futbol,230.00
+1304,Montana,Taller de cocina,140.00
+1305,Ciudad,Clases de baile,0.00
+1306,Playa,Visita a un parque de diversiones,262.00
+1307,Montana,Tour en barco,91.00
+1308,Playa,Dia de spa,144.00
+1309,Playa,Area de juegos,154.00
+1310,Ciudad,Taller de cocina,206.00
+1311,Ciudad,Caminata en el parque,248.00
+1312,Playa,Concierto al aire libre,121.00
+1313,Playa,Partido de futbol,153.00
+1314,Montana,Karaoke night,0.00
+1315,Montana,Camping en el bosque,140.00
+1316,Playa,Tour en barco,145.00
+1317,Ciudad,Concierto al aire libre,220.00
+1318,Montana,Concierto al aire libre,104.00
+1319,Montana,Tour en barco,263.00
+1320,Montana,Caminata en el parque,86.00
+1321,Ciudad,Caminata en el parque,293.00
+1322,Montana,Picnic en la playa,284.00
+1323,Playa,Paseo en bicicleta,83.00
+1324,Playa,Clases de baile,116.00
+1325,Ciudad,Dia de spa,87.00
+1326,Ciudad,Clases de baile,65.00
+1327,Montana,Visita a un parque de diversiones,108.00
+1328,Ciudad,Visita a un parque de diversiones,317.00
+1329,Montana,Partido de futbol,273.00
+1330,Montana,Visita a un parque de diversiones,220.00
+1331,Ciudad,Excursion a la montana,238.00
+1332,Playa,Visita a un parque de diversiones,161.00
+1333,Montana,Tour en barco,311.00
+1334,Ciudad,Concierto al aire libre,163.00
+1335,Ciudad,Karaoke night,194.00
+1336,Montana,Taller de cocina,175.00
+1337,Montana,Dia de spa,82.00
+1338,Montana,Paseo en bicicleta,168.00
+1339,Playa,Excursion a la montana,93.00
+1340,Ciudad,Karaoke night,353.00
+1341,Montana,Paseo en bicicleta,336.00
+1342,Playa,Excursion a la montana,303.00
+1343,Montana,Clases de baile,324.00
+1344,Montana,Caminata en el parque,311.00
+1345,Playa,Dia de spa,125.00
+1346,Ciudad,Picnic en la playa,360.00
+1347,Montana,Area de juegos,137.00
+1348,Montana,Concierto al aire libre,216.00
+1349,Montana,Picnic en la playa,126.00
+1350,Ciudad,Visita a un parque de diversiones,344.00
+1351,Montana,Partido de futbol,259.00
+1352,Montana,Excursion a la montana,137.00
+1353,Montana,Karaoke night,311.00
+1354,Ciudad,Tour en barco,288.00
+1355,Ciudad,Karaoke night,153.00
+1356,Playa,Clases de baile,131.00
+1357,Montana,Area de juegos,165.00
+1358,Playa,Paseo en bicicleta,131.00
+1359,Playa,Visita a un parque de diversiones,85.00
+1360,Ciudad,Paseo en bicicleta,235.00
+1361,Playa,Picnic en la playa,187.00
+1362,Montana,Picnic en la playa,341.00
+1363,Playa,Taller de cocina,69.00
+1364,Montana,Area de juegos,291.00
+1365,Ciudad,Camping en el bosque,209.00
+1366,Playa,Karaoke night,270.00
+1367,Montana,Picnic en la playa,191.00
+1368,Montana,Visita a un museo,325.00
+1369,Playa,Camping en el bosque,246.00
+1370,Montana,Tour en barco,74.00
+1371,Ciudad,Clases de baile,186.00
+1372,Ciudad,Visita a un museo,292.00
+1373,Playa,Visita a un parque de diversiones,311.00
+1374,Playa,Area de juegos,64.00
+1375,Ciudad,Picnic en la playa,245.00
+1376,Playa,Paseo en bicicleta,363.00
+1377,Montana,Camping en el bosque,173.00
+1378,Montana,Taller de cocina,283.00
+1379,Montana,Caminata en el parque,0.00
+1380,Ciudad,Karaoke night,146.00
+1381,Playa,Paseo en bicicleta,104.00
+1382,Ciudad,Concierto al aire libre,290.00
+1383,Montana,Taller de cocina,161.00
+1384,Playa,Paseo en bicicleta,346.00
+1385,Ciudad,Visita a un parque de diversiones,195.00
+1386,Ciudad,Caminata en el parque,167.00
+1387,Montana,Taller de cocina,195.00
+1388,Ciudad,Partido de futbol,122.00
+1389,Playa,Excursion a la montana,199.00
+1390,Montana,Dia de spa,209.00
+1391,Montana,Taller de cocina,150.00
+1392,Montana,Tour en barco,125.00
+1393,Montana,Visita a un museo,265.00
+1394,Ciudad,Visita a un museo,241.00
+1395,Montana,Excursion a la montana,133.00
+1396,Montana,Partido de futbol,245.00
+1397,Playa,Partido de futbol,279.00
+1398,Ciudad,Concierto al aire libre,65.00
+1399,Montana,Excursion a la montana,89.00
+1400,Montana,Clases de baile,86.00
+1401,Montana,Karaoke night,193.00
+1402,Playa,Area de juegos,105.00
+1403,Montana,Karaoke night,213.00
+1404,Ciudad,Excursion a la montana,172.00
+1405,Ciudad,Excursion a la montana,329.00
+1406,Montana,Excursion a la montana,128.00
+1407,Montana,Picnic en la playa,173.00
+1408,Ciudad,Visita a un parque de diversiones,243.00
+1409,Ciudad,Clases de baile,191.00
+1410,Ciudad,Concierto al aire libre,185.00
+1411,Playa,Clases de baile,65.00
+1412,Playa,Excursion a la montana,237.00
+1413,Ciudad,Dia de spa,74.00
+1414,Montana,Concierto al aire libre,266.00
+1415,Playa,Tour en barco,149.00
+1416,Playa,Partido de futbol,290.00
+1417,Playa,Clases de baile,326.00
+1418,Montana,Partido de futbol,62.00
+1419,Ciudad,Clases de baile,298.00
+1420,Montana,Karaoke night,94.00
+1421,Ciudad,Picnic en la playa,189.00
+1422,Playa,Excursion a la montana,287.00
+1423,Playa,Area de juegos,91.00
+1424,Playa,Tour en barco,334.00
+1425,Ciudad,Karaoke night,202.00
+1426,Montana,Taller de cocina,264.00
+1427,Ciudad,Karaoke night,96.00
+1428,Ciudad,Dia de spa,254.00
+1429,Playa,Karaoke night,137.00
+1430,Ciudad,Karaoke night,52.00
+1431,Playa,Tour en barco,269.00
+1432,Montana,Camping en el bosque,110.00
+1433,Playa,Picnic en la playa,122.00
+1434,Ciudad,Paseo en bicicleta,104.00
+1435,Ciudad,Picnic en la playa,105.00
+1436,Montana,Dia de spa,289.00
+1437,Ciudad,Partido de futbol,162.00
+1438,Ciudad,Concierto al aire libre,174.00
+1439,Ciudad,Camping en el bosque,247.00
+1440,Playa,Paseo en bicicleta,171.00
+1441,Montana,Paseo en bicicleta,262.00
+1442,Ciudad,Karaoke night,287.00
+1443,Ciudad,Paseo en bicicleta,280.00
+1444,Playa,Karaoke night,213.00
+1445,Playa,Visita a un museo,128.00
+1446,Ciudad,Area de juegos,162.00
+1447,Playa,Paseo en bicicleta,359.00
+1448,Montana,Picnic en la playa,318.00
+1449,Montana,Camping en el bosque,331.00
+1450,Montana,Partido de futbol,169.00
+1451,Playa,Clases de baile,93.00
+1452,Playa,Dia de spa,151.00
+1453,Montana,Paseo en bicicleta,196.00
+1454,Montana,Caminata en el parque,321.00
+1455,Ciudad,Dia de spa,219.00
+1456,Montana,Partido de futbol,279.00
+1457,Montana,Taller de cocina,188.00
+1458,Playa,Partido de futbol,78.00
+1459,Playa,Caminata en el parque,102.00
+1460,Playa,Visita a un museo,345.00
+1461,Ciudad,Area de juegos,0.00
+1462,Ciudad,Visita a un parque de diversiones,362.00
+1463,Ciudad,Dia de spa,321.00
+1464,Montana,Tour en barco,322.00
+1465,Montana,Picnic en la playa,310.00
+1466,Ciudad,Camping en el bosque,305.00
+1467,Ciudad,Area de juegos,0.00
+1468,Ciudad,Visita a un museo,87.00
+1469,Montana,Partido de futbol,0.00
+1470,Montana,Paseo en bicicleta,275.00
+1471,Playa,Taller de cocina,153.00
+1472,Ciudad,Excursion a la montana,80.00
+1473,Montana,Concierto al aire libre,159.00
+1474,Montana,Area de juegos,229.00
+1475,Montana,Concierto al aire libre,293.00
+1476,Montana,Visita a un parque de diversiones,77.00
+1477,Montana,Taller de cocina,197.00
+1478,Montana,Clases de baile,249.00
+1479,Montana,Visita a un parque de diversiones,290.00
+1480,Ciudad,Visita a un museo,351.00
+1481,Playa,Concierto al aire libre,114.00
+1482,Montana,Taller de cocina,304.00
+1483,Ciudad,Dia de spa,147.00
+1484,Montana,Taller de cocina,290.00
+1485,Ciudad,Tour en barco,88.00
+1486,Playa,Paseo en bicicleta,71.00
+1487,Montana,Picnic en la playa,340.00
+1488,Montana,Partido de futbol,156.00
+1489,Ciudad,Area de juegos,70.00
+1490,Montana,Dia de spa,93.00
+1491,Playa,Concierto al aire libre,77.00
+1492,Ciudad,Concierto al aire libre,339.00
+1493,Playa,Partido de futbol,203.00
+1494,Playa,Dia de spa,58.00
+1495,Ciudad,Dia de spa,86.00
+1496,Ciudad,Taller de cocina,296.00
+1497,Montana,Picnic en la playa,211.00
+1498,Ciudad,Concierto al aire libre,363.00
+1499,Ciudad,Taller de cocina,289.00
+1500,Ciudad,Taller de cocina,251.00
+1501,Playa,Clases de baile,161.00
+1502,Ciudad,Taller de cocina,352.00
+1503,Playa,Paseo en bicicleta,143.00
+1504,Ciudad,Clases de baile,192.00
+1505,Playa,Excursion a la montana,66.00
+1506,Montana,Karaoke night,142.00
+1507,Ciudad,Excursion a la montana,102.00
+1508,Playa,Dia de spa,345.00
+1509,Ciudad,Partido de futbol,121.00
+1510,Playa,Visita a un museo,266.00
+1511,Ciudad,Karaoke night,126.00
+1512,Montana,Paseo en bicicleta,150.00
+1513,Montana,Area de juegos,72.00
+1514,Ciudad,Excursion a la montana,245.00
+1515,Ciudad,Clases de baile,59.00
+1516,Playa,Visita a un parque de diversiones,356.00
+1517,Montana,Caminata en el parque,314.00
+1518,Playa,Tour en barco,277.00
+1519,Ciudad,Dia de spa,153.00
+1520,Ciudad,Picnic en la playa,322.00
+1521,Playa,Partido de futbol,149.00
+1522,Playa,Caminata en el parque,64.00
+1523,Ciudad,Camping en el bosque,305.00
+1524,Montana,Tour en barco,168.00
+1525,Ciudad,Visita a un parque de diversiones,0.00
+1526,Playa,Dia de spa,339.00
+1527,Playa,Tour en barco,306.00
+1528,Montana,Camping en el bosque,292.00
+1529,Montana,Caminata en el parque,174.00
+1530,Montana,Picnic en la playa,358.00
+1531,Ciudad,Tour en barco,229.00
+1532,Ciudad,Dia de spa,291.00
+1533,Ciudad,Visita a un museo,245.00
+1534,Montana,Visita a un museo,205.00
+1535,Playa,Picnic en la playa,109.00
+1536,Montana,Caminata en el parque,182.00
+1537,Playa,Camping en el bosque,308.00
+1538,Playa,Partido de futbol,211.00
+1539,Montana,Visita a un parque de diversiones,161.00
+1540,Montana,Dia de spa,271.00
+1541,Montana,Visita a un parque de diversiones,88.00
+1542,Montana,Dia de spa,0.00
+1543,Playa,Caminata en el parque,91.00
+1544,Playa,Picnic en la playa,156.00
+1545,Montana,Camping en el bosque,214.00
+1546,Playa,Picnic en la playa,165.00
+1547,Montana,Area de juegos,182.00
+1548,Playa,Dia de spa,351.00
+1549,Montana,Area de juegos,250.00
+1550,Playa,Tour en barco,174.00
+1551,Playa,Concierto al aire libre,152.00
+1552,Montana,Visita a un museo,310.00
+1553,Montana,Tour en barco,344.00
+1554,Playa,Concierto al aire libre,247.00
+1555,Ciudad,Excursion a la montana,360.00
+1556,Ciudad,Visita a un museo,99.00
+1557,Ciudad,Clases de baile,200.00
+1558,Playa,Area de juegos,117.00
+1559,Montana,Dia de spa,157.00
+1560,Ciudad,Picnic en la playa,73.00
+1561,Ciudad,Paseo en bicicleta,201.00
+1562,Ciudad,Paseo en bicicleta,234.00
+1563,Ciudad,Visita a un museo,325.00
+1564,Playa,Karaoke night,328.00
+1565,Ciudad,Karaoke night,287.00
+1566,Playa,Tour en barco,152.00
+1567,Montana,Partido de futbol,80.00
+1568,Ciudad,Concierto al aire libre,206.00
+1569,Playa,Visita a un parque de diversiones,345.00
+1570,Ciudad,Area de juegos,259.00
+1571,Playa,Excursion a la montana,196.00
+1572,Ciudad,Partido de futbol,183.00
+1573,Ciudad,Caminata en el parque,241.00
+1574,Playa,Taller de cocina,269.00
+1575,Montana,Visita a un museo,172.00
+1576,Montana,Caminata en el parque,292.00
+1577,Ciudad,Caminata en el parque,178.00
+1578,Montana,Camping en el bosque,299.00
+1579,Playa,Camping en el bosque,286.00
+1580,Playa,Karaoke night,322.00
+1581,Playa,Caminata en el parque,276.00
+1582,Ciudad,Karaoke night,210.00
+1583,Ciudad,Visita a un museo,250.00
+1584,Ciudad,Dia de spa,274.00
+1585,Montana,Visita a un parque de diversiones,364.00
+1586,Ciudad,Concierto al aire libre,308.00
+1587,Playa,Caminata en el parque,171.00
+1588,Montana,Caminata en el parque,133.00
+1589,Montana,Clases de baile,255.00
+1590,Playa,Karaoke night,265.00
+1591,Playa,Clases de baile,132.00
+1592,Ciudad,Camping en el bosque,304.00
+1593,Montana,Visita a un museo,219.00
+1594,Montana,Dia de spa,297.00
+1595,Playa,Picnic en la playa,340.00
+1596,Montana,Area de juegos,339.00
+1597,Ciudad,Area de juegos,210.00
+1598,Ciudad,Visita a un parque de diversiones,96.00
+1599,Montana,Concierto al aire libre,344.00
+1600,Montana,Excursion a la montana,324.00
+1601,Playa,Excursion a la montana,274.00
+1602,Montana,Tour en barco,234.00
+1603,Montana,Picnic en la playa,135.00
+1604,Montana,Clases de baile,351.00
+1605,Montana,Visita a un parque de diversiones,197.00
+1606,Ciudad,Taller de cocina,286.00
+1607,Montana,Paseo en bicicleta,174.00
+1608,Ciudad,Partido de futbol,225.00
+1609,Montana,Paseo en bicicleta,244.00
+1610,Ciudad,Concierto al aire libre,95.00
+1611,Playa,Tour en barco,231.00
+1612,Montana,Excursion a la montana,211.00
+1613,Playa,Camping en el bosque,67.00
+1614,Ciudad,Concierto al aire libre,334.00
+1615,Ciudad,Area de juegos,261.00
+1616,Montana,Tour en barco,0.00
+1617,Montana,Partido de futbol,277.00
+1618,Montana,Excursion a la montana,357.00
+1619,Montana,Visita a un museo,168.00
+1620,Ciudad,Partido de futbol,161.00
+1621,Ciudad,Visita a un museo,152.00
+1622,Playa,Picnic en la playa,279.00
+1623,Ciudad,Visita a un parque de diversiones,159.00
+1624,Ciudad,Partido de futbol,296.00
+1625,Playa,Taller de cocina,78.00
+1626,Ciudad,Camping en el bosque,0.00
+1627,Ciudad,Caminata en el parque,230.00
+1628,Playa,Concierto al aire libre,329.00
+1629,Montana,Karaoke night,266.00
+1630,Montana,Visita a un parque de diversiones,95.00
+1631,Montana,Dia de spa,133.00
+1632,Playa,Clases de baile,61.00
+1633,Ciudad,Paseo en bicicleta,269.00
+1634,Playa,Camping en el bosque,259.00
+1635,Montana,Visita a un museo,0.00
+1636,Playa,Camping en el bosque,289.00
+1637,Ciudad,Partido de futbol,90.00
+1638,Montana,Clases de baile,314.00
+1639,Ciudad,Clases de baile,298.00
+1640,Ciudad,Visita a un parque de diversiones,178.00
+1641,Montana,Partido de futbol,277.00
+1642,Ciudad,Caminata en el parque,360.00
+1643,Montana,Taller de cocina,338.00
+1644,Playa,Area de juegos,356.00
+1645,Playa,Excursion a la montana,311.00
+1646,Ciudad,Excursion a la montana,146.00
+1647,Montana,Taller de cocina,207.00
+1648,Playa,Visita a un museo,156.00
+1649,Playa,Partido de futbol,328.00
+1650,Playa,Excursion a la montana,300.00
+1651,Playa,Tour en barco,176.00
+1652,Ciudad,Partido de futbol,235.00
+1653,Ciudad,Camping en el bosque,194.00
+1654,Ciudad,Visita a un parque de diversiones,297.00
+1655,Montana,Paseo en bicicleta,149.00
+1656,Ciudad,Tour en barco,358.00
+1657,Playa,Partido de futbol,113.00
+1658,Playa,Partido de futbol,305.00
+1659,Ciudad,Concierto al aire libre,222.00
+1660,Montana,Visita a un museo,196.00
+1661,Montana,Partido de futbol,157.00
+1662,Montana,Partido de futbol,239.00
+1663,Playa,Excursion a la montana,163.00
+1664,Playa,Paseo en bicicleta,364.00
+1665,Playa,Dia de spa,166.00
+1666,Montana,Paseo en bicicleta,202.00
+1667,Playa,Clases de baile,364.00
+1668,Montana,Area de juegos,198.00
+1669,Montana,Clases de baile,261.00
+1670,Playa,Visita a un museo,85.00
+1671,Montana,Camping en el bosque,298.00
+1672,Montana,Caminata en el parque,271.00
+1673,Montana,Visita a un parque de diversiones,177.00
+1674,Montana,Caminata en el parque,148.00
+1675,Ciudad,Caminata en el parque,172.00
+1676,Playa,Tour en barco,315.00
+1677,Ciudad,Visita a un parque de diversiones,337.00
+1678,Montana,Tour en barco,356.00
+1679,Playa,Caminata en el parque,0.00
+1680,Montana,Area de juegos,165.00
+1681,Ciudad,Caminata en el parque,58.00
+1682,Montana,Tour en barco,186.00
+1683,Playa,Taller de cocina,310.00
+1684,Playa,Caminata en el parque,150.00
+1685,Playa,Picnic en la playa,79.00
+1686,Ciudad,Karaoke night,321.00
+1687,Ciudad,Camping en el bosque,205.00
+1688,Playa,Concierto al aire libre,60.00
+1689,Playa,Partido de futbol,115.00
+1690,Playa,Camping en el bosque,126.00
+1691,Playa,Karaoke night,84.00
+1692,Montana,Clases de baile,172.00
+1693,Ciudad,Concierto al aire libre,296.00
+1694,Montana,Visita a un parque de diversiones,272.00
+1695,Montana,Visita a un parque de diversiones,204.00
+1696,Playa,Picnic en la playa,165.00
+1697,Playa,Caminata en el parque,140.00
+1698,Ciudad,Caminata en el parque,131.00
+1699,Ciudad,Karaoke night,358.00
+1700,Ciudad,Taller de cocina,254.00
+1701,Playa,Dia de spa,219.00
+1702,Playa,Concierto al aire libre,328.00
+1703,Montana,Dia de spa,175.00
+1704,Playa,Paseo en bicicleta,240.00
+1705,Montana,Karaoke night,117.00
+1706,Ciudad,Visita a un parque de diversiones,230.00
+1707,Ciudad,Picnic en la playa,332.00
+1708,Montana,Partido de futbol,231.00
+1709,Ciudad,Excursion a la montana,356.00
+1710,Montana,Tour en barco,318.00
+1711,Playa,Paseo en bicicleta,241.00
+1712,Playa,Partido de futbol,81.00
+1713,Playa,Dia de spa,342.00
+1714,Playa,Picnic en la playa,118.00
+1715,Montana,Area de juegos,350.00
+1716,Playa,Taller de cocina,52.00
+1717,Playa,Karaoke night,344.00
+1718,Montana,Karaoke night,197.00
+1719,Montana,Karaoke night,154.00
+1720,Montana,Partido de futbol,352.00
+1721,Montana,Visita a un parque de diversiones,324.00
+1722,Ciudad,Concierto al aire libre,88.00
+1723,Playa,Dia de spa,146.00
+1724,Ciudad,Dia de spa,212.00
+1725,Playa,Paseo en bicicleta,59.00
+1726,Playa,Karaoke night,156.00
+1727,Playa,Camping en el bosque,329.00
+1728,Montana,Clases de baile,81.00
+1729,Playa,Area de juegos,81.00
+1730,Playa,Partido de futbol,248.00
+1731,Montana,Taller de cocina,240.00
+1732,Montana,Partido de futbol,65.00
+1733,Montana,Area de juegos,58.00
+1734,Playa,Tour en barco,53.00
+1735,Ciudad,Camping en el bosque,285.00
+1736,Montana,Partido de futbol,159.00
+1737,Ciudad,Excursion a la montana,72.00
+1738,Ciudad,Partido de futbol,261.00
+1739,Ciudad,Partido de futbol,106.00
+1740,Montana,Taller de cocina,209.00
+1741,Ciudad,Visita a un parque de diversiones,0.00
+1742,Playa,Picnic en la playa,150.00
+1743,Ciudad,Picnic en la playa,120.00
+1744,Ciudad,Picnic en la playa,119.00
+1745,Playa,Concierto al aire libre,225.00
+1746,Ciudad,Paseo en bicicleta,134.00
+1747,Ciudad,Tour en barco,66.00
+1748,Ciudad,Concierto al aire libre,54.00
+1749,Montana,Clases de baile,224.00
+1750,Playa,Excursion a la montana,229.00
+1751,Ciudad,Picnic en la playa,238.00
+1752,Playa,Visita a un parque de diversiones,225.00
+1753,Playa,Karaoke night,210.00
+1754,Playa,Visita a un museo,252.00
+1755,Montana,Caminata en el parque,298.00
+1756,Montana,Excursion a la montana,197.00
+1757,Montana,Concierto al aire libre,139.00
+1758,Playa,Visita a un parque de diversiones,59.00
+1759,Playa,Clases de baile,180.00
+1760,Ciudad,Dia de spa,322.00
+1761,Ciudad,Karaoke night,55.00
+1762,Montana,Tour en barco,206.00
+1763,Playa,Excursion a la montana,209.00
+1764,Playa,Partido de futbol,222.00
+1765,Ciudad,Area de juegos,364.00
+1766,Montana,Picnic en la playa,281.00
+1767,Ciudad,Dia de spa,178.00
+1768,Playa,Dia de spa,236.00
+1769,Playa,Picnic en la playa,166.00
+1770,Playa,Dia de spa,360.00
+1771,Playa,Clases de baile,102.00
+1772,Playa,Caminata en el parque,88.00
+1773,Ciudad,Camping en el bosque,267.00
+1774,Playa,Taller de cocina,67.00
+1775,Ciudad,Dia de spa,207.00
+1776,Ciudad,Picnic en la playa,219.00
+1777,Ciudad,Partido de futbol,76.00
+1778,Ciudad,Camping en el bosque,214.00
+1779,Playa,Area de juegos,343.00
+1780,Playa,Dia de spa,216.00
+1781,Playa,Dia de spa,126.00
+1782,Playa,Visita a un parque de diversiones,144.00
+1783,Montana,Taller de cocina,362.00
+1784,Playa,Partido de futbol,160.00
+1785,Playa,Paseo en bicicleta,249.00
+1786,Ciudad,Paseo en bicicleta,170.00
+1787,Montana,Camping en el bosque,346.00
+1788,Playa,Taller de cocina,271.00
+1789,Montana,Karaoke night,328.00
+1790,Playa,Area de juegos,225.00
+1791,Ciudad,Taller de cocina,51.00
+1792,Ciudad,Paseo en bicicleta,322.00
+1793,Montana,Clases de baile,175.00
+1794,Playa,Camping en el bosque,108.00
+1795,Ciudad,Visita a un museo,74.00
+1796,Ciudad,Caminata en el parque,136.00
+1797,Montana,Visita a un parque de diversiones,110.00
+1798,Montana,Paseo en bicicleta,120.00
+1799,Ciudad,Taller de cocina,118.00
+1800,Montana,Area de juegos,261.00
+1801,Ciudad,Picnic en la playa,310.00
+1802,Ciudad,Paseo en bicicleta,146.00
+1803,Playa,Excursion a la montana,99.00
+1804,Playa,Excursion a la montana,272.00
+1805,Playa,Visita a un museo,159.00
+1806,Playa,Clases de baile,271.00
+1807,Ciudad,Camping en el bosque,195.00
+1808,Playa,Picnic en la playa,148.00
+1809,Montana,Camping en el bosque,163.00
+1810,Montana,Dia de spa,67.00
+1811,Montana,Camping en el bosque,356.00
+1812,Ciudad,Concierto al aire libre,112.00
+1813,Playa,Concierto al aire libre,186.00
+1814,Montana,Caminata en el parque,130.00
+1815,Ciudad,Taller de cocina,128.00
+1816,Montana,Visita a un parque de diversiones,222.00
+1817,Playa,Picnic en la playa,172.00
+1818,Playa,Excursion a la montana,173.00
+1819,Ciudad,Caminata en el parque,358.00
+1820,Montana,Clases de baile,120.00
+1821,Playa,Paseo en bicicleta,297.00
+1822,Ciudad,Paseo en bicicleta,249.00
+1823,Ciudad,Picnic en la playa,0.00
+1824,Montana,Excursion a la montana,213.00
+1825,Montana,Visita a un parque de diversiones,264.00
+1826,Ciudad,Visita a un parque de diversiones,353.00
+1827,Playa,Dia de spa,231.00
+1828,Ciudad,Taller de cocina,253.00
+1829,Playa,Visita a un museo,343.00
+1830,Ciudad,Clases de baile,241.00
+1831,Montana,Taller de cocina,212.00
+1832,Montana,Karaoke night,253.00
+1833,Ciudad,Camping en el bosque,329.00
+1834,Ciudad,Visita a un museo,259.00
+1835,Montana,Tour en barco,346.00
+1836,Ciudad,Partido de futbol,151.00
+1837,Playa,Camping en el bosque,323.00
+1838,Montana,Karaoke night,261.00
+1839,Montana,Concierto al aire libre,109.00
+1840,Montana,Karaoke night,295.00
+1841,Ciudad,Tour en barco,295.00
+1842,Playa,Excursion a la montana,148.00
+1843,Playa,Taller de cocina,277.00
+1844,Playa,Area de juegos,181.00
+1845,Ciudad,Excursion a la montana,144.00
+1846,Ciudad,Partido de futbol,172.00
+1847,Montana,Excursion a la montana,287.00
+1848,Ciudad,Picnic en la playa,103.00
+1849,Montana,Tour en barco,299.00
+1850,Ciudad,Karaoke night,183.00
+1851,Playa,Karaoke night,273.00
+1852,Montana,Visita a un museo,116.00
+1853,Playa,Concierto al aire libre,148.00
+1854,Montana,Picnic en la playa,114.00
+1855,Playa,Visita a un museo,116.00
+1856,Playa,Caminata en el parque,276.00
+1857,Ciudad,Karaoke night,193.00
+1858,Montana,Concierto al aire libre,112.00
+1859,Playa,Clases de baile,193.00
+1860,Montana,Clases de baile,140.00
+1861,Playa,Karaoke night,90.00
+1862,Ciudad,Visita a un museo,208.00
+1863,Playa,Taller de cocina,304.00
+1864,Montana,Karaoke night,127.00
+1865,Ciudad,Excursion a la montana,116.00
+1866,Montana,Picnic en la playa,80.00
+1867,Ciudad,Area de juegos,239.00
+1868,Ciudad,Partido de futbol,287.00
+1869,Montana,Area de juegos,364.00
+1870,Playa,Paseo en bicicleta,0.00
+1871,Ciudad,Concierto al aire libre,316.00
+1872,Ciudad,Concierto al aire libre,196.00
+1873,Playa,Concierto al aire libre,231.00
+1874,Montana,Tour en barco,95.00
+1875,Ciudad,Excursion a la montana,175.00
+1876,Playa,Excursion a la montana,97.00
+1877,Playa,Partido de futbol,121.00
+1878,Ciudad,Visita a un museo,99.00
+1879,Ciudad,Tour en barco,115.00
+1880,Montana,Caminata en el parque,264.00
+1881,Montana,Caminata en el parque,348.00
+1882,Montana,Caminata en el parque,333.00
+1883,Playa,Picnic en la playa,240.00
+1884,Playa,Concierto al aire libre,51.00
+1885,Playa,Partido de futbol,74.00
+1886,Montana,Visita a un parque de diversiones,77.00
+1887,Montana,Partido de futbol,0.00
+1888,Montana,Excursion a la montana,237.00
+1889,Playa,Visita a un museo,309.00
+1890,Ciudad,Picnic en la playa,278.00
+1891,Playa,Camping en el bosque,225.00
+1892,Playa,Visita a un parque de diversiones,357.00
+1893,Montana,Visita a un parque de diversiones,216.00
+1894,Ciudad,Excursion a la montana,343.00
+1895,Montana,Clases de baile,219.00
+1896,Playa,Karaoke night,166.00
+1897,Playa,Taller de cocina,247.00
+1898,Montana,Clases de baile,181.00
+1899,Playa,Partido de futbol,358.00
+1900,Ciudad,Picnic en la playa,99.00
+1901,Ciudad,Dia de spa,323.00
+1902,Playa,Taller de cocina,361.00
+1903,Ciudad,Area de juegos,99.00
+1904,Montana,Picnic en la playa,280.00
+1905,Montana,Excursion a la montana,132.00
+1906,Playa,Tour en barco,317.00
+1907,Ciudad,Taller de cocina,193.00
+1908,Playa,Area de juegos,245.00
+1909,Ciudad,Taller de cocina,360.00
+1910,Playa,Paseo en bicicleta,129.00
+1911,Ciudad,Paseo en bicicleta,0.00
+1912,Ciudad,Dia de spa,293.00
+1913,Montana,Visita a un parque de diversiones,56.00
+1914,Ciudad,Caminata en el parque,258.00
+1915,Ciudad,Excursion a la montana,173.00
+1916,Montana,Area de juegos,338.00
+1917,Montana,Karaoke night,96.00
+1918,Playa,Visita a un parque de diversiones,340.00
+1919,Montana,Paseo en bicicleta,304.00
+1920,Ciudad,Taller de cocina,238.00
+1921,Playa,Camping en el bosque,125.00
+1922,Ciudad,Partido de futbol,127.00
+1923,Ciudad,Partido de futbol,260.00
+1924,Playa,Dia de spa,234.00
+1925,Playa,Picnic en la playa,300.00
+1926,Montana,Camping en el bosque,160.00
+1927,Montana,Paseo en bicicleta,180.00
+1928,Ciudad,Tour en barco,243.00
+1929,Ciudad,Camping en el bosque,168.00
+1930,Playa,Dia de spa,105.00
+1931,Ciudad,Karaoke night,174.00
+1932,Ciudad,Camping en el bosque,272.00
+1933,Playa,Caminata en el parque,158.00
+1934,Ciudad,Camping en el bosque,116.00
+1935,Playa,Paseo en bicicleta,283.00
+1936,Ciudad,Partido de futbol,310.00
+1937,Playa,Paseo en bicicleta,124.00
+1938,Montana,Partido de futbol,350.00
+1939,Ciudad,Dia de spa,220.00
+1940,Ciudad,Karaoke night,244.00
+1941,Montana,Concierto al aire libre,252.00
+1942,Montana,Karaoke night,203.00
+1943,Montana,Excursion a la montana,333.00
+1944,Ciudad,Picnic en la playa,354.00
+1945,Ciudad,Area de juegos,354.00
+1946,Montana,Clases de baile,337.00
+1947,Ciudad,Karaoke night,220.00
+1948,Playa,Concierto al aire libre,331.00
+1949,Ciudad,Visita a un museo,229.00
+1950,Ciudad,Picnic en la playa,350.00
+1951,Playa,Picnic en la playa,72.00
+1952,Playa,Visita a un museo,362.00
+1953,Playa,Visita a un museo,73.00
+1954,Montana,Clases de baile,178.00
+1955,Ciudad,Paseo en bicicleta,91.00
+1956,Montana,Visita a un museo,141.00
+1957,Montana,Taller de cocina,350.00
+1958,Montana,Camping en el bosque,77.00
+1959,Montana,Picnic en la playa,289.00
+1960,Playa,Clases de baile,288.00
+1961,Ciudad,Visita a un parque de diversiones,260.00
+1962,Montana,Taller de cocina,58.00
+1963,Playa,Excursion a la montana,109.00
+1964,Ciudad,Tour en barco,52.00
+1965,Montana,Visita a un museo,60.00
+1966,Playa,Visita a un parque de diversiones,282.00
+1967,Ciudad,Caminata en el parque,360.00
+1968,Ciudad,Camping en el bosque,198.00
+1969,Montana,Karaoke night,360.00
+1970,Montana,Partido de futbol,109.00
+1971,Ciudad,Picnic en la playa,336.00
+1972,Playa,Partido de futbol,83.00
+1973,Ciudad,Caminata en el parque,83.00
+1974,Playa,Area de juegos,361.00
+1975,Playa,Camping en el bosque,153.00
+1976,Ciudad,Clases de baile,179.00
+1977,Montana,Visita a un museo,274.00
+1978,Ciudad,Visita a un parque de diversiones,104.00
+1979,Playa,Area de juegos,164.00
+1980,Playa,Partido de futbol,96.00
+1981,Montana,Dia de spa,123.00
+1982,Playa,Clases de baile,297.00
+1983,Ciudad,Excursion a la montana,160.00
+1984,Montana,Caminata en el parque,286.00
+1985,Montana,Picnic en la playa,50.00
+1986,Ciudad,Caminata en el parque,77.00
+1987,Playa,Excursion a la montana,91.00
+1988,Playa,Dia de spa,261.00
+1989,Playa,Dia de spa,118.00
+1990,Playa,Dia de spa,243.00
+1991,Ciudad,Visita a un museo,192.00
+1992,Playa,Caminata en el parque,236.00
+1993,Ciudad,Picnic en la playa,130.00
+1994,Playa,Partido de futbol,251.00
+1995,Playa,Paseo en bicicleta,85.00
+1996,Playa,Partido de futbol,105.00
+1997,Playa,Tour en barco,315.00
+1998,Montana,Paseo en bicicleta,363.00
+1999,Ciudad,Visita a un museo,360.00
+2000,Montana,Visita a un museo,81.00

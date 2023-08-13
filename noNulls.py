@@ -23,7 +23,7 @@ def process_all_csv_files(input_folder, output_folder):
             remove_rows_with_nulls(input_csv_path, output_csv_path)
 
 if __name__ == "__main__":
-    input_folder = 'processed_csv'  # Replace with your input folder containing CSV files
-    output_folder = 'no_nulls_csv'  # Replace with the desired output folder
+    input_folder = 'csv-depurado'  # Replace with your input folder containing CSV files
+    output_folder = 'depurado-Sin_nulos'  # Replace with the desired output folder
 
     process_all_csv_files(input_folder, output_folder)

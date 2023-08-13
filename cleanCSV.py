@@ -38,7 +38,7 @@ def process_all_csv_files(input_folder, output_folder):
             process_csv(input_csv_path, output_csv_path)
 
 if __name__ == "__main__":
-    input_folder = 'output_csv'  # Replace with your input folder containing CSV files
-    output_folder = 'processed_csv'  # Replace with the desired output folder
+    input_folder = 'DB-a-csv'  # Replace with your input folder containing CSV files
+    output_folder = 'csv-depurado'  # Replace with the desired output folder
 
     process_all_csv_files(input_folder, output_folder)
