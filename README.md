@@ -1,4 +1,18 @@
-# Data-Warehouse
+# Data-Warehouse Grupo 2
+
+'''
+Integrantes:
+
+Esquivel Luis
+Montoya Uveda María
+Navarro Chaves María José
+Orozco Rojas Bryan
+Vargas Vásquez Kennia
+
+Profesor: Ing. Marvin Solano Campos
+
+II CUATRIMESTRE 2023
+'''
 
 Estos scripts permiten descargar información desde bases de datos, aplicar procesos de limpieza y transformación, y finalmente cargar los datos procesados en una nueva base de datos
 
